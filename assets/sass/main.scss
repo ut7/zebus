@@ -1,0 +1,57 @@
+@import url(https://unpkg.com/normalize.css@8.0.1/normalize.css);
+@import url('https://fonts.googleapis.com/css?family=Roboto:300|Sniglet&display=swap');
+@import 'colors.scss';
+
+body {
+  padding: 2rem 4rem;
+  background-color: $background;
+  color: $text;
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  & section {
+    width: 50vw;
+  }
+}
+
+.homepage-header {
+  display: inline-block;
+  padding: 4rem 0 2rem 3rem;
+  width: 35rem;
+  height: 8rem;
+  background: center / contain no-repeat url('../bulle.svg');
+  color: white;
+  font-family: 'Sniglet', cursive;
+
+  & h1 {
+    margin: 0 0 0.5rem 0;
+    font-weight: normal;
+    font-size: 1.95rem;
+  }
+  & span {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 1.6rem;
+  }
+}
+
+.homepage-content {
+  & p {
+    width: 41vw;
+    margin-left: 1.3rem;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.13rem;
+    line-height: 1.35rem;
+    text-align: justify;
+    & strong {
+      font-weight: 700;
+    }
+  }
+}
