@@ -55,3 +55,50 @@ main {
     }
   }
 }
+
+.brochures {
+  display: flex;
+  flex-direction: row;
+
+  width: 92%;
+  margin: auto 0 2rem auto;
+}
+
+#adultes { margin-right: 3rem !important; }
+
+#adultes,#enfants {
+  width: 50%;
+  height: 400px;
+  margin: auto 0 2rem auto;
+  & img { width: 100%; }
+  & button {
+    border: none;
+    padding: 0.5rem;
+    margin-top: 1rem;
+    width: 100%;
+    color: white;
+    background-color: red;
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  margin: auto 0 auto auto;
+  width: 40vw;
+  & p {
+    width: 6.3rem;
+    margin: 1rem;
+  }
+}
+
+#foot-text {
+  position: absolute;
+  top: 139vh;
+
+  padding: 0 5rem;
+  text-align: justify;
+}
