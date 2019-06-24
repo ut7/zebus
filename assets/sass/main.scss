@@ -1,33 +1,43 @@
 @import url(https://unpkg.com/normalize.css@8.0.1/normalize.css);
 @import url('https://fonts.googleapis.com/css?family=Roboto:300|Sniglet&display=swap');
 @import 'colors.scss';
+@import 'mixins.scss';
 
 body {
-  padding: 2rem 4rem;
+  padding: 1rem;
   background-color: $background;
   color: $text;
   font-family: 'Roboto', sans-serif;
+  @include breakpoint(desktop) {
+    padding: 2rem;
+  }
 }
 
 main {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   & section {
-    width: 50vw;
+    width: 100%;
+  }
+
+  @include breakpoint(desktop) {
+    flex-direction: row;
+    & section {
+      width: 50%;
+    }
   }
 }
 
 .homepage-header {
+  border-radius: 20px;
   display: inline-block;
-  padding: 4rem 0 2rem 3rem;
-  width: 35rem;
-  height: 8rem;
-  background: center / contain no-repeat url('../bulle.svg');
+  padding: 1rem;
+  background-color: $primary;
   color: white;
   font-family: 'Sniglet', cursive;
 
   & h1 {
-    margin: 0 0 0.5rem 0;
+    margin: 0 0 0.5rem;
     font-weight: normal;
     font-size: 1.95rem;
   }
@@ -41,9 +51,7 @@ main {
 
 .homepage-content {
   & p {
-    width: 41vw;
-    margin-left: 1.3rem;
-
+    padding: 0 1rem;
     font-family: Roboto;
     font-style: normal;
     font-weight: 300;
@@ -54,22 +62,36 @@ main {
       font-weight: 700;
     }
   }
+  @include breakpoint(desktop) {
+    width: 95%;
+    margin-top: 2rem;
+  }
 }
 
 .brochures {
   display: flex;
   flex-direction: row;
 
-  width: 92%;
-  margin: auto 0 2rem auto;
+  width: 90%;
+  margin: 1rem auto 0 auto;
+  @include breakpoint(desktop) {
+    margin: auto;
+  }
+  @include breakpoint(mobileonly) {
+    flex-direction: column;
+  }
 }
 
-#adultes { margin-right: 3rem !important; }
+#adultes {
+  @include breakpoint(mobileonly) {
+    margin-bottom: 3rem;
+  }
+  @include breakpoint(phablet) {
+    margin-right: 3rem;
+  }
+}
 
 #adultes,#enfants {
-  width: 50%;
-  height: 400px;
-  margin: auto 0 2rem auto;
   & img { width: 100%; }
   & button {
     border: none;
@@ -82,23 +104,35 @@ main {
     font-weight: 700;
     text-transform: uppercase;
   }
+  @include breakpoint(desktop) { width: 17rem; }
+  @include breakpoint(phablet) {
+    width: 46%;
+  }
 }
 
 .columns {
   display: flex;
   flex-direction: row;
-  margin: auto 0 auto auto;
-  width: 40vw;
+  flex-wrap: wrap;
+  margin-top: 1rem;
   & p {
-    width: 6.3rem;
+    padding: 1rem;
     margin: 1rem;
+    text-align: justify;
+    @include breakpoint(desktop) {
+      width: 6rem !important;
+    }
+    @include breakpoint(phablet) {
+      width: 7.5rem;
+    }
+    @include breakpoint(mobileonly) {
+      width: calc(90% / 2.32);
+      margin: 0;
+    }
   }
 }
 
 #foot-text {
-  position: absolute;
-  top: 139vh;
-
-  padding: 0 5rem;
+  padding: 0 1rem;
   text-align: justify;
 }
