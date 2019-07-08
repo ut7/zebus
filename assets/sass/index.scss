@@ -116,7 +116,11 @@ main {
   margin-top: 0.5rem;
   & p {
     padding: 1rem;
-    margin: 1rem;
+    margin: 0.5rem;
+
+    img { margin-top: 1rem; }
+    #premier-logo { width: 6rem; };
+    #second-logo { width: 10rem; }
     @include breakpoint(desktop) {
       width: 6rem !important;
     }
