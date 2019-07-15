@@ -36,3 +36,5 @@ fields:
       format: markdown
   label: Texte de la première section
   description: Le texte de la première section
+pages:
+- content/test.md
