@@ -1,5 +1,5 @@
 ---
-label: Brochure Adulte
+label: Adultes
 hide_body: true
 fields:
 - name: titre
@@ -31,7 +31,7 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
   label: Texte de la première section
