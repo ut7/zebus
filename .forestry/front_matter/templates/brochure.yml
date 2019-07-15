@@ -1,4 +1,38 @@
 ---
-label: Brochure
+label: Brochure Adulte
 hide_body: true
-fields: []
+fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: Le titre de la page
+- name: premiere_image
+  type: file
+  config:
+    maxSize: 250
+  label: Première Image
+  description: La première image de la brochure
+- name: indicateur_section_1
+  type: file
+  config:
+    maxSize: 250
+  label: Indicateur de la première section
+  description: L'indicateur de la première section
+- name: titre_section_1
+  type: text
+  config:
+    required: false
+  label: Titre de la première section
+  description: Le titre de la première section
+- name: texte_section_1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Texte de la première section
+  description: Le texte de la première section
