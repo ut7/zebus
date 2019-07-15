@@ -3,11 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ut7.github.io/zebus/adultes/</loc>
+    <loc>/adultes/</loc>
   </url>
   
   <url>
-    <loc>https://ut7.github.io/zebus/</loc>
+    <loc>/enfants/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
 </urlset>

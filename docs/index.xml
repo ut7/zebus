@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Les agressions sexuelles envers les enfants on Zébus</title>
-    <link>https://ut7.github.io/zebus/</link>
+    <link>/</link>
     <description>Recent content in Les agressions sexuelles envers les enfants on Zébus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://ut7.github.io/zebus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
