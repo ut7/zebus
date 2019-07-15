@@ -37,4 +37,4 @@ fields:
   label: Texte de la première section
   description: Le texte de la première section
 pages:
-- content/brochure-adultes.md
+- content/adultes.md
