@@ -26,3 +26,5 @@ fields:
     min: 
     max: 
   description: Les section de la brochure
+pages:
+- content/brochure/adultes.md
