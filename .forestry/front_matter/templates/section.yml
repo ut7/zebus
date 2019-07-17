@@ -2,6 +2,12 @@
 label: Section
 hide_body: true
 fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: Le titre de la section
 - name: image
   type: file
   config:
@@ -14,12 +20,6 @@ fields:
     maxSize: 250
   label: Icône
   description: L'icone au-dessus du titre
-- name: titre
-  type: text
-  config:
-    required: false
-  label: Titre
-  description: Le titre de la section
 - name: text
   type: textarea
   default: ''
