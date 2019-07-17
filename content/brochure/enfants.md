@@ -18,5 +18,50 @@ image = "/uploads/enfants-02.png"
 question = "Si une inconnue te propose de t'emmener en voiture en disant qu'elle vient de la part de tes parents ..."
 reponses = ["Tu refuses et tu continues ton chemin même si elle insiste.", "Tu te demandes si elle dit vrai et tu discutes avec elle.", "Tu montes dans sa voiture pour arriver plus vite chez toi."]
 template = "question"
+[[questions]]
+image = ""
+question = ""
+reponses = []
+template = "question"
+[[questions]]
+image = "/uploads/enfants-03.png"
+question = "Si un grand menace de te frapper parce que tu ne fais pas ce qu'il te demande"
+reponses = ["Tu hésites à lui obéir parce qu’il te dit que c’est la dernière fois.", "Tu lui obéis, et tu ne dis rien à personne parce que tu as trop peur.", "Tu en parles à quelqu’un pour qu’il ne recom- mence plus et ne s’attaque pas à d’autres."]
+template = "question"
+[[questions]]
+image = ""
+question = ""
+reponses = []
+template = "question"
+[[questions]]
+image = ""
+question = ""
+reponses = []
+template = "question"
+[[questions]]
+image = ""
+question = ""
+reponses = []
+template = "question"
+[[questions]]
+image = ""
+question = ""
+reponses = []
+template = "question"
+[[questions]]
+image = ""
+question = ""
+reponses = []
+template = "question"
+[[questions]]
+image = ""
+question = ""
+reponses = []
+template = "question"
+[[questions]]
+image = ""
+question = ""
+reponses = []
+template = "question"
 
 +++
