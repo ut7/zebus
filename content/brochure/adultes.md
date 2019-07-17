@@ -1,4 +1,6 @@
 ---
+type: brochure
+layout: adultes
 title: Brochure Adultes
 ---
 
