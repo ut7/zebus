@@ -13,5 +13,10 @@ image = "/uploads/enfants-01.png"
 question = "Si un voisin te demande de venir voir ses petits chats chez lui ..."
 reponses = ["Tu y vas, tu adores les chats.", "Tu hésites parce que tu ne le connais pas.", "Tu dis non parce que tes parents ne sauront pas où tu es."]
 template = "question"
+[[questions]]
+image = "/uploads/enfants-02.png"
+question = "Si une inconnue te propose de t'emmener en voiture en disant qu'elle vient de la part de tes parents ..."
+reponses = ["Tu refuses et tu continues ton chemin même si elle insiste.", "Tu te demandes si elle dit vrai et tu discutes avec elle.", "Tu montes dans sa voiture pour arriver plus vite chez toi."]
+template = "question"
 
 +++
