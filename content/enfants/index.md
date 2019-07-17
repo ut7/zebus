@@ -1,5 +1,4 @@
 +++
-draft = true
 icone_zebus = "/uploads/zebus.png"
 image_premiere_question = ""
 introduction = ""
