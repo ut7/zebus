@@ -1,7 +1,9 @@
-<img src="/zebus{{ .image }}">
-<h1>{{ .question }}</h1>
-<ul>
-  {{ range .reponses }}
-    <li>{{ . }}</li>
-  {{ end }}
-</ul>
+<div class="question">
+  <img class="image" src="/zebus{{ .image }}">
+  <h1 class="titre">{{ .question }}</h1>
+  <ul class="reponses">
+    {{ range .reponses }}
+      <li>{{ . }}</li>
+    {{ end }}
+  </ul>
+</div>
