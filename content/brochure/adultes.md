@@ -2,8 +2,9 @@
 type: brochure
 layout: adultes
 title: Brochure Adultes
----
+premiere_image: "/uploads/adultes-01.png"
 
+---
 ![img](./adultes-01.png)
 
 ![zebus](./zebus.png)
