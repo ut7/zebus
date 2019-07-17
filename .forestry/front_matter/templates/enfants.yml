@@ -50,5 +50,3 @@ fields:
     max: 
   label: Réponses
   description: Les réponses
-pages:
-- content/enfants/index.md
