@@ -8,5 +8,10 @@ reponses = ["Tu y vas, tu adores les chats.", "Tu hésites parce que tu ne le co
 sous_titre = "Un enfant averti sait se protéger !"
 titre = "Passe ton permis de prudence"
 type = "brochure"
+[[questions]]
+image = "/uploads/enfants-01.png"
+question = "Si un voisin te demande de venir voir ses petits chats chez lui ..."
+reponses = ["Tu y vas, tu adores les chats.", "Tu hésites parce que tu ne le connais pas.", "Tu dis non parce que tes parents ne sauront pas où tu es."]
+template = "question"
 
 +++
