@@ -2,7 +2,7 @@
 
 {{ define "main" }}
   <section class="brochure enfants">
-    {{ .Params.Icone }}
+    <img src="/zebus{{ .Params.Icone_zebus }}">
     <h1 class="titre">{{ .Params.Titre }}</h1>
     <p>{{ .Params.Introduction | markdownify }}</p>
     <h2>{{ .Params.Sous_titre }}</h2>
