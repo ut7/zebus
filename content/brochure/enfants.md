@@ -6,7 +6,7 @@ layout = "enfants"
 premiere_question = ""
 reponses = []
 sous_titre = "Un enfant averti sait se protéger !"
-titre = "Passe ton permis de prudenc"
+titre = "Passe ton permis de prudence"
 type = "brochure"
 [[questions]]
 image = "/uploads/enfants-01.png"
