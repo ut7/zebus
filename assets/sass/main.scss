@@ -1,8 +1,8 @@
 @import url(https://unpkg.com/normalize.css@8.0.1/normalize.css);
-@import url('https://fonts.googleapis.com/css?family=Roboto:300|Sniglet&display=swap');
 @import 'colors.scss';
 @import 'index.scss';
 @import 'brochure.scss';
+@import 'fonts.scss';
 
 body {
   padding: 1rem;
@@ -12,4 +12,9 @@ body {
   @include breakpoint(desktop) {
     padding: 2rem;
   }
+}
+
+p {
+  font-family: DINPro;
+  & strong { font-family: DINPro-Bold; }
 }

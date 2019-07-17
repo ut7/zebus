@@ -1,0 +1,8 @@
+@import 'mixins.scss';
+
+@include font-face(Amandine, /zebus/uploads/Amandine, null, null, ttf);
+@include font-face("Beautiful Heartbeat", /zebus/uploads/BeautifulHeartbeat, null, null, otf);
+@include font-face(DINPro, /zebus/uploads/DINPro, null, null, otf);
+@include font-face(DINPro-Bold, /zebus/uploads/DINPro-Bold, Bold, null, otf);
+@include font-face(DINPro-Light, /zebus/uploads/DINPro-Light, Normal, null, otf);
+@include font-face(DINPro-Medium, /zebus/uploads/DINPro-Medium, Medium, null, otf);
