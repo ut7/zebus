@@ -1,7 +1,7 @@
 +++
 icone_zebus = "/uploads/zebus.png"
 image_premiere_question = ""
-introduction = "Il y a autour de toi plein de personnes qui t’aiment et te protègent. Mais **tu peux rencontrer des gens qui ne respectent pas les enfants et font semblant de les aimer pour profiter d’eux. Heureusement, il n’y en a pas beaucoup.** Mais si jamais tu en rencontres, alors il faut vite demander de l’aide, ne jamais croire que c’est de ta faute et surtout dire non, non et non ! **Passe ton permis de prudence** en répondant aux questions du test, pour voir si tu sais éviter les situations dangereuses et **découvre ton résultat en page 14.**"
+introduction = "<p>Il y a autour de toi plein de personnes qui t’aiment et te protègent. Mais <strong>tu peux rencontrer des gens qui ne respectent pas les enfants et font semblant de les aimer pour profiter d’eux. Heureusement, il n’y en a pas beaucoup. </strong>Mais si jamais tu en rencontres, alors il faut vite demander de l’aide, ne jamais croire que c’est de ta faute et surtout dire non, non et non ! <strong>Passe ton permis de prudence</strong> en répondant aux questions du test, pour voir si tu sais éviter les situations dangereuses et<strong> découvre ton résultat en page 14.</strong></p>"
 layout = "enfants"
 premiere_question = ""
 reponses = []
