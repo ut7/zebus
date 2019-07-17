@@ -55,5 +55,3 @@ fields:
     max: 
   label: Questions
   description: Les question
-pages:
-- content/brochure/enfants.md
