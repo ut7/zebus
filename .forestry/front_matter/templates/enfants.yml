@@ -50,6 +50,3 @@ fields:
     max: 
   label: Réponses
   description: Les réponses
-pages:
-- content/file.md
-- content/enfants.md
