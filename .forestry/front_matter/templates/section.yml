@@ -1,4 +1,32 @@
 ---
 label: section
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  description: L'image de la section
+- name: icone
+  type: file
+  config:
+    maxSize: 250
+  label: Icône
+  description: L'icone au-dessus du titre
+- name: titre
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: Le titre de la section
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Texte
+  description: Le texte dans la section
