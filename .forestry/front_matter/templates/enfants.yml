@@ -66,5 +66,13 @@ fields:
     max: 
   label: Réponses
   description: Les réponses
+- name: questions
+  type: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  label: Questions
+  description: Les question
 pages:
 - content/brochure/enfants.md
