@@ -1,4 +1,24 @@
 ---
 label: Question
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  description: L'image de la question
+- name: question
+  type: text
+  config:
+    required: false
+  label: Question
+  description: La question
+- name: reponses
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Réponses
+  description: Les réponses
