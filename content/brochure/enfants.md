@@ -1,4 +1,6 @@
 +++
+type = "brochure"
+layout = "enfants"
 icone_zebus = "/uploads/zebus.png"
 image_premiere_question = ""
 introduction = ""
