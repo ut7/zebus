@@ -1,0 +1,7 @@
+<img src="{{ .image }}">
+<h1>{{ .question }}</h1>
+<ul>
+  {{ range .reponses }}
+    <li>{{ . }}</li>
+  {{ end }}
+</ul>

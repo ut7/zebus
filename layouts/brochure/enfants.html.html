@@ -2,6 +2,12 @@
 
 {{ define "main" }}
   <section class="brochure enfants">
+    {{ .Params.Icone }}
     <h1 class="titre">{{ .Params.Titre }}</h1>
+    <p>{{ .Params.Introduction }}</p>
+    <h2>{{ .Params.Sous_titre }}</h2>
+    {{ range .Params.questions }}
+      {{ partial "blocks/question" . }}
+    {{ end }}
   </section>
 {{ end }}
