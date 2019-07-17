@@ -1,4 +1,52 @@
 ---
 label: Enfants
 hide_body: true
-fields: []
+fields:
+- name: icone_zebus
+  type: file
+  config:
+    maxSize: 250
+  label: Icône zebus
+  description: l'icon du zebus
+- name: titre
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: Le titre de la brochure
+- name: introduction
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Introduction
+  description: L'introduction de la brochure
+- name: sous_titre
+  type: text
+  config:
+    required: false
+  label: Sous-titre
+  description: Le sous-titre de la brochure
+- name: image_premiere_question
+  type: file
+  config:
+    maxSize: 250
+  label: Première Image
+  description: L'image de la première question
+- name: premiere_question
+  type: text
+  config:
+    required: false
+  label: Première question
+  description: La première question
+- name: reponses
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Réponses
+  description: Les réponses
