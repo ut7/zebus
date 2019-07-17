@@ -68,7 +68,8 @@ fields:
   description: Les réponses
 - name: questions
   type: blocks
-  template_types: []
+  template_types:
+  - question
   config:
     min: 
     max: 
