@@ -46,26 +46,6 @@ fields:
     required: false
   label: Sous-titre
   description: Le sous-titre de la brochure
-- name: image_premiere_question
-  type: file
-  config:
-    maxSize: 250
-  label: Première Image
-  description: L'image de la première question
-- name: premiere_question
-  type: text
-  config:
-    required: false
-  label: Première question
-  description: La première question
-- name: reponses
-  type: list
-  config:
-    use_select: false
-    min: 
-    max: 
-  label: Réponses
-  description: Les réponses
 - name: questions
   type: blocks
   template_types:
