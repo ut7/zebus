@@ -63,5 +63,7 @@ image = "/uploads/enfants-11.png"
 question = "Si à la fin de la compétition, l'entraîneur te serre dans ses bras pour te féliciter ..."
 reponses = ["Tu pars en courant avec des hurlements !", "Tu te demandes s’il faut se méfier même d’un geste très amical.", "Tu trouves ça gentil, agréable et normal. Et ce n’est pas en cachette !"]
 template = "question"
+[[section]]
+template = "section"
 
 +++
