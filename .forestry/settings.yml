@@ -4,13 +4,17 @@ auto_deploy: true
 admin_path: ''
 webhook_url: 
 sections:
-- type: heading
-  label: Contenu
 - type: directory
   path: content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
+  templates:
+  - brochure
+  - question
+  - enfants
+- type: heading
+  label: Contenu
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
