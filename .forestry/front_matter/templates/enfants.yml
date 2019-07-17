@@ -37,7 +37,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: html
+      format: markdown
   label: Introduction
   description: L'introduction de la brochure
 - name: sous_titre
