@@ -2,6 +2,22 @@
 label: Enfants
 hide_body: true
 fields:
+- name: type
+  type: text
+  config:
+    required: true
+  hidden: true
+  label: Type
+  description: Le type de la page
+  default: brochure
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  description: Le template à utiliser
+  hidden: true
+  default: enfants
 - name: icone_zebus
   type: file
   config:
