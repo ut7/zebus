@@ -37,7 +37,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html
   label: Introduction
   description: L'introduction de la brochure
 - name: sous_titre
@@ -55,5 +55,3 @@ fields:
     max: 
   label: Questions
   description: Les question
-pages:
-- content/brochure/enfants.md
