@@ -27,7 +27,7 @@ build:
   - HUGO_ENV=production
   - HUGO_VERSION=0.55.6
   preview_output_directory: public
-  output_directory: public
+  output_directory: dist
   instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
     -d public
   preview_docker_image: forestryio/hugo:latest
