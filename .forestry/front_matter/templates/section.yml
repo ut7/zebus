@@ -3,6 +3,12 @@ label: Section
 hide_body: true
 display_field: titre
 fields:
+- name: icone
+  type: file
+  config:
+    maxSize: 250
+  label: Icône
+  description: L'icone au-dessus du titre
 - name: titre
   type: text
   config:
@@ -15,12 +21,6 @@ fields:
     maxSize: 250
   label: Image
   description: L'image de la section
-- name: icone
-  type: file
-  config:
-    maxSize: 250
-  label: Icône
-  description: L'icone au-dessus du titre
 - name: text
   type: textarea
   default: ''
@@ -28,6 +28,6 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: html-blocks
+      format: markdown
   label: Texte
   description: Le texte dans la section
