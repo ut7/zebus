@@ -126,9 +126,18 @@ sections:
     **« Il y a des caresses permises et des caresses défendues...** Il y a des caresses qui font plaisir et qui sont agréables mais il y en a d’autres qui sont bizarres, qui font peur. Les adultes n’ont pas le droit de passer la main sous tes vêtements et s’approcher de ton sexe, de toucher tes seins ou tes fesses ! »
 
     **« Il y a des bons et des mauvais secrets...** Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les enfants ne devraient pas avoir des secrets lourds à porter. Si on t’impose un secret, qu’on te menace ou qu’on te fait du chantage, il faut que tu en parles à quelqu’un, même si tu avais promis de ne rien dire au début ! »
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: |-
+    ##### GRÂCE À MA BOUSSOLE, JE TROUVE LE BON CHEMIN !
+
+    Si quelqu’un lui demande de le suivre, dites-lui qu’il doit se poser ces trois questions :
+
+    1. Est-ce que tu as envie de dire « oui » ou « non » à cette proposition ?
+    2. Est-ce que tes parents sauront où tu es, si tu acceptes ?
+    3. Est-ce que quelqu’un viendra à ton aide, si tu en as besoin ?
+
+    S’il répond Non à une seule question, il ne doit pas accepter de le suivre.
 - template: section
   image: "/uploads/adultes-06.png"
   titre: l'aider à être prudent sur internet
