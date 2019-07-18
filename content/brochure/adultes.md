@@ -22,5 +22,11 @@ section:
     n’a pas le droit de lui faire ça, qui que ce soit !</p><p><strong>En sachant ce
     qu’est une agression sexuelle on reconnaît mieux les situations normales et les
     abus.</strong></p>"
+sections:
+- template: section
+  titre: Pourquoi parler des abus sexuels ?
+  image: "/uploads/adultes-01.png"
+  icone: "/uploads/zebus.png"
+  text: ''
 
 ---
