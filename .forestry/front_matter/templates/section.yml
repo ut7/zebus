@@ -9,6 +9,22 @@ fields:
     maxSize: 250
   label: Image
   description: L'image de la section
+- name: bulle
+  type: file
+  config:
+    maxSize: 250
+  label: Bulle
+  description: L'image de la bulle à utiliser
+- name: texte-bulle
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Texte de la bulle
+  description: Le texte dans la bulle
 - name: icone
   type: file
   config:
