@@ -150,9 +150,16 @@ sections:
 
     **Que dit la loi ?** Montrer des images pornos à un enfant, détenir ou diffuser des images pédophiles impliquant des jeunes de moins de 18 ans est interdit et puni sévèrement.
   icone: "/uploads/zebus.png"
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: |-
+    ##### POSEZ-LUI DES QUESTIONS !
+
+    « Sais-tu que les images que tu mets en ligne sont accessibles à tous et peuvent être utilisées contre toi ? »
+
+    « Sais-tu que certains jeux vidéos sont interdits aux mineurs à cause de leurs contenus sexuels et qu’ils donnent l’exemple de la prostitution ? »
+
+    « Sais-tu que les images pornos sur Internet, à la télé ou dans les jeux vidéos ne reflètent pas toujours la vraie sexualité ? »
 - template: section
   titre: c'est quoi un abus sexuel ?
   texte: |-
@@ -167,9 +174,12 @@ sections:
     **Les abus sexuels sont-ils uniquement commis par des pédophiles rencontrés dans la rue ?**                                                                                                            NON ! Ces actes sont commis le plus souvent par des hommes proches de l’enfant, même parfois par des adolescents dans le cadre familial ou éducatif. On parle d’inceste pour les abus commis par un membre de la famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
   image: "/uploads/adultes-07.png"
   icone: "/uploads/zebus.png"
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: |-
+    ##### LES ABUS SEXUELS SONT INTERDITS ET PUNIS PAR LA LOI.
+
+    La condamnation est plus sévère quand la victime est un enfant de moins de 15 ans ou si l’agresseur est un parent ou un éducateur qui est une personne ayant autorité sur l’enfant. Pour un crime de viol elle peut aller jusqu’à 20 ans de prison et 150 000 euros d’amende. Pour les agresseurs ou les gens qui ressentent des pulsions pédophiles, il existe des consultations spécialisées pour se soigner.
 - template: section
   titre: comment l aider à sortir du silence ?
   texte: |-
@@ -182,9 +192,12 @@ sections:
     **L’enfant ne s’exprime pas toujours avec des mots.** Son comportement peut être évocateur d’abus sexuels. **Ça peut être un changement brutal dans sa manière d’être** (il n’est plus propre, il dort mal, il n’a plus faim ou il mange trop, il est triste et se dévalorise...) **ou des conduites sexuelles et des mots trop crus qui ne sont pas de son âge.** Parfois, il n’en parle pas tout de suite mais, d’un seul coup et sans raison, il refuse d’aller chez des amis, un voisin ou quelqu’un de la famille. C’est sa façon à lui d’envoyer un signal.
   image: "/uploads/adultes-08.png"
   icone: "/uploads/zebus.png"
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: |-
+    ##### ÉCOUTEZ-LE !
+
+    Quand un enfant vous parle d’une situation évoquant une agression sexuelle, il peut avoir du mal à vous parler des circonstances ou des personnes concernées. Écoutez-le sans le harceler de questions, sans chercher à avoir des détails tout de suite, sans paraître affolé.
 - template: section
   titre: quand l'enfant se confie...
   texte: |-
@@ -197,8 +210,14 @@ sections:
     Ce n’est pas toujours évident de savoir à qui demander des conseils. Le plus compliqué est de faire le premier pas, surtout quand l’agresseur est quelqu’un de la famille. Inutile d’en parler à tout le monde pour respecter la pudeur de l’enfant mais osez en parler à quelqu’un de proche. Ça peut donner des pistes pour trouver de l’aide et vous réconforter... **ne vous découragez pas et surtout ne restez pas seul !**
   image: "/uploads/adultes-09.png"
   icone: "/uploads/zebus.png"
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: "À QU I S’ADRESSER ?\n\nDes professionnels sauront vous écouter et
+    vous orienter :\n\n* votre médecin, votre pédiatre, le médecin des urgences. \n*
+    le centre de consultation médico-psychologique pour enfants.\n* L’antenne du conseil
+    départemental (UTPAS), à la mairie.\n* Les associations de protections de l’enfance.\n*
+    L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière et le
+    médecin scolaire.\n* La brigade des mineurs (police) ou la gendarmerie nationale.\n*
+    Le 119, numéro vert, anonyme et gratuit."
 
 ---
