@@ -18,9 +18,9 @@ fields:
   description: Le template à utiliser
   hidden: true
   default: adultes
-- name: section
+- name: sections
   type: blocks
-  label: Section
+  label: Sections
   template_types:
   - section
   config:
