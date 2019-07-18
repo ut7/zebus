@@ -1,7 +1,9 @@
 {{ define "title" }}{{ "Brochure Adultes" }}{{ end }}
 
 {{ define "main" }}
-  <section id="brochure">
-    {{ .Content }}
-  </section>
+  <main class="brochure adultes">
+    {{ range .Params.questions }}
+      {{ partial "blocks/section" . }}
+    {{ end }}
+  </main>
 {{ end }}

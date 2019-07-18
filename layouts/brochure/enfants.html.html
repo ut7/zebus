@@ -1,7 +1,7 @@
 {{ define "title" }}{{ "Brochure Enfants" }}{{ end }}
 
 {{ define "main" }}
-  <section class="brochure enfants">
+  <main class="brochure enfants">
     <img class="icone" src="/zebus{{ .Params.Icone_zebus }}">
     <h1 class="titre">{{ .Params.Titre }}</h1>
     <p class="intro">{{ .Params.Introduction | markdownify }}</p>
@@ -9,5 +9,5 @@
     {{ range .Params.questions }}
       {{ partial "blocks/question" . }}
     {{ end }}
-  </section>
+  </main>
 {{ end }}
