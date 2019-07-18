@@ -1,5 +1,9 @@
 <section class="section">
   <img class="image" src="/zebus{{ .image }}">
+  <div class="bulle">
+    <img class="bulle-image" src="/zebus{{ .bulle }}">
+    <span class="bulle-texte">{{ .texte_bulle | markdownify }}</span>
+  </div>
   <img class="icone" src="/zebus{{ .icone }}">
   <h1 class="titre">{{ .titre }}</h1>
   <span class="texte"><p>{{ .texte | markdownify }}</p></span>
