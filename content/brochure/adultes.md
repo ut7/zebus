@@ -86,7 +86,7 @@ sections:
     Aidez l’enfant à comprendre la différence des sexes et des générations. Vous pouvez lui parler de la nature, des âges de la vie, des personnes de sa famille : les papas, les mamans, les frères et sœurs, les grands-parents, les beaux-pères, les belles-mères, les demi-frères et les demi-sœurs... les plus jeunes, les plus grands, les ados et les bébés. Si chacun a sa place, l’enfant comprend que chaque âge a ses plaisirs : jouer, travailler à l’école, sortir avec ses copains, avoir un amoureux ou une amoureuse.
 
     On ne doit pas lui demander de se comporter comme un adulte. **On doit le respecter en tant qu’enfant. Ainsi, il pourra plus facilement savoir ce qui est normal et ce qui ne l’est pas.**
-  bulle: "/uploads/bulle-longue.svg"
+  bulle: "/uploads/bulle-section.svg"
   texte-bulle: ''
   texte_bulle: |-
     ##### DES PARENTS, PAS DES COPAINS !
