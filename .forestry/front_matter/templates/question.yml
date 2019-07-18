@@ -24,7 +24,7 @@ fields:
   description: Les réponses
 - name: icone_reponse_1
   type: select
-  default: ''
+  default: cercle
   config:
     required: false
     options:
@@ -38,3 +38,35 @@ fields:
       path: 
   label: Icône de la réponse 1
   description: L'icône devant la réponse 1
+- name: icone_reponse_2
+  type: select
+  default: cercle
+  config:
+    required: false
+    options:
+    - cercle
+    - carré
+    - triangle
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Icône de la réponse 2
+  description: L'icône devant la réponse 2
+- name: icone_reponse_3
+  type: select
+  default: cercle
+  config:
+    required: false
+    options:
+    - cercle
+    - carré
+    - triangle
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Icône de la réponse 3
+  description: L'icône devant la réponse 3
