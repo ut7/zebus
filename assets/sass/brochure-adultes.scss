@@ -1,0 +1,44 @@
+.brochure.adultes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  & .image {
+    display: block;
+    width: 32rem;
+    margin: 0 auto;
+  }
+
+  & .icone {
+    width: 5rem;
+    margin-top: 5rem;
+  }
+
+  & .titre {
+    font-family: Beautiful Heartbeat;
+    font-weight: normal;
+    text-transform: lowercase;
+    font-size: 9rem;
+    line-height: 6rem;
+    margin-top: 2rem;
+  }
+
+  & .texte {
+    font-size: 1.5rem;
+    text-align: justify;
+  }
+
+  & .intro {
+    width: 65rem;
+    margin: 0 auto;
+    padding: 5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    background-image: url(/zebus/uploads/bulle-longue.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #fff;
+  }
+}
+

@@ -1,8 +1,9 @@
 @import url(https://unpkg.com/normalize.css@8.0.1/normalize.css);
 @import 'colors.scss';
-@import 'index.scss';
-@import 'brochure.scss';
 @import 'fonts.scss';
+@import 'index.scss';
+@import 'brochure-enfants.scss';
+@import 'brochure-adultes.scss';
 
 body {
   padding: 1rem;
