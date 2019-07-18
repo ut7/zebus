@@ -28,9 +28,9 @@ fields:
   config:
     required: false
     options:
-    - cercle
     - carré
     - triangle
+    - point
     source:
       type: simple
       section: 
@@ -44,9 +44,9 @@ fields:
   config:
     required: false
     options:
-    - cercle
     - carré
     - triangle
+    - point
     source:
       type: simple
       section: 
@@ -60,9 +60,9 @@ fields:
   config:
     required: false
     options:
-    - cercle
     - carré
     - triangle
+    - point
     source:
       type: simple
       section: 
