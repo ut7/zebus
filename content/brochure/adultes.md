@@ -56,7 +56,7 @@ sections:
 
     **Quand les enfants jouent au docteur,** on voit bien qu’il s’agit d’une curiosité normale si l’ambiance est celle d’un jeu et s’il n’y a ni contrainte ni violence. **Il faut s’inquiéter si un enfant en force un autre et l’oblige à se déshabiller** en prétextant que c’est un jeu.
   titre: parler de sexualité avec l'enfant
-  bulle: "/uploads/bulle-mobile.svg"
+  bulle: "/uploads/bulle-section.svg"
   texte-bulle: "##### **« QUAND JE SERAI GRANDE, JE ME MARIERAI AVEC TOI, PAPA ! »**
     \n\nComment répondre aux enfants ? Profitez de ce genre de phrase pour parler
     de sexualité, de ce qui est permis et interdit entreadultes et enfants. \n\n#####
