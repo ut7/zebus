@@ -2,7 +2,7 @@
 
 {{ define "main" }}
   <main class="brochure adultes">
-    {{ range .Params.questions }}
+    {{ range .Params.sections }}
       {{ partial "blocks/section" . }}
     {{ end }}
   </main>
