@@ -85,19 +85,14 @@ sections:
   image: "/uploads/adultes-05.png"
   icone: "/uploads/zebus.png"
   titre: ce qu'il a besoin d'entendre...
-  texte: "**Pour lui donner des limites claires, vous pouvez lui dire :** \n\n**«
-    Sers-toi de ce que tu ressens...**                                                                            Les
-    sentiments désagréables ou bizarres t’avertissent que quelque chose ne va pas.
-    Tu peux te fier à ce que tu ressens. Tu ne dois pas hésiter à te confier à des
-    adultes jusqu’à ce qu’on te croie... »\n\n**« Il y a des caresses permises et
-    des caresses défendues...** Il y a des caresses qui font plaisir et qui sont agréables
-    mais il y en a d’autres qui sont bizarres, qui font peur. Les adultes n’ont pas
-    le droit de passer la main sous tes vêtements et s’approcher de ton sexe, de toucher
-    tes seins ou tes fesses ! »\n\n**« Il y a des bons et des mauvais secrets...**
-    Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les enfants
-    ne devraient pas avoir des secrets lourds à porter. Si on t’impose un secret,
-    qu’on te menace ou qu’on te fait du chantage, il faut que tu en parles à quelqu’un,
-    même si tu avais promis de ne rien dire au début ! »"
+  texte: |-
+    **Pour lui donner des limites claires, vous pouvez lui dire :**
+
+    **« Sers-toi de ce que tu ressens...** Les sentiments désagréables ou bizarres t’avertissent que quelque chose ne va pas. Tu peux te fier à ce que tu ressens. Tu ne dois pas hésiter à te confier à des adultes jusqu’à ce qu’on te croie... »
+
+    **« Il y a des caresses permises et des caresses défendues...** Il y a des caresses qui font plaisir et qui sont agréables mais il y en a d’autres qui sont bizarres, qui font peur. Les adultes n’ont pas le droit de passer la main sous tes vêtements et s’approcher de ton sexe, de toucher tes seins ou tes fesses ! »
+
+    **« Il y a des bons et des mauvais secrets...** Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les enfants ne devraient pas avoir des secrets lourds à porter. Si on t’impose un secret, qu’on te menace ou qu’on te fait du chantage, il faut que tu en parles à quelqu’un, même si tu avais promis de ne rien dire au début ! »
 - template: section
   image: "/uploads/adultes-06.png"
   titre: l'aider à être prudent sur internet
