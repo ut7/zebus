@@ -41,5 +41,17 @@ sections:
     **Pour l’aider à s’en défendre, il doit savoir que les abus sexuels existent,** qu’il y a des gens malades dans leur tête qui peuvent lui faire du mal en lui faisant subir en cachette des caresses sexuelles qui ne sont pas de son âge. **Contrairement à ce que l’on croit, l’abus vient** rarement de personnes inconnues mais **généralement de gens que l’enfant connaît bien.** C’est important de lui expliquer qu’on n’a pas le droit de lui faire ça, qui que ce soit !
 
     **En sachant ce qu’est une agression sexuelle on reconnaît mieux les situations normales et les abus.**
+- template: section
+  image: "/uploads/adultes-02.png"
+  icone: "/uploads/zebus.png"
+  texte: |-
+    L’éducation sexuelle se fait naturellement au cours de la vie quotidienne. **Laissez-le poser des questions, demandez-lui ce qu’il imagine.**
+
+    La toilette, le bain sont des moments de découverte du corps et de la différence des sexes. C’est normal qu’un enfant soit curieux, cela l’intéresse, **essayez de lui répondre sans gêne !** Expliquez-lui comment son corps fonctionne, que son corps lui appartient, qu’il a droit au respect et à la protection des adultes. Adaptez vos réponses à son âge.
+
+    Documentez-vous sur l’approche de la sexualité chez l’enfant. **Vers 4/5 ans, expliquez-lui que son sexe est un endroit privé,** qu’il ne doit pas le montrer ou le toucher tout le temps, même si c’est agréable. On doit le laver tout seul et on ne s’en sert vraiment que quand on est grand et amoureux...
+
+    **Quand les enfants jouent au docteur,** on voit bien qu’il s’agit d’une curiosité normale si l’ambiance est celle d’un jeu et s’il n’y a ni contrainte ni violence. **Il faut s’inquiéter si un enfant en force un autre et l’oblige à se déshabiller** en prétextant que c’est un jeu.
+  titre: parler de sexualité avec l'enfant
 
 ---
