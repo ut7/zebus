@@ -106,9 +106,14 @@ sections:
     **Donnez-lui des explications simples** sur les situations anormales ou dangereuses. Parlez-lui, par exemple, de la différence entre quelqu’un qui lui fait des caresses en secret et quelqu’un qui le prend dans ses bras devant tout lemonde. **Dites-lui qu’il peut dire " non " ou changer d’avis** si un jeu dérape, si ça va trop loin ou s’il a un doute.
 
     En général, quand vous le sentez triste ou inquiet, **écoutez-le sans reproche pour lui montrer votre confiance.** Intéressez-vous à son point de vue, à ce qu’il pense. **S’il n’a pas peur d’être grondé ou que l’on se moque de lui, il osera parler de ce qui le tracasse.**
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: |-
+    ##### EXPLIQUEZ-LUI CLAIREMENT COMMENT SE PROTÉGER.
+
+    1. Dites-lui qu’il a le droit de refuser les propositions d’un adulte ou d’un grand même s’il le connaît bien, que ce n’est pas malpoli et que vous ne le  gronderez pas.
+    2. Donnez-lui les noms et les téléphones des personnes qu’il peut appeler en cas de problème.
+    3. Dans la rue, s’il se sent en danger ou si quelqu’un l’embête il peut trouver refuge dans le magasin le plus proche ou se faire accompagner par un copain.
 - template: section
   image: "/uploads/adultes-05.png"
   icone: "/uploads/zebus.png"
