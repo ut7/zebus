@@ -212,12 +212,17 @@ sections:
   icone: "/uploads/zebus.png"
   bulle: "/uploads/bulle-section.svg"
   texte-bulle: ''
-  texte_bulle: "À QU I S’ADRESSER ?\n\nDes professionnels sauront vous écouter et
-    vous orienter :\n\n* votre médecin, votre pédiatre, le médecin des urgences. \n*
-    le centre de consultation médico-psychologique pour enfants.\n* L’antenne du conseil
-    départemental (UTPAS), à la mairie.\n* Les associations de protections de l’enfance.\n*
-    L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière et le
-    médecin scolaire.\n* La brigade des mineurs (police) ou la gendarmerie nationale.\n*
-    Le 119, numéro vert, anonyme et gratuit."
+  texte_bulle: |-
+    ##### À QUI S’ADRESSER ?
+
+    Des professionnels sauront vous écouter et vous orienter :
+
+    * votre médecin, votre pédiatre, le médecin des urgences.
+    * le centre de consultation médico-psychologique pour enfants.
+    * L’antenne du conseil départemental (UTPAS), à la mairie.
+    * Les associations de protections de l’enfance.
+    * L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière et le médecin scolaire.
+    * La brigade des mineurs (police) ou la gendarmerie nationale.
+    * Le 119, numéro vert, anonyme et gratuit.
 
 ---
