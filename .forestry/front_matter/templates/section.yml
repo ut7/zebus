@@ -21,7 +21,7 @@ fields:
     required: false
   label: Titre
   description: Le titre de la section
-- name: text
+- name: texte
   type: textarea
   default: ''
   config:
