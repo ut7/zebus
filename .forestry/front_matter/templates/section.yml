@@ -15,7 +15,7 @@ fields:
     maxSize: 250
   label: Bulle
   description: L'image de la bulle à utiliser
-- name: texte-bulle
+- name: texte_bulle
   type: textarea
   default: ''
   config:
