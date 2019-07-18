@@ -148,5 +148,10 @@ sections:
     Ce n’est pas toujours évident de savoir à qui demander des conseils. Le plus compliqué est de faire le premier pas, surtout quand l’agresseur est quelqu’un de la famille. Inutile d’en parler à tout le monde pour respecter la pudeur de l’enfant mais osez en parler à quelqu’un de proche. Ça peut donner des pistes pour trouver de l’aide et vous réconforter... **ne vous découragez pas et surtout ne restez pas seul !**
   image: "/uploads/adultes-09.png"
   icone: "/uploads/zebus.png"
+- template: section
+  image: ''
+  icone: ''
+  titre: ''
+  texte: ''
 
 ---
