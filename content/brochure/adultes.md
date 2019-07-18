@@ -43,6 +43,7 @@ sections:
     **En sachant ce qu’est une agression sexuelle on reconnaît mieux les situations normales et les abus.**
   bulle: ''
   texte-bulle: ''
+  texte_bulle: ''
 - template: section
   image: "/uploads/adultes-02.png"
   icone: "/uploads/zebus.png"
@@ -63,6 +64,14 @@ sections:
     ils se renseignent aussi sur l’origine de la vie, pourquoi les parents ont voulu
     qu’ils naissent. Répondez à leurs questions selon leur curiosité, leur niveau
     de compréhension..."
+  texte_bulle: |-
+    ##### **« QUAND JE SERAI GRANDE, JE ME MARIERAI AVEC TOI, PAPA ! »\\**
+
+    Comment répondre aux enfants ? Profitez de ce genre de phrase pour parler de sexualité, de ce qui est permis et interdit entre adultes et enfants.
+
+    ##### **« COMMENT ON FAIT LES BÉBÉS ? »**
+
+    Ne leur donnez pas qu’une réponse anatomique, ils se renseignent aussi sur l’origine de la vie, pourquoi les parents ont voulu qu’ils naissent. Répondez à leurs questions selon leur curiosité, leur niveau de compréhension...
 - template: section
   image: "/uploads/adultes-03.png"
   icone: "/uploads/zebus.png"
@@ -79,6 +88,7 @@ sections:
     On ne doit pas lui demander de se comporter comme un adulte. **On doit le respecter en tant qu’enfant. Ainsi, il pourra plus facilement savoir ce qui est normal et ce qui ne l’est pas.**
   bulle: ''
   texte-bulle: ''
+  texte_bulle: ''
 - template: section
   image: "/uploads/adultes-04.png"
   icone: "/uploads/zebus.png"
@@ -95,6 +105,7 @@ sections:
     En général, quand vous le sentez triste ou inquiet, **écoutez-le sans reproche pour lui montrer votre confiance.** Intéressez-vous à son point de vue, à ce qu’il pense. **S’il n’a pas peur d’être grondé ou que l’on se moque de lui, il osera parler de ce qui le tracasse.**
   bulle: ''
   texte-bulle: ''
+  texte_bulle: ''
 - template: section
   image: "/uploads/adultes-05.png"
   icone: "/uploads/zebus.png"
@@ -109,6 +120,7 @@ sections:
     **« Il y a des bons et des mauvais secrets...** Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les enfants ne devraient pas avoir des secrets lourds à porter. Si on t’impose un secret, qu’on te menace ou qu’on te fait du chantage, il faut que tu en parles à quelqu’un, même si tu avais promis de ne rien dire au début ! »
   bulle: ''
   texte-bulle: ''
+  texte_bulle: ''
 - template: section
   image: "/uploads/adultes-06.png"
   titre: l'aider à être prudent sur internet
@@ -123,6 +135,7 @@ sections:
   icone: "/uploads/zebus.png"
   bulle: ''
   texte-bulle: ''
+  texte_bulle: ''
 - template: section
   titre: c'est quoi un abus sexuel ?
   texte: |-
@@ -139,6 +152,7 @@ sections:
   icone: "/uploads/zebus.png"
   bulle: ''
   texte-bulle: ''
+  texte_bulle: ''
 - template: section
   titre: comment l aider à sortir du silence ?
   texte: |-
@@ -153,6 +167,7 @@ sections:
   icone: "/uploads/zebus.png"
   bulle: ''
   texte-bulle: ''
+  texte_bulle: ''
 - template: section
   titre: quand l'enfant se confie...
   texte: |-
@@ -167,5 +182,6 @@ sections:
   icone: "/uploads/zebus.png"
   bulle: ''
   texte-bulle: ''
+  texte_bulle: ''
 
 ---
