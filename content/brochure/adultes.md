@@ -104,7 +104,7 @@ sections:
     **Apprenez-lui à respecter le droit à la vie privée de ses amis,** à ne pas diffuser leurs photos ou leurs paroles sans leur autorisation. Parlez avec lui de ses amis et contacts sur Internet. Dites-lui d’être prudent, de ne pas communiquer avec des gens qu’il ne connaît pas et de vous parler s’il y a un problème.
 
     **Que dit la loi ?** Montrer des images pornos à un enfant, détenir ou diffuser des images pédophiles impliquant des jeunes de moins de 18 ans est interdit et puni sévèrement.
-  icone: "/uploads/adultes-06.png"
+  icone: "/uploads/zebus.png"
 - template: section
   titre: c'est quoi un abus sexuel ?
   texte: |-
