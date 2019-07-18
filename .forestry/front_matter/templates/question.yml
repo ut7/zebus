@@ -22,3 +22,11 @@ fields:
     max: 
   label: Réponses
   description: Les réponses
+- name: ordre_icones
+  type: list
+  config:
+    use_select: false
+    min: '3'
+    max: '3'
+  label: Ordre des icônes
+  description: L'ordre des icônes devant les réponses
