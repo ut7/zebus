@@ -86,9 +86,12 @@ sections:
     Aidez l’enfant à comprendre la différence des sexes et des générations. Vous pouvez lui parler de la nature, des âges de la vie, des personnes de sa famille : les papas, les mamans, les frères et sœurs, les grands-parents, les beaux-pères, les belles-mères, les demi-frères et les demi-sœurs... les plus jeunes, les plus grands, les ados et les bébés. Si chacun a sa place, l’enfant comprend que chaque âge a ses plaisirs : jouer, travailler à l’école, sortir avec ses copains, avoir un amoureux ou une amoureuse.
 
     On ne doit pas lui demander de se comporter comme un adulte. **On doit le respecter en tant qu’enfant. Ainsi, il pourra plus facilement savoir ce qui est normal et ce qui ne l’est pas.**
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: |-
+    ##### DES PARENTS, PAS DES COPAINS !
+
+    Dans la famille, les parents sont les responsables naturels de la santé et de la sécurité de leur enfant. Ils transmettent les valeurs auxquelles ils croient. Ce sont des exemples pour l’enfant, dans leurs paroles et dans leurs comportements. C’est avec eux qu’il apprend le vivre-ensemble.
 - template: section
   image: "/uploads/adultes-04.png"
   icone: "/uploads/zebus.png"
@@ -103,9 +106,14 @@ sections:
     **Donnez-lui des explications simples** sur les situations anormales ou dangereuses. Parlez-lui, par exemple, de la différence entre quelqu’un qui lui fait des caresses en secret et quelqu’un qui le prend dans ses bras devant tout lemonde. **Dites-lui qu’il peut dire " non " ou changer d’avis** si un jeu dérape, si ça va trop loin ou s’il a un doute.
 
     En général, quand vous le sentez triste ou inquiet, **écoutez-le sans reproche pour lui montrer votre confiance.** Intéressez-vous à son point de vue, à ce qu’il pense. **S’il n’a pas peur d’être grondé ou que l’on se moque de lui, il osera parler de ce qui le tracasse.**
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: |-
+    ##### EXPLIQUEZ-LUI CLAIREMENT COMMENT SE PROTÉGER.
+
+    1. Dites-lui qu’il a le droit de refuser les propositions d’un adulte ou d’un grand même s’il le connaît bien, que ce n’est pas malpoli et que vous ne le  gronderez pas.
+    2. Donnez-lui les noms et les téléphones des personnes qu’il peut appeler en cas de problème.
+    3. Dans la rue, s’il se sent en danger ou si quelqu’un l’embête il peut trouver refuge dans le magasin le plus proche ou se faire accompagner par un copain.
 - template: section
   image: "/uploads/adultes-05.png"
   icone: "/uploads/zebus.png"
@@ -118,9 +126,18 @@ sections:
     **« Il y a des caresses permises et des caresses défendues...** Il y a des caresses qui font plaisir et qui sont agréables mais il y en a d’autres qui sont bizarres, qui font peur. Les adultes n’ont pas le droit de passer la main sous tes vêtements et s’approcher de ton sexe, de toucher tes seins ou tes fesses ! »
 
     **« Il y a des bons et des mauvais secrets...** Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les enfants ne devraient pas avoir des secrets lourds à porter. Si on t’impose un secret, qu’on te menace ou qu’on te fait du chantage, il faut que tu en parles à quelqu’un, même si tu avais promis de ne rien dire au début ! »
-  bulle: ''
+  bulle: "/uploads/bulle-longue.svg"
   texte-bulle: ''
-  texte_bulle: ''
+  texte_bulle: |-
+    ##### GRÂCE À MA BOUSSOLE, JE TROUVE LE BON CHEMIN !
+
+    Si quelqu’un lui demande de le suivre, dites-lui qu’il doit se poser ces trois questions :
+
+    1. Est-ce que tu as envie de dire « oui » ou « non » à cette proposition ?
+    2. Est-ce que tes parents sauront où tu es, si tu acceptes ?
+    3. Est-ce que quelqu’un viendra à ton aide, si tu en as besoin ?
+
+    S’il répond Non à une seule question, il ne doit pas accepter de le suivre.
 - template: section
   image: "/uploads/adultes-06.png"
   titre: l'aider à être prudent sur internet
