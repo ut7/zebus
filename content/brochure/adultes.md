@@ -53,5 +53,49 @@ sections:
 
     **Quand les enfants jouent au docteur,** on voit bien qu’il s’agit d’une curiosité normale si l’ambiance est celle d’un jeu et s’il n’y a ni contrainte ni violence. **Il faut s’inquiéter si un enfant en force un autre et l’oblige à se déshabiller** en prétextant que c’est un jeu.
   titre: parler de sexualité avec l'enfant
+- template: section
+  image: "/uploads/adultes-03.png"
+  icone: "/uploads/zebus.png"
+  titre: la place de l'enfant
+  texte: |-
+    L’enfant est une personne mais pas une grande personne.
+
+    S’il est curieux du monde des adultes il ne le comprend
+
+    pas toujours.
+
+    Attention de ne pas le confronter à des situations qui le
+
+    choquent : les disputes entre adultes, les images violentes,
+
+    la nudité. Ça peut l’impressionner et lui faire peur.
+
+    Ne partagez pas votre vie privée avec votre enfant.
+
+    Après 2/3 ans, ne vous montrez plus tout nu devant lui.
+
+    Aidez l’enfant à comprendre la différence des sexes et
+
+    des générations. Vous pouvez lui parler de la nature, des âges
+
+    de la vie, des personnes de sa famille : les papas, les mamans,
+
+    les frères et sœurs, les grands-parents, les beaux-pères,
+
+    les belles-mères, les demi-frères et les demi-sœurs... les plus
+
+    jeunes, les plus grands, les ados et les bébés. Si chacun
+
+    a sa place, l’enfant comprend que chaque âge a ses plaisirs :
+
+    jouer, travailler à l’école, sortir avec ses copains, avoir
+
+    un amoureux ou une amoureuse.
+
+    On ne doit pas lui demander de se comporter comme un adulte.
+
+    On doit le respecter en tant qu’enfant. Ainsi, il pourra plus
+
+    facilement savoir ce qui est normal et ce qui ne l’est pas.
 
 ---
