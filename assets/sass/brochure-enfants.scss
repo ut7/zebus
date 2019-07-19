@@ -3,6 +3,7 @@
   flex-direction: column;
   align-items: center;
   padding: 1rem 4rem 2rem 4rem;
+
   & h1,h2 {
     font-family: Amandine;
     font-weight: normal;
@@ -46,6 +47,10 @@
       text-align: left;
       font-family: DINPro;
       font-size: 2rem;
+
+      & .triangle { list-style-image: url(/zebus/uploads/triangle.gif); }
+      & .point { list-style-image: url(/zebus/uploads/point.gif); }
+      & .carré { list-style-image: url(/zebus/uploads/carré.gif); }
     }
   }
 }

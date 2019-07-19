@@ -2,8 +2,16 @@
   <img class="image" src="/zebus{{ .image }}">
   <h1 class="titre">{{ .question }}</h1>
   <ul class="reponses">
-    {{ range .reponses }}
-      <li>{{ . }}</li>
+    {{ range $i, $val := .reponses }}
+      {{ if eq $i 0 }}
+        <li class="{{ $.icone_reponse_1 }}">{{ $val }}</li>
+      {{ end }}
+      {{ if eq $i 1 }}
+        <li class="{{ $.icone_reponse_2 }}">{{ $val }}</li>
+      {{ end }}
+      {{ if eq $i 2 }}
+        <li class="{{ $.icone_reponse_3 }}">{{ $val }}</li>
+      {{ end }}
     {{ end }}
   </ul>
 </section>
