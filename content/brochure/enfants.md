@@ -1,12 +1,15 @@
 +++
 icone_zebus = "/uploads/zebus.png"
 image_premiere_question = ""
+instructions = "COMPTE LE NOMBRE DE ![](https://ut7.github.io/zebus/uploads/point.gif \"Point\"), DE ![](https://ut7.github.io/zebus/uploads/carré.gif \"Carré\"), OU DE ![](https://ut7.github.io/zebus/uploads/triangle.gif \"Triangle\"), EN FONCTION DES RÉPONSES QUE TU AS DONNÉES À CHAQUE QUESTION. SI TU AS UN MAXIMUM DE :"
 introduction = "Il y a autour de toi plein de personnes qui t’aiment et te protègent. **Mais tu peux rencontrer des gens qui ne respectent pas les enfants et font semblant de les aimer pour profiter d’eux. Heureusement, il n’y en a pas beaucoup.** Mais si jamais tu en rencontres, alors il faut vite demander de l’aide, ne jamais croire que c’est de ta faute et surtout dire non, non et non ! **Passe ton permis de prudence** en répondant aux questions du test, pour voir si tu sais éviter les situations dangereuses et **découvre ton résultat en page 14.**"
 layout = "enfants"
 premiere_question = ""
 reponses = []
+resultats = "![](https://ut7.github.io/zebus/uploads/point.gif)\n\nTu ne te rends pas compte de ce qui est dangereux, normal ou anormal, et tu fais trop confiance. Aïe, aïe, aïe ! Sois plus méfiant(e), repasse ton permis !\n\n![](https://ut7.github.io/zebus/uploads/carré.gif)\n\nTu sens le danger mais tu es curieux(se) et tu hésites... et parfois tu n’oses pas dire non ! Attention, sois plus prudent(e), ne crois pas tout ce qu’on te dit et n’aie pas peur de dire ce que tu penses.\n\n![](https://ut7.github.io/zebus/uploads/triangle.gif)\n\nTu sais écouter la petite voix qui dit non dans ta tête et éviter les situations dangereuses. Tu n’as pas peur de parler des choses qui te gênent. Bravo ! Tu as ton permis avec les félicitations du jury. Tu as le droit de le faire passer à tes copains et à tes copines !"
 sous_titre = "Un enfant averti sait se protéger !"
 titre = "Passe ton permis de prudence"
+titre_section_reponses = "Réponses au test"
 type = "brochure"
 [[questions]]
 icone_reponse_1 = "point"
