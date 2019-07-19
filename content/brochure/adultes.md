@@ -181,7 +181,7 @@ sections:
 
     La condamnation est plus sévère quand la victime est un enfant de moins de 15 ans ou si l’agresseur est un parent ou un éducateur qui est une personne ayant autorité sur l’enfant. Pour un crime de viol elle peut aller jusqu’à 20 ans de prison et 150 000 euros d’amende. Pour les agresseurs ou les gens qui ressentent des pulsions pédophiles, il existe des consultations spécialisées pour se soigner.
 - template: section
-  titre: comment l aider à sortir du silence ?
+  titre: comment l'aider à sortir du silence ?
   texte: |-
     L’enfant peut avoir peur, être en colère, ou être gêné de dire ce qui lui arrive. Parfois, il peut penser que c’est lui qui a fait quelque chose de mal. Montrez-lui que vous lui faites confiance, il se confiera plus facilement.
 
