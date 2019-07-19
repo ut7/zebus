@@ -18,13 +18,21 @@
     }
 
     & .bulle-texte {
+      font-family: Literata !important;
       color: white;
       position: absolute;
       width: 40%;
       margin-left: -15rem;
       margin-top: -15.5rem;
 
-      & h5 { margin: 0; }
+      & h1,h2,h3,h4,h5,h6 {
+        font-family: BotonBold;
+        font-size: 1rem;
+        margin: 0;
+      }
+      & p {
+        font-family: Literata !important;
+      }
     }
   }
 
