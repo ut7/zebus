@@ -48,9 +48,18 @@
       font-family: DINPro;
       font-size: 2rem;
 
-      & .triangle { list-style-image: url(/zebus/uploads/triangle.gif); }
-      & .point { list-style-image: url(/zebus/uploads/point.gif); }
-      & .carré { list-style-image: url(/zebus/uploads/carré.gif); }
+      & li {
+        list-style: none;
+        background-size: 2.7rem;
+        background-repeat: no-repeat;
+        background-position: top left;
+        padding: 0 0 0 4rem;
+        margin-bottom: 2rem;
+      }
+
+      & .triangle { background-image: url(/zebus/uploads/triangle.gif); }
+      & .point { background-image: url(/zebus/uploads/point.gif); }
+      & .carré { background-image: url(/zebus/uploads/carré.gif); }
     }
   }
 }
