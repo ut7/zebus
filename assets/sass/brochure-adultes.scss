@@ -12,18 +12,15 @@
 
   & .bulle {
     margin-top: -7rem;
-
-    & .bulle-image {
-      height: 20rem;
-    }
+    position: relative;
 
     & .bulle-texte {
-      font-family: Literata !important;
+      font-family: Literata;
       color: white;
-      position: absolute;
-      width: 40%;
-      margin-left: -15rem;
-      margin-top: -15.5rem;
+      position: relative;
+      padding: 3rem 4rem 3rem 4rem;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
 
       & h1,h2,h3,h4,h5,h6 {
         font-family: BotonBold;
@@ -31,7 +28,11 @@
         margin: 0;
       }
       & p {
-        font-family: Literata !important;
+        font-family: Literata;
+      }
+
+      li {
+        text-align: left;
       }
     }
   }

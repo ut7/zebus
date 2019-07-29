@@ -55,5 +55,31 @@ fields:
     max: 
   label: Questions
   description: Les question
+- name: titre_section_reponses
+  type: text
+  config:
+    required: false
+  label: Titre de la section réponses
+  description: Le titre de la section réponses
+- name: instructions
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Instructions
+  description: Les instruction pour trouver sont résultat
+- name: resultats
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Résultats
+  description: Les resultats possible
 pages:
 - content/brochure/enfants.md

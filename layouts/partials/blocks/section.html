@@ -2,8 +2,7 @@
   <img class="image" src="/zebus{{ .image }}">
   {{ if .bulle }}
   <div class="bulle">
-    <img class="bulle-image" src="/zebus{{ .bulle }}">
-    <span class="bulle-texte">{{ .texte_bulle | markdownify }}</span>
+    <div class="bulle-texte" style="background-image:url('/zebus{{ .bulle }}')">{{ .texte_bulle | markdownify }}</div>
   </div>
   {{ end }}
   <img class="icone" src="/zebus{{ .icone }}">

@@ -56,7 +56,7 @@ sections:
 
     **Quand les enfants jouent au docteur,** on voit bien qu’il s’agit d’une curiosité normale si l’ambiance est celle d’un jeu et s’il n’y a ni contrainte ni violence. **Il faut s’inquiéter si un enfant en force un autre et l’oblige à se déshabiller** en prétextant que c’est un jeu.
   titre: parler de sexualité avec l'enfant
-  bulle: "/uploads/bulle-section.svg"
+  bulle: "/uploads/bulle-section.png"
   texte-bulle: "##### **« QUAND JE SERAI GRANDE, JE ME MARIERAI AVEC TOI, PAPA ! »**
     \n\nComment répondre aux enfants ? Profitez de ce genre de phrase pour parler
     de sexualité, de ce qui est permis et interdit entreadultes et enfants. \n\n#####
@@ -86,7 +86,7 @@ sections:
     Aidez l’enfant à comprendre la différence des sexes et des générations. Vous pouvez lui parler de la nature, des âges de la vie, des personnes de sa famille : les papas, les mamans, les frères et sœurs, les grands-parents, les beaux-pères, les belles-mères, les demi-frères et les demi-sœurs... les plus jeunes, les plus grands, les ados et les bébés. Si chacun a sa place, l’enfant comprend que chaque âge a ses plaisirs : jouer, travailler à l’école, sortir avec ses copains, avoir un amoureux ou une amoureuse.
 
     On ne doit pas lui demander de se comporter comme un adulte. **On doit le respecter en tant qu’enfant. Ainsi, il pourra plus facilement savoir ce qui est normal et ce qui ne l’est pas.**
-  bulle: "/uploads/bulle-section.svg"
+  bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
     ##### DES PARENTS, PAS DES COPAINS !
@@ -106,7 +106,7 @@ sections:
     **Donnez-lui des explications simples** sur les situations anormales ou dangereuses. Parlez-lui, par exemple, de la différence entre quelqu’un qui lui fait des caresses en secret et quelqu’un qui le prend dans ses bras devant tout lemonde. **Dites-lui qu’il peut dire " non " ou changer d’avis** si un jeu dérape, si ça va trop loin ou s’il a un doute.
 
     En général, quand vous le sentez triste ou inquiet, **écoutez-le sans reproche pour lui montrer votre confiance.** Intéressez-vous à son point de vue, à ce qu’il pense. **S’il n’a pas peur d’être grondé ou que l’on se moque de lui, il osera parler de ce qui le tracasse.**
-  bulle: "/uploads/bulle-section.svg"
+  bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
     ##### EXPLIQUEZ-LUI CLAIREMENT COMMENT SE PROTÉGER.
@@ -126,7 +126,7 @@ sections:
     **« Il y a des caresses permises et des caresses défendues...** Il y a des caresses qui font plaisir et qui sont agréables mais il y en a d’autres qui sont bizarres, qui font peur. Les adultes n’ont pas le droit de passer la main sous tes vêtements et s’approcher de ton sexe, de toucher tes seins ou tes fesses ! »
 
     **« Il y a des bons et des mauvais secrets...** Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les enfants ne devraient pas avoir des secrets lourds à porter. Si on t’impose un secret, qu’on te menace ou qu’on te fait du chantage, il faut que tu en parles à quelqu’un, même si tu avais promis de ne rien dire au début ! »
-  bulle: "/uploads/bulle-section.svg"
+  bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
     ##### GRÂCE À MA BOUSSOLE, JE TROUVE LE BON CHEMIN !
@@ -150,7 +150,7 @@ sections:
 
     **Que dit la loi ?** Montrer des images pornos à un enfant, détenir ou diffuser des images pédophiles impliquant des jeunes de moins de 18 ans est interdit et puni sévèrement.
   icone: "/uploads/zebus.png"
-  bulle: "/uploads/bulle-section.svg"
+  bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
     ##### POSEZ-LUI DES QUESTIONS !
@@ -174,14 +174,14 @@ sections:
     **Les abus sexuels sont-ils uniquement commis par des pédophiles rencontrés dans la rue ?**                                                                                                            NON ! Ces actes sont commis le plus souvent par des hommes proches de l’enfant, même parfois par des adolescents dans le cadre familial ou éducatif. On parle d’inceste pour les abus commis par un membre de la famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
   image: "/uploads/adultes-07.png"
   icone: "/uploads/zebus.png"
-  bulle: "/uploads/bulle-section.svg"
+  bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
     ##### LES ABUS SEXUELS SONT INTERDITS ET PUNIS PAR LA LOI.
 
     La condamnation est plus sévère quand la victime est un enfant de moins de 15 ans ou si l’agresseur est un parent ou un éducateur qui est une personne ayant autorité sur l’enfant. Pour un crime de viol elle peut aller jusqu’à 20 ans de prison et 150 000 euros d’amende. Pour les agresseurs ou les gens qui ressentent des pulsions pédophiles, il existe des consultations spécialisées pour se soigner.
 - template: section
-  titre: comment l aider à sortir du silence ?
+  titre: comment l'aider à sortir du silence ?
   texte: |-
     L’enfant peut avoir peur, être en colère, ou être gêné de dire ce qui lui arrive. Parfois, il peut penser que c’est lui qui a fait quelque chose de mal. Montrez-lui que vous lui faites confiance, il se confiera plus facilement.
 
@@ -192,7 +192,7 @@ sections:
     **L’enfant ne s’exprime pas toujours avec des mots.** Son comportement peut être évocateur d’abus sexuels. **Ça peut être un changement brutal dans sa manière d’être** (il n’est plus propre, il dort mal, il n’a plus faim ou il mange trop, il est triste et se dévalorise...) **ou des conduites sexuelles et des mots trop crus qui ne sont pas de son âge.** Parfois, il n’en parle pas tout de suite mais, d’un seul coup et sans raison, il refuse d’aller chez des amis, un voisin ou quelqu’un de la famille. C’est sa façon à lui d’envoyer un signal.
   image: "/uploads/adultes-08.png"
   icone: "/uploads/zebus.png"
-  bulle: "/uploads/bulle-section.svg"
+  bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
     ##### ÉCOUTEZ-LE !
@@ -210,7 +210,7 @@ sections:
     Ce n’est pas toujours évident de savoir à qui demander des conseils. Le plus compliqué est de faire le premier pas, surtout quand l’agresseur est quelqu’un de la famille. Inutile d’en parler à tout le monde pour respecter la pudeur de l’enfant mais osez en parler à quelqu’un de proche. Ça peut donner des pistes pour trouver de l’aide et vous réconforter... **ne vous découragez pas et surtout ne restez pas seul !**
   image: "/uploads/adultes-09.png"
   icone: "/uploads/zebus.png"
-  bulle: "/uploads/bulle-section.svg"
+  bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
     ##### À QUI S’ADRESSER ?
@@ -224,5 +224,23 @@ sections:
     * L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière et le médecin scolaire.
     * La brigade des mineurs (police) ou la gendarmerie nationale.
     * Le 119, numéro vert, anonyme et gratuit.
+texte_footer: |-
+  Cette brochure est faite avec des images et
+  des mots simples pour aider les adultes et
+  les enfants à repérer les agressions sexuelles,
+  à savoir les éviter et en parler ensemble.
+  Les agressions sexuelles ou abus sexuels peuvent
+  être traumatisants pour l’enfant, physiquement
+  et psychologiquement. Ce sont des infractions
+  graves. Elles sont interdites et punies par la loi.
+  Apprendre que ça arrive inquiète et déstabilise.
+  Si vous êtes confronté à ce problème, ne restez
+  pas seul. Faites-vous aider.
+  En complément, le Permis de prudence est
+  un petit test à partir de cinq ans pour que
+  les enfants puissent parler des situations
+  à risque et apprennent à s’en protéger.
+  À donner aux enfants ! Discutez-en avec eux !
+derniere_ligne: Pouvoir en parler est la première protection !
 
 ---

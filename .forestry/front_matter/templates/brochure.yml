@@ -27,5 +27,21 @@ fields:
     min: 
     max: 
   description: Les sections de la brochure
+- name: texte_footer
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Texte du footer
+  description: Le texte à la fin de la brochure
+- name: derniere_ligne
+  type: text
+  config:
+    required: false
+  label: Dernière ligne
+  description: La dernière ligne de la brochure
 pages:
 - content/brochure/adultes.md
