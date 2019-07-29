@@ -24,18 +24,20 @@ main {
   background-repeat: no-repeat;
   background-size: 100% 100%;
   color: white;
-  font-family: 'Sniglet', cursive;
+  font-family: 'Beautiful Heartbeat';
 
   & h1 {
-    margin: 0 0 0.5rem;
+    margin: 0 0 0.1rem;
     font-weight: normal;
-    font-size: 1.95rem;
+    font-size: 4.5rem;
+    line-height: 55px;
+    text-transform: lowercase;
   }
   & span {
-    font-family: 'Roboto', sans-serif;
+    font-family: BotonBold;
     font-weight: 300;
     font-style: italic;
-    font-size: 1.6rem;
+    font-size: 2rem;
   }
 
   @include breakpoint(mobileonly) {
@@ -47,7 +49,6 @@ main {
 .homepage-content {
   & p {
     padding: 0 1rem;
-    font-family: Roboto;
     font-style: normal;
     font-weight: 300;
     font-size: 1.13rem;
