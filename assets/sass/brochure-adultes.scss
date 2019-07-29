@@ -55,5 +55,18 @@
     font-size: 1.5rem;
     text-align: justify;
   }
+
+  & .footer {
+    margin-top: 5rem;
+    font-family: DINPro;
+    font-size: 1.5rem;
+    width: 50%;
+
+    & h1 {
+      font-family: BotonBold;
+      font-size: 2rem;
+      line-height: 2.5rem;
+    }
+  }
 }
 
