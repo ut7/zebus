@@ -229,6 +229,8 @@ texte_footer: |-
   des mots simples pour aider les adultes et
   les enfants à repérer les agressions sexuelles,
   à savoir les éviter et en parler ensemble.
+
+
   Les agressions sexuelles ou abus sexuels peuvent
   être traumatisants pour l’enfant, physiquement
   et psychologiquement. Ce sont des infractions
@@ -236,6 +238,8 @@ texte_footer: |-
   Apprendre que ça arrive inquiète et déstabilise.
   Si vous êtes confronté à ce problème, ne restez
   pas seul. Faites-vous aider.
+
+
   En complément, le Permis de prudence est
   un petit test à partir de cinq ans pour que
   les enfants puissent parler des situations
