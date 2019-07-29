@@ -33,24 +33,24 @@
   }
 
   & .question {
-    padding: 2rem 15rem;
+    margin: 5rem;
     text-align: center;
 
     & .image {
       width: 100%;
     }
     & .titre {
-      font-size: 3rem;
+      font-size: 2.7rem;
       width: 100%;
     }
     & .reponses {
       text-align: left;
       font-family: DINPro;
-      font-size: 2rem;
+      font-size: 1.7rem;
 
       & li {
         list-style: none;
-        background-size: 2.7rem;
+        background-size: 2.3rem;
         background-repeat: no-repeat;
         background-position: top left;
         padding: 0 0 0 4rem;
