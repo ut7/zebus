@@ -224,5 +224,23 @@ sections:
     * L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière et le médecin scolaire.
     * La brigade des mineurs (police) ou la gendarmerie nationale.
     * Le 119, numéro vert, anonyme et gratuit.
+texte_footer: |-
+  Cette brochure est faite avec des images et
+  des mots simples pour aider les adultes et
+  les enfants à repérer les agressions sexuelles,
+  à savoir les éviter et en parler ensemble.
+  Les agressions sexuelles ou abus sexuels peuvent
+  être traumatisants pour l’enfant, physiquement
+  et psychologiquement. Ce sont des infractions
+  graves. Elles sont interdites et punies par la loi.
+  Apprendre que ça arrive inquiète et déstabilise.
+  Si vous êtes confronté à ce problème, ne restez
+  pas seul. Faites-vous aider.
+  En complément, le Permis de prudence est
+  un petit test à partir de cinq ans pour que
+  les enfants puissent parler des situations
+  à risque et apprennent à s’en protéger.
+  À donner aux enfants ! Discutez-en avec eux !
+derniere_ligne: Pouvoir en parler est la première protection !
 
 ---
