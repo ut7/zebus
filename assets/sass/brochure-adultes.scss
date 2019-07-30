@@ -57,10 +57,20 @@
   }
 
   & .footer {
-    margin-top: 5rem;
+    margin-top: 10rem;
     font-family: DINPro;
     font-size: 1.5rem;
     width: 50%;
+
+    & p { color: white; }
+
+    & .background {
+      position: absolute;
+      width: 46rem;
+      z-index: -1;
+      margin-left: -23rem;
+      margin-top: -5rem;
+    }
 
     & h1 {
       font-family: BotonBold;

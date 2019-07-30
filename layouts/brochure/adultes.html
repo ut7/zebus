@@ -6,6 +6,7 @@
       {{ partial "blocks/section" . }}
     {{ end }}
     <footer class="footer">
+      <img class="background" src="/zebus/uploads/bulle-bleue.svg">
       {{ .Params.texte_footer | markdownify }}
       <img src="/zebus/uploads/zebus.png">
       <h1>{{ .Params.derniere_ligne }}</h1>
