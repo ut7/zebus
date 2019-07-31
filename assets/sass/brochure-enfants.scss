@@ -13,6 +13,9 @@
   & .titre {
     font-size: 4rem;
     margin-bottom: 0;
+    &.large {
+      font-size: 7rem;
+    }
   }
 
   & .sous-titre {
@@ -60,6 +63,29 @@
       & .triangle { background-image: url(/zebus/uploads/triangle.gif); }
       & .point { background-image: url(/zebus/uploads/point.gif); }
       & .carré { background-image: url(/zebus/uploads/carré.gif); }
+    }
+  }
+
+  & .section-reponses {
+    width: 100%;
+    text-align: center;
+
+    & .contenu {
+      width: 50%;
+      margin: auto;
+
+      & img { width: 2rem; }
+      & .instructions {
+        margin-bottom: 5rem;
+      }
+      & .resultats {
+        & p:nth-child(even) {
+          margin-bottom: 2rem;
+        }
+        & p {
+          font-size: 1.5rem;
+        }
+      }
     }
   }
 }
