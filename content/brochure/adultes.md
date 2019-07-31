@@ -155,11 +155,11 @@ sections:
   texte: |-
     **L’enfant croit qu’il est en sécurité chez lui derrière un écran** et qu’il connaît ceux avec qui il communique, mais il peut entrer en contact avec des gens malveillants. Expliquez-lui qu’il existe des pièges, des faux-amis, des arnaques, des images pornos et des pédophiles...
 
-    **Il faut lui dire de ne pas donner son adresse personnelle, de ne pas accepter d’invitation secrète, qu’il ne doit pas accepter de se montrer nu devant un écran.** Il doit savoir que les textes et les images qu’il envoie, même en conversation privée, peuvent être filmés et récupérés pour se moquer de lui ou le racketter.
+    Il faut lui dire de ne pas donner son adresse personnelle, de ne pas accepter d’invitation secrète, qu’il ne doit pas accepter de se montrer nu devant un écran. Il doit savoir que les textes et les images qu’il envoie, même en conversation privée, peuvent être filmés et récupérés pour se moquer de lui ou le racketter.
 
     **Apprenez-lui à respecter le droit à la vie privée de ses amis,** à ne pas diffuser leurs photos ou leurs paroles sans leur autorisation. Parlez avec lui de ses amis et contacts sur Internet. Dites-lui d’être prudent, de ne pas communiquer avec des gens qu’il ne connaît pas et de vous parler s’il y a un problème.
 
-    **Que dit la loi ?** Montrer des images pornos à un enfant, détenir ou diffuser des images pédophiles impliquant des jeunes de moins de 18 ans est interdit et puni sévèrement.
+    **Que dit la loi ?** Montrer des images pornos à un enfant, avoir sur son téléphone ou diffuser des images pédophiles avec des jeunes de moins de 18 ans est interdit et puni sévèrement.
   icone: "/uploads/zebus.png"
   bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
