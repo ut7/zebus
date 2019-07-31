@@ -101,16 +101,20 @@ sections:
   image: "/uploads/adultes-04.png"
   icone: "/uploads/zebus.png"
   titre: comment l'aider sans le sur-protéger ?
-  texte: |-
-    Penser que votre enfant peut se faire agresser n’est pas facile... mais **il aura moins peur s’il sait quoi faire.**
-
-    **Apprenez-lui à trouver de l’aide par lui-même** si on l’embête. Il ne doit pas parler aux inconnus et il doit refuser de les suivre. Il doit oser en parler si quelqu’un veut toucher son sexe même si c’est quelqu’un qu’il connaît bien.
-
-    **Des règles de sécurité claires aident l’enfant** à être sûr de lui et indépendant : il peut alors rester spontané et affectueux.
-
-    **Donnez-lui des explications simples** sur les situations anormales ou dangereuses. Parlez-lui, par exemple, de la différence entre quelqu’un qui lui fait des caresses en secret et quelqu’un qui le prend dans ses bras devant tout lemonde. **Dites-lui qu’il peut dire " non " ou changer d’avis** si un jeu dérape, si ça va trop loin ou s’il a un doute.
-
-    En général, quand vous le sentez triste ou inquiet, **écoutez-le sans reproche pour lui montrer votre confiance.** Intéressez-vous à son point de vue, à ce qu’il pense. **S’il n’a pas peur d’être grondé ou que l’on se moque de lui, il osera parler de ce qui le tracasse.**
+  texte: 'Penser que votre enfant peut se faire agresser n’est pas facile… mais il
+    aura moins peur s’il sait quoi faire. Apprenez-lui à trouver de l’aide par lui-même
+    si on l’embête. Il ne doit pas parler aux inconnus et il doit refuser de les suivre.
+    Il doit oser en parler si quelqu’un veut toucher son sexe même si c’est quelqu’un
+    qu’il connaît bien. Des règles de sécurité claires aident l’enfant à être sûr
+    de lui et indépendant : il peut alors rester spontané et affectueux. Donnez-lui
+    des explications simples sur les situations anormales ou dangereuses. Parlez-lui,
+    par exemple, de la différence entre quelqu’un qui lui fait des caresses en secret
+    et quelqu’un qui le prend dans ses bras devant tout le monde. Dites-lui qu’il
+    peut dire " non " ou changer d’avis si un jeu dérape, si ça va trop loin ou s’il
+    a un doute. En général, quand vous le sentez triste ou inquiet, écoutez-le sans
+    reproche pour lui montrer votre confiance. Intéressez-vous à son point de vue,
+    à ce qu’il pense. S’il n’a pas peur d’être grondé ou que l’on se moque de lui,
+    il osera parler de ce qui le tracasse.'
   bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
@@ -124,6 +128,8 @@ sections:
   icone: "/uploads/zebus.png"
   titre: ce qu'il a besoin d'entendre...
   texte: |-
+    (programme canadien, Mon corps c’est mon corps .)
+
     **Pour lui donner des limites claires, vous pouvez lui dire :**
 
     **« Sers-toi de ce que tu ressens...** Les sentiments désagréables ou bizarres t’avertissent que quelque chose ne va pas. Tu peux te fier à ce que tu ressens. Tu ne dois pas hésiter à te confier à des adultes jusqu’à ce qu’on te croie... »
@@ -134,7 +140,7 @@ sections:
   bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
-    ##### GRÂCE À MA BOUSSOLE, JE TROUVE LE BON CHEMIN !
+    ##### GRÂCE À MA BOUSSOLE, JE SAIS OU ALLER !
 
     Si quelqu’un lui demande de le suivre, dites-lui qu’il doit se poser ces trois questions :
 
