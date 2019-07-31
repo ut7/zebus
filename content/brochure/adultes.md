@@ -172,9 +172,9 @@ sections:
 
     « Sais-tu que les images pornos sur Internet, à la télé ou dans les jeux vidéos montrent parfois une sexualité qui n'est pas vraie ? »
 - template: section
-  titre: c'est quoi un abus sexuel ?
+  titre: 'les abus sexuels sont interdits ? '
   texte: |-
-    Les abus sexuels sont des actes **très graves** par lesquels **un adulte ou un plus grand,** pour son plaisir, **oblige un enfant à un acte sexuel qui n’est pas de son âge.** C’est un abus de pouvoir, c’est une agression. Les agressions sexuelles ou « abus sexuels » sont : l’exhibitionnisme, l’initiation sexuelle avec  des images pornos, les attouchements, le viol. Utiliser la nudité de l’enfant pour des images pédo-pornographiques ou prostituer des enfants pour de l’argent sont aussi des abus sexuels.
+    Les agressions sexuelles ou abus sexuels sont des actes très graves par lesquels un adulte ou un plus grand, pour son plaisir, **oblige un enfant à un acte sexuel qui n’est pas de son âge.** C’est un abus de pouvoir, c’est une agression. Les agressions sexuelles ou « abus sexuels » sont : l’exhibitionnisme, l’initiation sexuelle avec  des images pornos, les attouchements, le viol. Utiliser la nudité de l’enfant pour des images pédo-pornographiques ou prostituer des enfants pour de l’argent sont aussi des abus sexuels.
 
     **Les victimes sont-elles uniquement des filles ?**                                                 NON ! Les garçons aussi en sont victimes.
 
@@ -188,19 +188,24 @@ sections:
   bulle: "/uploads/bulle-section.png"
   texte-bulle: ''
   texte_bulle: |-
-    ##### LES ABUS SEXUELS SONT INTERDITS ET PUNIS PAR LA LOI.
+    ##### LES ABUS SEXUELS SONT PUNIS PAR LA LOI.
 
     La condamnation est plus sévère quand la victime est un enfant de moins de 15 ans ou si l’agresseur est un parent ou un éducateur qui est une personne ayant autorité sur l’enfant. Pour un crime de viol elle peut aller jusqu’à 20 ans de prison et 150 000 euros d’amende. Pour les agresseurs ou les gens qui ressentent des pulsions pédophiles, il existe des consultations spécialisées pour se soigner.
 - template: section
-  titre: comment l'aider à sortir du silence ?
-  texte: |-
-    L’enfant peut avoir peur, être en colère, ou être gêné de dire ce qui lui arrive. Parfois, il peut penser que c’est lui qui a fait quelque chose de mal. Montrez-lui que vous lui faites confiance, il se confiera plus facilement.
-
-    **S’il vous en parle, laissez-le parler librement, utilisez les mêmes mots que lui.** Soyez attentif à l’ambiance de ce qu’il décrit.
-
-    Après l’avoir écouté, félicitez-le. Expliquez lui que ce qu’il a dit est important et qu’il a bien fait d’en parler. Dites-lui que ce n’est pas de sa faute à lui. Ensuite rappelez-lui pourquoi les abus sexuels sont interdits par la loi, que vous êtes là pour l’aider et que les adultes sont là pour le protéger. Dans tous les cas, n’hésitez pas à écrire ce qu’il vous a dit pour vous en souvenir.
-
-    **L’enfant ne s’exprime pas toujours avec des mots.** Son comportement peut être évocateur d’abus sexuels. **Ça peut être un changement brutal dans sa manière d’être** (il n’est plus propre, il dort mal, il n’a plus faim ou il mange trop, il est triste et se dévalorise...) **ou des conduites sexuelles et des mots trop crus qui ne sont pas de son âge.** Parfois, il n’en parle pas tout de suite mais, d’un seul coup et sans raison, il refuse d’aller chez des amis, un voisin ou quelqu’un de la famille. C’est sa façon à lui d’envoyer un signal.
+  titre: 'les adultes sont là pour le protéger. '
+  texte: L'enfant peut avoir peur, être en colère, ou être gêné de dire ce qui lui
+    arrive. Parfois, il peut penser qu'il a fait quelque chose de mal. Ne le gronder
+    pas en lui disant qu'il n'aurait pas dû se laisser faire ou qu'il aurait dû vous
+    en parler plus tôt. Montrez-lui que vous lui faites confiance, il se confiera
+    plus facilement, et dîtes lui que vous allez l'aider. S’il vous en parle, laissez-le
+    parler librement, utilisez les mêmes mots que lui. Soyez attentif à l’ambiance
+    de ce qu’il décrit. L’enfant ne s’exprime pas toujours avec des mots. Son comportement
+    peut être évocateur d’abus sexuels. Ça peut être un changement brutal dans sa
+    manière d’être (il n’est plus propre, il dort mal, il n’a plus faim ou il mange
+    trop, il est triste et se dévalorise…) ou des conduites sexuelles et des mots
+    trop crus qui ne sont pas de son âge. Parfois, il n’en parle pas tout de suite
+    mais, d’un seul coup et sans raison, il refuse d’aller chez des amis, un voisin
+    ou quelqu’un de la famille. C’est sa façon à lui d’envoyer un signal.
   image: "/uploads/adultes-08.png"
   icone: "/uploads/zebus.png"
   bulle: "/uploads/bulle-section.png"
@@ -208,7 +213,7 @@ sections:
   texte_bulle: |-
     ##### ÉCOUTEZ-LE !
 
-    Quand un enfant vous parle d’une situation évoquant une agression sexuelle, il peut avoir du mal à vous parler des circonstances ou des personnes concernées. Écoutez-le sans le harceler de questions, sans chercher à avoir des détails tout de suite, sans paraître affolé.
+    Quand un enfant vous parle d’une situation évoquant une agression sexuelle, il ne sait pas forcément vous dire comment ça s'est passé et qui l'a agressé. Il a besoin de temps et peut avoir du mal à vous expliquer. Ecoutez-le sans le harceler de questions, sans chercher à avoir des détails tout de suite, sans avoir l’air affolé.
 - template: section
   titre: quand l'enfant se confie...
   texte: |-
