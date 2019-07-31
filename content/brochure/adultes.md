@@ -216,14 +216,22 @@ sections:
     Quand un enfant vous parle d’une situation évoquant une agression sexuelle, il ne sait pas forcément vous dire comment ça s'est passé et qui l'a agressé. Il a besoin de temps et peut avoir du mal à vous expliquer. Ecoutez-le sans le harceler de questions, sans chercher à avoir des détails tout de suite, sans avoir l’air affolé.
 - template: section
   titre: quand l'enfant se confie...
-  texte: |-
-    On n’a pas le droit de laisser un enfant en danger et dans la peur de parler ou la peur des représailles. **Si on sait qu’un enfant est en danger, on doit le signaler tout de suite pour que la situation s’arrête au plus vite.**
-
-    Il faut lui dire clairement que vous ne pouvez pas garder pour vous des choses aussi graves. Dites-lui que vous allez veiller à ce que cela n’arrive plus pour qu’il soit en sécurité.
-
-    Pour éviter des complications psychologiques dans l’enfance ou à l’âge adulte tout enfant victime d’agression sexuelle doit être vu rapidement par un médecin pour qu’il puisse l’examiner et voir comment il réagit à ce qu’il a subi.
-
-    Ce n’est pas toujours évident de savoir à qui demander des conseils. Le plus compliqué est de faire le premier pas, surtout quand l’agresseur est quelqu’un de la famille. Inutile d’en parler à tout le monde pour respecter la pudeur de l’enfant mais osez en parler à quelqu’un de proche. Ça peut donner des pistes pour trouver de l’aide et vous réconforter... **ne vous découragez pas et surtout ne restez pas seul !**
+  texte: Après l'avoir écouté, félicitez-le. Expliquez-lui que ce qu'il a dit est
+    important et qu'il a bien fait d'en parler. Dites-lui que ce n'est pas de sa faute.
+    Rappelez-lui pourquoi les agressions sexuelles sont interdites. N'hésitez pas
+    à écrire ce qu'il vous a dit pour vous en souvenir ! On n’a pas le droit de laisser
+    un enfant en danger et dans la peur de parler ou la peur des menaces. Si on sait
+    qu’un enfant est en danger, on doit le signaler tout de suite pour que la situation
+    s’arrête au plus vite. Il faut lui dire clairement que vous ne pouvez pas garder
+    pour vous des choses aussi graves. Pour éviter des complications psychologiques
+    dans l’enfance ou à l’âge adulte tout enfant victime d’agression sexuelle doit
+    être vu rapidement par un médecin pour qu’il puisse l’examiner et voir comment
+    il réagit à ce qu’il a subi. Ce n’est pas toujours évident de savoir à qui demander
+    des conseils. Le plus compliqué est de faire le premier pas, surtout quand l’agresseur
+    est quelqu’un de la famille. Inutile d’en parler à tout le monde pour respecter
+    la pudeur de l’enfant mais osez en parler à quelqu’un de proche. Ça peut donner
+    des pistes pour trouver de l’aide et vous réconforter… ne vous découragez pas
+    et surtout ne restez pas seul !
   image: "/uploads/adultes-09.png"
   icone: "/uploads/zebus.png"
   bulle: "/uploads/bulle-section.png"
@@ -240,27 +248,13 @@ sections:
     * L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière et le médecin scolaire.
     * La brigade des mineurs (police) ou la gendarmerie nationale.
     * Le 119, numéro vert, anonyme et gratuit.
-texte_footer: |-
-  Cette brochure est faite avec des images et
-  des mots simples pour aider les adultes et
-  les enfants à repérer les agressions sexuelles,
-  à savoir les éviter et en parler ensemble.
-
-
-  Les agressions sexuelles ou abus sexuels peuvent
-  être traumatisants pour l’enfant, physiquement
-  et psychologiquement. Ce sont des infractions
-  graves. Elles sont interdites et punies par la loi.
-  Apprendre que ça arrive inquiète et déstabilise.
-  Si vous êtes confronté à ce problème, ne restez
-  pas seul. Faites-vous aider.
-
-
-  En complément, le Permis de prudence est
-  un petit test à partir de cinq ans pour que
-  les enfants puissent parler des situations
-  à risque et apprennent à s’en protéger.
-  À donner aux enfants ! Discutez-en avec eux !
-derniere_ligne: Pouvoir en parler est la première protection !
+texte_footer: Cette brochure est faite avec des images et des mots simples pour aider
+  les adultes et les enfants à repérer les agressions sexuelles, à savoir les éviter
+  et en parler ensemble. Les agressions sexuelles ou abus sexuels peuvent être traumatisants
+  pour l’enfant, physiquement et psychologiquement. Ce sont des infractions graves.
+  Elles sont interdites et punies par la loi. Apprendre que ça arrive inquiète et
+  déstabilise. Si vous êtes confronté à ce problème, ne restez pas seul. Faites-vous
+  aider.
+derniere_ligne: Un enfant averti aura moins peur d’en parler !
 
 ---
