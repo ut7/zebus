@@ -168,9 +168,9 @@ sections:
 
     « Sais-tu que les images que tu mets en ligne sont accessibles à tous et peuvent être utilisées contre toi ? »
 
-    « Sais-tu que certains jeux vidéos sont interdits aux mineurs à cause de leurs contenus sexuels et qu’ils donnent l’exemple de la prostitution ? »
+    « Sais-tu que certains jeux vidéos sont interdits aux mineurs à cause de leurs images sexuelles et parce qu'ils donnent de mauvais exemples, comme la prostitution ? »
 
-    « Sais-tu que les images pornos sur Internet, à la télé ou dans les jeux vidéos ne reflètent pas toujours la vraie sexualité ? »
+    « Sais-tu que les images pornos sur Internet, à la télé ou dans les jeux vidéos montrent parfois une sexualité qui n'est pas vraie ? »
 - template: section
   titre: c'est quoi un abus sexuel ?
   texte: |-
