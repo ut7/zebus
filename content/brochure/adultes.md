@@ -65,7 +65,7 @@ sections:
     qu’ils naissent. Répondez à leurs questions selon leur curiosité, leur niveau
     de compréhension..."
   texte_bulle: |-
-    ##### **« QUAND JE SERAI GRANDE, JE ME MARIERAI AVEC TOI, PAPA ! »**
+    ##### **« QUAND JE SERAI GRANDE, JE ME MARIERAI AVEC TOI, PAPA !&nbsp»**
 
     Comment répondre aux enfants ? Profitez de ce genre de phrase pour parler de sexualité, de ce qui est permis et interdit entre adultes et enfants.
 
