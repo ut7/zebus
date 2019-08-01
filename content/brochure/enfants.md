@@ -37,8 +37,8 @@ icone_reponse_1 = "carré"
 icone_reponse_2 = "point"
 icone_reponse_3 = "triangle"
 image = "/uploads/enfants-03.png"
-question = "Si un grand menace de te frapper parce que tu ne fais pas ce qu'il te demande ..."
-reponses = ["Tu hésites à lui obéir parce qu’il te dit que c’est la dernière fois.", "Tu lui obéis, et tu ne dis rien à personne parce que tu as trop peur.", "Tu en parles à quelqu’un pour qu’il ne recom- mence plus et ne s’attaque pas à d’autres."]
+question = "Si un grand menace de te frapper parce que tu ne fais pas ce qu’il te demande…"
+reponses = ["Tu acceptes de le faire parce qu'il dit que c'est la dernière fois", "Tu lui obéis, et tu ne dis rien à personne parce que tu as trop peur.", "Tu en parles vite à quelqu'un pour qu'il ne s'attaque pas à d'autres."]
 template = "question"
 [questions.ordre_icones]
 icone_reponse_1 = ""
