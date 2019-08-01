@@ -17,7 +17,7 @@ icone_reponse_2 = "carré"
 icone_reponse_3 = "triangle"
 image = "/uploads/enfants-01.png"
 ordre_icones = ["carré", "cercle", "triangle"]
-question = "SI un voisin te demande de venir voir ses bébés chats chez lui …."
+question = "Si un voisin te demande de venir voir ses bébés chats chez lui …."
 reponses = ["Tu y vas, tu adores les chats.", "Tu as envie d'accepter même si tu ne le connais pas.", "Tu dis non parce que tes parents ne sauront pas où tu es et personne ne viendra t'aider si tu en as besoin."]
 template = "question"
 [[questions]]
