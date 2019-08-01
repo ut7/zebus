@@ -25,8 +25,8 @@ icone_reponse_1 = "triangle"
 icone_reponse_2 = "carré"
 icone_reponse_3 = "point"
 image = "/uploads/enfants-02.png"
-question = "Si une inconnue te propose de t'emmener en voiture en disant qu'elle vient de la part de tes parents ..."
-reponses = ["Tu refuses et tu continues ton chemin même si elle insiste.", "Tu te demandes si elle dit vrai et tu discutes avec elle.", "Tu montes dans sa voiture pour arriver plus vite chez toi."]
+question = "Si une inconnue te propose de t’emmener en voiture en disant qu’elle vient de la part de tes parents…. "
+reponses = ["Tu refuses et tu t'en vas car tes parents ne t'ont pas prévenu et tu penses qu'elle pourrait mentir.", "Tu discutes avec elle pour voir si elle dit vrai.", "Tu trouves qu'elle a l'air gentille, tu montes dans sa voiture pour arriver plus vite chez toi."]
 template = "question"
 [questions.ordre_icones]
 icone_reponse_1 = ""
