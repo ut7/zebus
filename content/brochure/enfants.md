@@ -49,8 +49,8 @@ icone_reponse_1 = "triangle"
 icone_reponse_2 = "carré"
 icone_reponse_3 = "point"
 image = "/uploads/enfants-04.png"
-question = "Si quelqu'un que tu as connu dans un jeu en ligne veut te rencontrer sans que tes parents soient au courant ..."
-reponses = ["Tu trouves ça bizarre et tu en parles à tes parents car ça pourrait arriver à d’autres.", "Tu hésites, ça t’amuserait de le rencontrer en vrai... mais ça te fait un peu peur.", "Tu acceptes, tu es content d’avoir un nouvel ami qui s’intéresse à toi."]
+question = "Si quelqu’un que tu as connu sur Internet veut te rencontrer sans que tes parents soient au courant…."
+reponses = ["Tu ne trouves pas ça normal, tu en parles à tes parents car ça pourrait être un pédophile.", "Tu hésites, ça t'amuserait de le rencontrer en vrai… mais ça te fait un peu peur.", "Tu acceptes, tu es content d’avoir un nouvel ami qui s’intéresse à toi."]
 template = "question"
 [questions.ordre_icones]
 icone_reponse_1 = ""
@@ -61,8 +61,8 @@ icone_reponse_1 = "carré"
 icone_reponse_2 = "triangle"
 icone_reponse_3 = "point"
 image = "/uploads/enfants-05.png"
-question = "Si ta grande sœur a un ami qui lui demande une photo d'elle à moitié nue ..."
-reponses = ["Tu te demandes si elle va perdre cet ami si elle ne le fait pas.", "Tu lui dis de refuser parce qu’on ne sait pas ce qu’il peut faire avec cette photo.", "Tu la laisses faire. Tu trouves qu’elle a de la chance de plaire aux garçons."]
+question = "Si ta grande sœur a un ami qui lui demande une photo d’elle toute nue..."
+reponses = ["Tu te demandes si elle va perdre son ami si elle ne lui envoie pas la photo.", "Tu dis à ta sœur de refuser car il pourrait s'en servir contre elle et la montrer à tout le monde.", "Tu la laisses faire. Tu trouves qu’elle a de la chance de plaire aux garçons."]
 template = "question"
 [questions.ordre_icones]
 icone_reponse_1 = ""
