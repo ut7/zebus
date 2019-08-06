@@ -3,10 +3,10 @@ type: brochure
 layout: adultes
 sections:
 - template: section
-  image: "/uploads/adultes-01.png"
+  image: "../../uploads/adultes-01.png"
   bulle: ''
   texte-bulle: ''
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: Pourquoi parler des abus sexuels ?
   texte: |-
     Pas facile d’aborder cette question avec un enfant. Pourtant il faut lui **en parler et le rassurer en lui disant que les adultes sont là pour le protéger.**
@@ -39,8 +39,8 @@ sections:
     Un enfant averti saura plus facilement en parler !
 
 - template: section
-  image: "/uploads/adultes-02.png"
-  bulle: "/uploads/bulle-section.png"
+  image: "../../uploads/adultes-02.png"
+  bulle: "../../uploads/bulle-section.png"
   texte_bulle: |-
 
     ##### « QUAND JE SERAI GRANDE, JE ME MARIERAI AVEC TOI, PAPA ! »
@@ -55,7 +55,7 @@ sections:
     Répondez à leurs questions selon leur curiosité, leur niveau de
     compréhension...
 
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: Parler de sexualité avec l'enfant
   texte: |-
     L’éducation sexuelle se fait naturellement au cours de la vie quotidienne.
@@ -78,8 +78,8 @@ sections:
     et l’oblige à se déshabiller** en prétextant que c’est un jeu.
 
 - template: section
-  image: "/uploads/adultes-03.png"
-  bulle: "/uploads/bulle-section.png"
+  image: "../../uploads/adultes-03.png"
+  bulle: "../../uploads/bulle-section.png"
   texte_bulle: |-
 
     ##### DES PARENTS, PAS DES COPAINS !
@@ -89,7 +89,7 @@ sections:
     croient. Ce sont des exemples pour l’enfant, dans leurs paroles et dans
     leurs comportements. C’est avec eux qu’il apprend le vivre-ensemble.
 
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: la place de l'enfant
   texte: |-
     **L’enfant est une personne mais pas une grande personne. S’il est curieux du
@@ -116,8 +116,8 @@ sections:
     est normal et ce qui ne l’est pas.**
 
 - template: section
-  image: "/uploads/adultes-04.png"
-  bulle: "/uploads/bulle-section.png"
+  image: "../../uploads/adultes-04.png"
+  bulle: "../../uploads/bulle-section.png"
   texte_bulle: |-
 
     ##### EXPLIQUEZ-LUI CLAIREMENT COMMENT SE PROTÉGER.
@@ -131,7 +131,7 @@ sections:
     trouver refuge dans le magasin le plus proche ou se faire accompagner par
     un copain.
 
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: comment l'aider sans le sur-protéger ?
   texte: |-
 
@@ -158,8 +158,8 @@ sections:
     de lui, il osera parler de ce qui le tracasse.**
 
 - template: section
-  image: "/uploads/adultes-05.png"
-  bulle: "/uploads/bulle-section.png"
+  image: "../../uploads/adultes-05.png"
+  bulle: "../../uploads/bulle-section.png"
   texte_bulle: |-
 
     ##### GRÂCE À MA BOUSSOLE, JE SAIS OU ALLER !
@@ -174,7 +174,7 @@ sections:
     S’il répond Non à une seule question, il ne doit pas accepter de le suivre.  
     _(programme canadien, Mon corps c’est mon corps.)_
 
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: Ce qu'il a besoin d'entendre…
   texte: |-
 
@@ -198,8 +198,8 @@ sections:
     parles à quelqu’un, même si tu avais promis de ne rien dire au début ! »
 
 - template: section
-  image: "/uploads/adultes-06.png"
-  bulle: "/uploads/bulle-section.png"
+  image: "../../uploads/adultes-06.png"
+  bulle: "../../uploads/bulle-section.png"
   texte_bulle: |-
 
     ##### POSEZ-LUI DES QUESTIONS !
@@ -214,7 +214,7 @@ sections:
     « Sais-tu que les images pornos sur Internet, à la télé ou dans les jeux
     vidéos montrent parfois une sexualité qui n'est pas vraie ? »
 
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: L'aider à être prudent sur internet
   texte: |-
 
@@ -240,8 +240,8 @@ sections:
     18 ans est interdit et puni sévèrement.
 
 - template: section
-  image: "/uploads/adultes-07.png"
-  bulle: "/uploads/bulle-section.png"
+  image: "../../uploads/adultes-07.png"
+  bulle: "../../uploads/bulle-section.png"
   texte_bulle: |-
     ##### LES ABUS SEXUELS SONT PUNIS PAR LA LOI.
 
@@ -252,7 +252,7 @@ sections:
     qui ressentent des pulsions pédophiles, il existe des consultations
     spécialisées pour se soigner.
 
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: Les abus sexuels sont interdits ?
   texte: |-
 
@@ -282,8 +282,8 @@ sections:
     famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
 
 - template: section
-  image: "/uploads/adultes-08.png"
-  bulle: "/uploads/bulle-section.png"
+  image: "../../uploads/adultes-08.png"
+  bulle: "../../uploads/bulle-section.png"
   texte_bulle: |-
 
     ##### ÉCOUTEZ-LE !
@@ -294,7 +294,7 @@ sections:
     Ecoutez-le sans le harceler de questions, sans chercher à avoir des détails
     tout de suite, sans avoir l’air affolé.
 
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: les adultes sont là pour le protéger.
   texte: |-
 
@@ -318,8 +318,8 @@ sections:
     d’envoyer un signal.**
 
 - template: section
-  image: "/uploads/adultes-09.png"
-  bulle: "/uploads/bulle-section.png"
+  image: "../../uploads/adultes-09.png"
+  bulle: "../../uploads/bulle-section.png"
   texte_bulle: |-
 
     ##### À QUI S’ADRESSER ?
@@ -335,7 +335,7 @@ sections:
     * La brigade des mineurs (police) ou la gendarmerie nationale.
     * Le 119, numéro vert, anonyme et gratuit.
 
-  icone: "/uploads/zebus.png"
+  icone: "../../uploads/zebus.png"
   titre: quand l'enfant se confie…
   texte: |-
 

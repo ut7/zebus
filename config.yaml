@@ -3,7 +3,7 @@ DefaultContentLanguage: "fr"
 languageCode: "fr-fr"
 title: "Zébus"
 disableKinds: ["taxonomy", "taxonomyTerm"]
-publishDir: "docs"
 metaDataFormat: "yaml"
+publishDir: "public/zebus"
 blackfriday:
   fractions: false

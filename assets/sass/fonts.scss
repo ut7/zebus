@@ -1,10 +1,10 @@
 @import 'mixins.scss';
 
-@include font-face(Amandine, /zebus/fonts/Amandine, null, null, ttf);
-@include font-face("Beautiful Heartbeat", /zebus/fonts/BeautifulHeartbeat, null, null, otf);
-@include font-face(DINPro, /zebus/fonts/DINPro, null, null, otf);
-@include font-face(DINPro-Bold, /zebus/fonts/DINPro-Bold, Bold, null, otf);
-@include font-face(DINPro-Light, /zebus/fonts/DINPro-Light, Normal, null, otf);
-@include font-face(DINPro-Medium, /zebus/fonts/DINPro-Medium, Medium, null, otf);
-@include font-face(BotonBold, /zebus/fonts/BotonBold, Bold, null, ttf);
-@include font-face(Literata, /zebus/fonts/Literata-Medium, Medium, null, ttf);
+@include font-face(Amandine, "../fonts/Amandine", null, null, ttf);
+@include font-face("Beautiful Heartbeat", "../fonts/BeautifulHeartbeat", null, null, otf);
+@include font-face(DINPro, "../fonts/DINPro", null, null, otf);
+@include font-face(DINPro-Bold, "../fonts/DINPro-Bold", Bold, null, otf);
+@include font-face(DINPro-Light, "../fonts/DINPro-Light", Normal, null, otf);
+@include font-face(DINPro-Medium, "../fonts/DINPro-Medium", Medium, null, otf);
+@include font-face(BotonBold, "../fonts/BotonBold", Bold, null, ttf);
+@include font-face(Literata, "../fonts/Literata-Medium", Medium, null, ttf);

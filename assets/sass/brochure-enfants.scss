@@ -29,7 +29,7 @@
     padding: 5rem;
     font-size: 1.5rem;
     text-align: center;
-    background-image: url(/zebus/uploads/bulle-longue.svg);
+    background-image: url(../uploads/bulle-longue.svg);
     background-repeat: no-repeat;
     background-size: contain;
     color: #fff;
@@ -60,9 +60,9 @@
         margin-bottom: 2rem;
       }
 
-      & .triangle { background-image: url(/zebus/uploads/triangle.gif); }
-      & .point { background-image: url(/zebus/uploads/point.gif); }
-      & .carré { background-image: url(/zebus/uploads/carré.gif); }
+      & .triangle { background-image: url(../uploads/triangle.gif); }
+      & .point { background-image: url(../uploads/point.gif); }
+      & .carré { background-image: url(../uploads/carré.gif); }
     }
   }
 
