@@ -4,88 +4,136 @@
   align-items: center;
   padding: 1rem 4rem 2rem 4rem;
 
-  & h1,h2 {
+  @include breakpoint(mobileonly) {
+    padding: 1rem 1rem 2rem 1rem;
+  }
+
+  @include breakpoint(tablet) {
+    padding: 1rem 8rem 2rem 8rem;
+  }
+
+  h1,h2 {
     font-family: Amandine;
     font-weight: normal;
   }
-  & .icone { width: 5rem; }
+  .icone { width: 5rem; }
 
-  & .titre {
-    font-size: 4rem;
+  .titre {
+    font-size: 3rem;
     margin-bottom: 0;
-    &.large {
-      font-size: 7rem;
-    }
   }
 
-  & .sous-titre {
-    font-size: 3rem;
+  .sous-titre {
+    font-size: 1.7rem;
     margin-top: 1rem;
   }
 
-  & .intro {
-    width: 65rem;
-    margin: 0 auto;
+  @include breakpoint(tablet) {
+    .titre {
+      font-size: 4rem;
+    }
+    .sous-titre {
+      font-size: 3rem;
+    }
+  }
+
+  .intro {
+    width: 80%;
+    margin: 0;
     padding: 5rem;
     font-size: 1.5rem;
     text-align: center;
     background-image: url(../uploads/bulle-longue.svg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 100% 100%;
     color: #fff;
   }
 
-  & .question {
+  @include breakpoint(mobileonly) {
+    .titre {
+      font-size: 1.5rem;
+    }
+
+    .intro {
+      font-size: 1rem;
+    }
+  }
+
+
+  .question {
     margin: 5rem;
     text-align: center;
 
-    & .image {
+    .image {
       width: 100%;
     }
-    & .titre {
-      font-size: 2.7rem;
+    .titre {
+      font-size: 2rem;
       width: 100%;
     }
-    & .reponses {
+    .reponses {
       text-align: left;
       font-family: DINPro;
-      font-size: 1.7rem;
+      font-size: 1.5rem;
 
-      & li {
+      li {
         list-style: none;
         background-size: 2.3rem;
         background-repeat: no-repeat;
         background-position: top left;
-        padding: 0 0 0 4rem;
+        padding: 0 0 0 3rem;
         margin-bottom: 2rem;
       }
 
-      & .triangle { background-image: url(../uploads/triangle.gif); }
-      & .point { background-image: url(../uploads/point.gif); }
-      & .carré { background-image: url(../uploads/carré.gif); }
+      .triangle { background-image: url(../uploads/triangle.gif); }
+      .point { background-image: url(../uploads/point.gif); }
+      .carré { background-image: url(../uploads/carré.gif); }
+    }
+
+    @include breakpoint(tablet) {
+      .titre {
+        font-size: 2.7rem;
+      }
+      .reponses {
+        font-size: 1.7rem;
+      }
     }
   }
 
-  & .section-reponses {
+  .section-reponses {
     width: 100%;
     text-align: center;
 
-    & .contenu {
-      width: 50%;
+    .titre {
+      font-size: 5rem;
+    }
+
+    .contenu {
+      width: 80%;
       margin: auto;
 
-      & img { width: 2rem; }
-      & .instructions {
-        margin-bottom: 5rem;
+      img { width: 2rem; }
+      .instructions {
+        margin-bottom: 4rem;
         text-transform: uppercase;
       }
-      & .resultats {
-        & p:nth-child(even) {
+      .resultats {
+        p:nth-child(even) {
           margin-bottom: 2rem;
         }
-        & p {
+        p {
           font-size: 1.5rem;
         }
+      }
+    }
+
+    @include breakpoint(tablet) {
+      .titre {
+        font-size: 7rem;
+      }
+
+      .contenu {
+        width: 50%;
       }
     }
   }

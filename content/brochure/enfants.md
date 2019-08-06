@@ -13,7 +13,7 @@ introduction: >-
   parler aux autres pour se faire aider et comprendre que ce n'est jamais de sa
   faute. Un enfant averti aura moins peur d'en parler. **Passe ton permis de
   prudence** en répondant aux questions du test, pour voir si tu sais éviter les
-  situations dangereuses et **découvre ton résultat en page 14**.
+  situations dangereuses et **découvre ton résultat en bas de cette page**.
 
 sous_titre: Un enfant averti aura moins peur d’en parler.
 questions:

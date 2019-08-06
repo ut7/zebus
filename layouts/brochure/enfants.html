@@ -10,7 +10,7 @@
       {{ partial "blocks/question" . }}
     {{ end }}
     <section class="section-reponses">
-      <h1 class="titre large">{{ .Params.Titre_section_reponses }}</h1>
+      <h1 class="titre">{{ .Params.Titre_section_reponses }}</h1>
       <div class="contenu">
         <p class="instructions">{{ .Params.Instructions | markdownify }}</p>
         <div class="resultats">{{ .Params.Resultats | markdownify }}</div>
