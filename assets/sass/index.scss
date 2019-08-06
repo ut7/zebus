@@ -10,7 +10,7 @@ main {
   @include breakpoint(desktop) {
     flex-direction: row;
     & section {
-      width: 50%;
+      width: 70%;
     }
   }
 }
