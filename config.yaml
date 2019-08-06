@@ -5,3 +5,5 @@ title: "Zébus"
 disableKinds: ["taxonomy", "taxonomyTerm"]
 publishDir: "docs"
 metaDataFormat: "yaml"
+blackfriday:
+  fractions: false
