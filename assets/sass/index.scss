@@ -41,7 +41,6 @@ main {
   }
 
   @include breakpoint(mobileonly) {
-    background-image: url(../bulle-mobile.svg);
     text-align: center;
   }
 }
