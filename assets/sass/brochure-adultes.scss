@@ -58,19 +58,15 @@
 
   & .footer {
     margin-top: 10rem;
+    padding: 5rem;
     font-family: DINPro;
     font-size: 1.5rem;
-    width: 50%;
+    width: 60%;
+    background-image: url(../uploads/bulle-bleue.svg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 
     & p { color: white; }
-
-    & .background {
-      position: absolute;
-      width: 46rem;
-      z-index: -1;
-      margin-left: -23rem;
-      margin-top: -5rem;
-    }
 
     & h1 {
       font-family: BotonBold;
