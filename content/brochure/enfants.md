@@ -216,4 +216,6 @@ resultats: >-
   Bravo ! Tu as ton permis avec les félicitations du jury. Tu as même le droit
   de le faire passer à tes copains et copines.
 
+image_bravo: ../../uploads/enfants-12.png
+
 ---

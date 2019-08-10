@@ -2,10 +2,12 @@
 
 {{ define "main" }}
   <main class="brochure enfants">
-    <img class="icone" src="{{ .Params.Icone_zebus }}">
-    <h1 class="titre">{{ .Params.Titre }}</h1>
-    <p class="intro">{{ .Params.Introduction | markdownify }}</p>
-    <h2 class="sous-titre">{{ .Params.Sous_titre }}</h2>
+    <section class="section-introduction">
+      <img class="icone" src="{{ .Params.Icone_zebus }}">
+      <h1 class="titre">{{ .Params.Titre }}</h1>
+      <p class="intro">{{ .Params.Introduction | markdownify }}</p>
+      <h2 class="sous-titre">{{ .Params.Sous_titre }}</h2>
+    </section>
     {{ range .Params.questions }}
       {{ partial "blocks/question" . }}
     {{ end }}
@@ -15,6 +17,9 @@
         <p class="instructions">{{ .Params.Instructions | markdownify }}</p>
         <div class="resultats">{{ .Params.Resultats | markdownify }}</div>
       </div>
+    </section>
+    <section class="section-bravo">
+      <img class="image" src="{{ .Params.Image_bravo }}">
     </section>
   </main>
 {{ end }}

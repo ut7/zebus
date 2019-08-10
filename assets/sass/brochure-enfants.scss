@@ -4,6 +4,17 @@
   align-items: center;
   padding: 1rem 4rem 2rem 4rem;
 
+  .image {
+    width: 100%;
+  }
+
+  section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5rem;
+  }
+
   @include breakpoint(mobileonly) {
     padding: 1rem 1rem 2rem 1rem;
   }
@@ -16,61 +27,64 @@
     font-family: Amandine;
     font-weight: normal;
   }
-  .icone { width: 5rem; }
 
-  .titre {
-    font-size: 3rem;
-    margin-bottom: 0;
-  }
+  .section-introduction {
 
-  .sous-titre {
-    font-size: 1.7rem;
-    margin-top: 1rem;
-  }
+    width: 100%;
 
-  @include breakpoint(tablet) {
+    .icone { width: 5rem; }
+
     .titre {
-      font-size: 4rem;
-    }
-    .sous-titre {
       font-size: 3rem;
+      margin-bottom: 0;
     }
-  }
 
-  .intro {
-    width: 80%;
-    margin: 0;
-    padding: 5rem;
-    font-size: 1.5rem;
-    text-align: center;
-    background-image: url(../uploads/bulle-longue.svg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-    color: #fff;
-  }
+    .sous-titre {
+      font-size: 1.7rem;
+      margin-top: 1rem;
+    }
 
-  @include breakpoint(mobileonly) {
-    .titre {
-      font-size: 1.5rem;
+    @include breakpoint(tablet) {
+      .titre {
+        font-size: 4rem;
+      }
+      .sous-titre {
+        font-size: 3rem;
+      }
     }
 
     .intro {
-      font-size: 1rem;
+      width: 80%;
+      margin: 0;
+      padding: 5rem;
+      font-size: 1.5rem;
+      text-align: center;
+      background-image: url(../uploads/bulle-longue.svg);
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      color: #fff;
+    }
+
+    @include breakpoint(mobileonly) {
+      .titre {
+        font-size: 1.5rem;
+      }
+
+      .intro {
+        font-size: 1rem;
+      }
     }
   }
 
 
   .question {
-    margin: 5rem;
     text-align: center;
 
-    .image {
-      width: 100%;
-    }
     .titre {
       font-size: 2rem;
       width: 100%;
     }
+
     .reponses {
       text-align: left;
       font-family: DINPro;
@@ -113,6 +127,7 @@
       margin: auto;
 
       img { width: 2rem; }
+
       .instructions {
         margin-bottom: 4rem;
         text-transform: uppercase;
@@ -137,5 +152,8 @@
       }
     }
   }
+  .section-bravo {
+  }
+
 }
 
