@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 1rem 4rem 2rem 4rem;
+  padding: 1rem 2.5rem 2rem 2.5rem;
 
   .image {
     width: 100%;
@@ -56,7 +56,7 @@
     .intro {
       width: 80%;
       margin: 0;
-      padding: 5rem;
+      padding: 6rem;
       font-size: 1.5rem;
       text-align: center;
       background-image: url(../uploads/bulle-longue.svg);
@@ -161,18 +161,23 @@
     ol {
       display: flex;
       flex-wrap: wrap;
+      align-items: baseline;
       counter-reset: conseil;
 
       li {
         counter-increment: conseil;
         font-family: DINPro;
-        font-size: 1.5rem;
-        width: 45%;
-        padding: 1rem;
+        font-size: 1.2rem;
+        width: 34%;
         list-style-type: none;
         display: flex;
         flex-direction: column;
         text-align: center;
+        color: white;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        padding: 1.5rem;
+        margin: 0.5rem;
       }
 
       li:before {
@@ -186,9 +191,40 @@
         font-family: Amandine;
         font-weight: bold;
         font-size: 1.3em;
-        color: white;
+        color: $rouge;
         text-align: center;
       }
+
+      .conseil-1 {
+        background-image: url(../uploads/bulle-conseil-1.svg);
+      }
+
+      .conseil-2 {
+        background-image: url(../uploads/bulle-conseil-2.svg);
+        padding: 1rem 2rem 2rem 2rem;
+      }
+
+      .conseil-3 {
+        background-image: url(../uploads/bulle-conseil-3.svg);
+      }
+
+      .conseil-4 {
+        background-image: url(../uploads/bulle-conseil-4.svg);
+      }
+
+      .conseil-5 {
+        background-image: url(../uploads/bulle-conseil-5.svg);
+        width: 75%;
+      }
+
+      .conseil-6 {
+        background-image: url(../uploads/bulle-conseil-6.svg);
+      }
+
+      .conseil-7 {
+        background-image: url(../uploads/bulle-conseil-7.svg);
+      }
+
     }
 
     @include breakpoint(tablet) {
