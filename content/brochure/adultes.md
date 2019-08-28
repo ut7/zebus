@@ -40,7 +40,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-02.png"
-  bulle: "../../uploads/bulle-section.png"
+  bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
 
     ##### « QUAND JE SERAI GRANDE, JE ME MARIERAI AVEC TOI, PAPA ! »
@@ -79,7 +79,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-03.png"
-  bulle: "../../uploads/bulle-section.png"
+  bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
 
     ##### DES PARENTS, PAS DES COPAINS !
@@ -117,7 +117,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-04.png"
-  bulle: "../../uploads/bulle-section.png"
+  bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
 
     ##### EXPLIQUEZ-LUI CLAIREMENT COMMENT SE PROTÉGER.
@@ -159,7 +159,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-05.png"
-  bulle: "../../uploads/bulle-section.png"
+  bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
 
     ##### GRÂCE À MA BOUSSOLE, JE SAIS OU ALLER !
@@ -199,7 +199,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-06.png"
-  bulle: "../../uploads/bulle-section.png"
+  bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
 
     ##### POSEZ-LUI DES QUESTIONS !
@@ -241,7 +241,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-07.png"
-  bulle: "../../uploads/bulle-section.png"
+  bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
     ##### LES ABUS SEXUELS SONT PUNIS PAR LA LOI.
 
@@ -283,7 +283,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-08.png"
-  bulle: "../../uploads/bulle-section.png"
+  bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
 
     ##### ÉCOUTEZ-LE !
@@ -319,7 +319,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-09.png"
-  bulle: "../../uploads/bulle-section.png"
+  bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
 
     ##### À QUI S’ADRESSER ?
