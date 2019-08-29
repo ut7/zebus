@@ -43,12 +43,12 @@ sections:
   bulle: "../../uploads/bulle-section.svg"
   texte_bulle: |-
 
-    ##### « QUAND JE SERAI GRANDE, JE ME MARIERAI AVEC TOI, PAPA ! »
+    > « Quand je serai grande, je me marierai avec toi, papa ! »
 
     Comment répondre aux enfants ? Profitez de ce genre de phrase pour parler
     de sexualité, de ce qui est permis et interdit entre adultes et enfants.
 
-    ##### « COMMENT ON FAIT LES BÉBÉS ? »
+    > « Comment on fait les bébés ? »
 
     Ne leur donnez pas qu’une réponse anatomique, ils se renseignent aussi sur
     l’origine de la vie, pourquoi les parents ont voulu qu’ils naissent.
