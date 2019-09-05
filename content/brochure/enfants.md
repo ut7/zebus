@@ -13,7 +13,7 @@ introduction: >-
   parler aux autres pour se faire aider et comprendre que ce n'est jamais de sa
   faute. Un enfant averti aura moins peur d'en parler. **Passe ton permis de
   prudence** en répondant aux questions du test, pour voir si tu sais éviter les
-  situations dangereuses et **découvre ton résultat en bas de cette page**.
+  situations dangereuses et **découvre ton résultat à la fin**.
 
 sous_titre: Un enfant averti aura moins peur d’en parler.
 questions:
@@ -40,7 +40,7 @@ questions:
     icone_reponse_3: point
     reponses:
       - >-
-        Tu refuses et tu t'en vas car tes parents ne t'ont pas prévenu et tu
+        Tu refuses et tu t'en vas car tes parents ne t'ont pas prévenue et tu
         penses qu'elle pourrait mentir.
       - Tu discutes avec elle pour voir si elle dit vrai.
       - >-
@@ -115,7 +115,7 @@ questions:
     icone_reponse_3: triangle
     reponses:
       - Tu hésites à rester, ça te gêne mais tu ne sais pas quoi faire.
-      - Tu acceptes car tu es surpris et tu as trop peur.
+      - Tu acceptes car tu es surprise et tu as trop peur.
       - Tu pars. Tu penses « Non, pas question » ! Il n'a pas le droit, c'est interdit par la loi.
 
   - question: Si un inconnu veut te parler de sexe en te demandant de garder le secret…

@@ -11,7 +11,7 @@ sections:
   texte: |-
     Pas facile d’aborder cette question avec un enfant. Pourtant il faut lui **en parler et le rassurer en lui disant que les adultes sont là pour le protéger.**
 
-    **En enfant ne peut imaginer ce qu’est la sexualité**. Il découvre en
+    **Un enfant ne peut imaginer ce qu’est la sexualité**. Il découvre en
     grandissant qu’il est fille ou garçon, qu’il y a des parties du corps qui
     sont privées et que les câlins qu’on fait à un enfant n’ont rien à voir
     avec la sexualité entre adultes.
@@ -36,7 +36,7 @@ sections:
 
     La brochure enfants, Le Permis de prudence, est un petit test à donner aux enfants à partir de cinq ans pour leur apprendre à bien réagir dans des situations dangereuses, en sachant ce qui est autorisé ou interdit, et pour en discuter avec eux.
 
-    Un enfant averti saura plus facilement en parler !
+    **Un enfant averti aura moins peur d'en parler !**
 
 - template: section
   image: "../../uploads/adultes-02.png"
@@ -253,7 +253,7 @@ sections:
     spécialisées pour se soigner.
 
   icone: "../../uploads/zebus.png"
-  titre: Les abus sexuels sont interdits ?
+  titre: Les abus sexuels sont interdits !
   texte: |-
 
     Les agressions sexuelles ou abus sexuels sont des actes très graves par
@@ -300,7 +300,7 @@ sections:
 
     L'enfant peut avoir peur, être en colère, ou être gêné de dire ce qui lui
     arrive. Parfois, il peut penser qu'il a fait quelque chose de mal. Ne le
-    gronder pas en lui disant qu'il n'aurait pas dû se laisser faire ou qu'il
+    grondez pas en lui disant qu'il n'aurait pas dû se laisser faire ou qu'il
     aurait dû vous en parler plus tôt. Montrez-lui que vous lui faites
     confiance, il se confiera plus facilement, et dîtes lui que vous allez
     l'aider.
@@ -376,6 +376,6 @@ texte_footer: |-
   et déstabilise. Si vous êtes confronté à ce problème, ne restez pas seul.
   Faites-vous aider.
 
-derniere_ligne: Pouvoir en parler est la première des protections ! Un enfant averti aura moins peur d’en parler !
+derniere_ligne: Un enfant averti aura moins peur d’en parler !
 
 ---

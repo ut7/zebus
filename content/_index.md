@@ -6,7 +6,7 @@ Pas facile d’aborder le problème des agressions sexuelles avec un enfant.
 Pourtant il faut lui en parler et le rassurer en lui disant que les adultes
 sont là pour le protéger.
 
-En enfant ne peut imaginer ce qu’est la sexualité. Il décrouvre en grandissant
+Un enfant ne peut imaginer ce qu’est la sexualité. Il décrouvre en grandissant
 qu’il est fille ou garçon, qu’il y a des parties du corps qui sont privées et
 que les câlins qu’on fait à un enfant n’ont rien à voir avec la sexualité entre
 adultes.
@@ -32,4 +32,4 @@ prudence, est un petit test à donner aux enfants à partir de cinq ans pour leu
 apprendre à bien réagir dans des situations dangereuses, en sachant ce qui est
 autorisé ou interdit, et pour en discuter avec eux.
 
-**Un enfant averti saura plus facilement en parler !**
+**Un enfant averti aura moins peur d'en parler !**
