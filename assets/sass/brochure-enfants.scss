@@ -174,8 +174,8 @@
       li {
         counter-increment: conseil;
         font-family: DINPro;
-        font-size: 1.2rem;
-        width: 34%;
+        font-size: 2rem;
+        width: 100%;
         list-style-type: none;
         display: flex;
         flex-direction: column;
@@ -197,7 +197,7 @@
         padding: 0.4rem;
         font-family: Amandine;
         font-weight: bold;
-        font-size: 1.3em;
+        font-size: 1.2em;
         color: $rouge;
         text-align: center;
       }
@@ -221,7 +221,7 @@
 
       .conseil-5 {
         background-image: url(../uploads/bulle-conseil-5.svg);
-        width: 75%;
+        width: 100%;
       }
 
       .conseil-6 {
@@ -234,26 +234,23 @@
 
     }
 
-    @include breakpoint(mobileonly) {
-      ol {
-        padding: 0;
-
-        li {
-          width: 100%;
-        }
-
-        .conseil-5 {
-          width: 100%;
-        }
-      }
-    }
-
     @include breakpoint(tablet) {
       h1 {
         font-size: 4rem;
       }
-    }
 
+      ol {
+
+        li {
+          width: 34%;
+          font-size: 1.5rem;
+        }
+
+        .conseil-5 {
+          width: 75%;
+        }
+      }
+    }
   }
 
 }
