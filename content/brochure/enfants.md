@@ -35,29 +35,29 @@ questions:
       de la part de tes parents…
     template: question
     image: ../../uploads/enfants-02.png
-    icone_reponse_1: triangle
+    icone_reponse_1: point
     icone_reponse_2: carré
-    icone_reponse_3: point
+    icone_reponse_3: triangle
     reponses:
-      - >-
-        Tu refuses et tu t'en vas car tes parents ne t'ont pas prévenue et tu
-        penses qu'elle pourrait mentir.
-      - Tu discutes avec elle pour voir si elle dit vrai.
       - >-
         Tu trouves qu'elle a l'air gentille, tu montes dans sa voiture pour
         arriver plus vite chez toi.
+      - Tu discutes avec elle pour voir si elle dit vrai.
+      - >-
+        Tu refuses et tu t'en vas car tes parents ne t'ont pas prévenue et tu
+        penses qu'elle pourrait mentir.
 
   - question: >-
       Si un grand menace de te frapper parce que tu ne fais pas ce qu’il te
       demande…
     template: question
     image: ../../uploads/enfants-03.png
-    icone_reponse_1: carré
-    icone_reponse_2: point
+    icone_reponse_1: point
+    icone_reponse_2: carré
     icone_reponse_3: triangle
     reponses:
-      - Tu acceptes de le faire parce qu'il dit que c'est la dernière fois
       - Tu lui obéis, et tu ne dis rien à personne parce que tu as trop peur.
+      - Tu acceptes de le faire parce qu'il dit que c'est la dernière fois
       - Tu en parles vite à quelqu'un pour qu'il ne s'attaque pas à d'autres.
 
   - question: >-
@@ -65,73 +65,73 @@ questions:
       parents soient au courant…
     template: question
     image: ../../uploads/enfants-04.png
-    icone_reponse_1: triangle
+    icone_reponse_1: point
     icone_reponse_2: carré
-    icone_reponse_3: point
+    icone_reponse_3: triangle
     reponses:
-      - >-
-        Tu ne trouves pas ça normal, tu en parles à tes parents car ça pourrait
-        être un pédophile.
+      - Tu acceptes, tu es content d’avoir un nouvel ami qui s’intéresse à toi.
       - >-
         Tu hésites, ça t'amuserait de le rencontrer en vrai… mais ça te fait un
         peu peur.
-      - Tu acceptes, tu es content d’avoir un nouvel ami qui s’intéresse à toi.
+      - >-
+        Tu ne trouves pas ça normal, tu en parles à tes parents car ça pourrait
+        être un pédophile.
 
   - question: Si ta grande sœur a un ami qui lui demande une photo d’elle toute nue…
     template: question
     image: ../../uploads/enfants-05.png
-    icone_reponse_1: carré
-    icone_reponse_2: triangle
-    icone_reponse_3: point
+    icone_reponse_1: point
+    icone_reponse_2: carré
+    icone_reponse_3: triangle
     reponses:
+      - >-
+        Tu la laisses faire. Tu trouves qu’elle a de la chance de plaire aux
+        garçons.
       - >-
         Tu te demandes si elle va perdre son ami si elle ne lui envoie pas la
         photo.
       - >-
         Tu dis à ta sœur de refuser car il pourrait s'en servir contre elle et
         la montrer à tout le monde.
-      - >-
-        Tu la laisses faire. Tu trouves qu’elle a de la chance de plaire aux
-        garçons.
 
   - question: Si un copain veut regarder avec toi des images sexuelles sur sa tablette…
     template: question
     image: ../../uploads/enfants-06.png
-    icone_reponse_1: triangle
-    icone_reponse_2: point
-    icone_reponse_3: carré
+    icone_reponse_1: point
+    icone_reponse_2: carré
+    icone_reponse_3: triangle
     reponses:
+      - Tu acceptes pour en savoir plus. Ça t’intéresse !
+      - Tu hésites à refuser pour ne pas le décevoir.
       - >-
         Tu lui dis que c'est dégoûtant, que ce n'est pas de ton âge, que tu
         préfères les dessins animés.
-      - Tu acceptes pour en savoir plus. Ça t’intéresse !
-      - Tu hésites à refuser pour ne pas le décevoir.
 
   - question: Si un ado se montre nu devant toi et te demande de te déshabiller…
     template: question
     image: ../../uploads/enfants-07.png
-    icone_reponse_1: carré
-    icone_reponse_2: point
+    icone_reponse_1: point
+    icone_reponse_2: carré
     icone_reponse_3: triangle
     reponses:
-      - Tu hésites à rester, ça te gêne mais tu ne sais pas quoi faire.
       - Tu acceptes car tu es surprise et tu as trop peur.
+      - Tu hésites à rester, ça te gêne mais tu ne sais pas quoi faire.
       - Tu pars. Tu penses « Non, pas question » ! Il n'a pas le droit, c'est interdit par la loi.
 
   - question: Si un inconnu veut te parler de sexe en te demandant de garder le secret…
     template: question
     image: ../../uploads/enfants-08.png
-    icone_reponse_1: triangle
-    icone_reponse_2: point
-    icone_reponse_3: carré
+    icone_reponse_1: point
+    icone_reponse_2: carré
+    icone_reponse_3: triangle
     reponses:
-      - >-
-        Tu t'en vas parce que ce n'est pas normal comme secret et tu en parles
-        vite à quelqu'un.
       - Tu l’écoutes, ça t’intéresse et tu es fière qu’il te confie un secret.
       - >-
         Tu ne sais pas quoi faire, ni comment répondre, et tu n'oses pas dire
         non.
+      - >-
+        Tu t'en vas parce que ce n'est pas normal comme secret et tu en parles
+        vite à quelqu'un.
 
   - question: >-
       Si quelqu'un que tu connais essaie de te faire des gestes sexuels en
@@ -139,30 +139,30 @@ questions:
     template: question
     image: ../../uploads/enfants-10.png
     icone_reponse_1: point
-    icone_reponse_2: triangle
-    icone_reponse_3: carré
+    icone_reponse_2: carré
+    icone_reponse_3: triangle
     reponses:
       - Tu n’oses pas refuser… tu es fier qu’on te prenne pour une grande personne…
+      - Tu t’éloignes et tu hésites à en parler car c’est quelqu’un que tu connais.
       - >-
         Tu t'en vas et tu le dénonces. Tu sais que c'est interdit les gestes
         sexuels avec les enfants.
-      - Tu t’éloignes et tu hésites à en parler car c’est quelqu’un que tu connais.
 
   - question: >-
       Si une personne que tu aimes bien essaie de te faire des caresses intimes
       qui te gênent…
     template: question
     image: ../../uploads/enfants-09.png
-    icone_reponse_1: carré
-    icone_reponse_2: point
+    icone_reponse_1: point
+    icone_reponse_2: carré
     icone_reponse_3: triangle
     reponses:
       - >-
-        Tu hésites à refuser car ce n'est pas désagréable mais ça te gêne
-        énormément.
-      - >-
         Tu te laisses faire pour lui faire plaisir et tu es assez contente qu'on
         s'intéresse à toi.
+      - >-
+        Tu hésites à refuser car ce n'est pas désagréable mais ça te gêne
+        énormément.
       - >-
         Tu dis non même si c'est quelqu'un que tu aimes bien ! Tu sais qu'il
         n'en a pas le droit.
