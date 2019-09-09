@@ -6,7 +6,8 @@
 
   & .image {
     display: block;
-    width: 32rem;
+    width: 100%;
+    max-width: 40rem;
     margin: 0 auto;
   }
 
