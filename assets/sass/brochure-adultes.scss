@@ -4,18 +4,18 @@
   align-items: center;
   text-align: center;
 
-  & .image {
+  .image {
     display: block;
     width: 100%;
     max-width: 40rem;
     margin: 0 auto;
   }
 
-  & .bulle {
+  .bulle {
     margin-top: -4rem;
     position: relative;
 
-    & .bulle-texte {
+    .bulle-texte {
       font-family: Literata;
       color: white;
       position: relative;
@@ -23,7 +23,7 @@
       background-size: 100% 100%;
       background-repeat: no-repeat;
 
-      & h1,h2,h3,h4,h5,h6 {
+      h1,h2,h3,h4,h5,h6 {
         font-family: BotonBold;
         font-size: 1rem;
         margin: 0;
@@ -33,7 +33,7 @@
         font-size: 1.7rem;
         margin: 0;
       }
-      & p {
+      p {
         font-family: Literata;
       }
 
@@ -43,12 +43,12 @@
     }
   }
 
-  & .icone {
+  .icone {
     width: 5rem;
     margin-top: 5rem;
   }
 
-  & .titre {
+  .titre {
     font-family: Beautiful Heartbeat;
     font-weight: normal;
     text-transform: lowercase;
@@ -57,12 +57,12 @@
     margin-top: 2rem;
   }
 
-  & .texte {
+  .texte {
     font-size: 1.5rem;
     text-align: justify;
   }
 
-  & .footer {
+  .footer {
     margin-top: 10rem;
     padding: 5rem;
     font-family: DINPro;
@@ -72,9 +72,9 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
 
-    & p { color: white; }
+    p { color: white; }
 
-    & h1 {
+    h1 {
       font-family: BotonBold;
       font-size: 2rem;
       line-height: 2.5rem;
