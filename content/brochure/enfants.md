@@ -217,5 +217,13 @@ resultats: >-
   de le faire passer à tes copains et copines.
 
 image_bravo: ../../uploads/enfants-12.png
+conseils:
+  - Connais par coeur ton adresse et ton numéro de téléphone.
+  - Discute avec tes parents des endroits où tu peux te réfugier si tu as besoin d’aide (dans la rue, un magasin par exemple).
+  - Parle avec tes parents des gens que tu rencontres, des endroits où tu vas jouer et des choses qui t'inquiètent.
+  - Si on t'oblige à faire des gestes sexuels ou qu'on ne respecte pas ton corps tu dois en parler pour qu'on te protège.
+  - N’hésite pas à parler de ce qui te gêne, si quelqu’un t’embête, même si on t’a demandé de garder le secret.
+  - Insiste si on n’écoute pas ce que tu as envie de dire, ou trouve quelqu’un d’autre jusqu’à ce qu’on te croie.
+  - Le 119 est un numéro gratuit et anonyme que tu peux appeler pour te faire aider par des grandes personnes.
 
 ---
