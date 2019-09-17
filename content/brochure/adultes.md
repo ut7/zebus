@@ -7,7 +7,7 @@ sections:
   bulle: ''
   texte-bulle: ''
   icone: "../../uploads/zebus.png"
-  titre: Pourquoi parler des abus sexuels ?
+  titre: 1- Pourquoi parler des agressions sexuelles ?
   texte: |-
     Pas facile d’aborder cette question avec un enfant. Pourtant il faut lui **en parler et le rassurer en lui disant que les adultes sont là pour le protéger.**
 
@@ -21,8 +21,8 @@ sections:
     des gens malades dans leur tête, qui peuvent lui faire du mal en lui
     faisant en cachette des gestes sexuels qui ne sont pas de son âge.
     **Contrairement à ce que l’on croit l’agression vient** rarement des personnes
-    inconnues mais **généralement des gens que l’enfant connaît bien** et qui
-    abusent de sa confiance. C’est important de lui expliquer que personne n’a
+    inconnues mais **généralement de quelqu'un que l’enfant connaît bien** et qui
+    abuse de sa confiance. C’est important de lui expliquer que personne n’a
     le droit de lui faire ça !
 
     **En sachant ce qu’est une agression sexuelle, l’enfant reconnaîtra mieux
