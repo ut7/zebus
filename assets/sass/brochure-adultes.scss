@@ -44,16 +44,20 @@
   }
 
   .icone {
-    width: 5rem;
+    width: 7rem;
     margin-top: 5rem;
+  }
+
+  counter-reset: titre;
+  .titre:before {
+    content: counter(titre) " - ";
+    counter-increment: titre;
   }
 
   .titre {
     font-family: Beautiful Heartbeat;
-    font-weight: normal;
-    text-transform: lowercase;
-    font-size: 9rem;
-    line-height: 6rem;
+    text-transform: uppercase;
+    font-size: 4rem;
     margin-top: 2rem;
   }
 

@@ -7,7 +7,7 @@ sections:
   bulle: ''
   texte-bulle: ''
   icone: "../../uploads/zebus.png"
-  titre: 1- Pourquoi parler des agressions sexuelles ?
+  titre: Pourquoi parler des agressions sexuelles ?
   texte: |-
     Pas facile d’aborder cette question avec un enfant. Pourtant il faut lui **en parler et le rassurer en lui disant que les adultes sont là pour le protéger.**
 
