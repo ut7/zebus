@@ -193,7 +193,7 @@ sections:
 
     **« Il y a des bons et des mauvais secrets...**  
     Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les
-    enfants ne devraient pas avoir des secrets lourds à porter. Si on t’oblige
+    enfants ne devraient pas avoir des secrets lourds à porter. Si on t’oblige à
     un secret, qu’on te menace ou qu’on te fait du chantage, il faut que tu en
     parles à quelqu’un, même si tu avais promis de ne rien dire à personne. »
 
@@ -248,9 +248,9 @@ sections:
     La condamnation est encore plus sévère quand la victime est un enfant de moins de
     15 ans ou si l’agresseur est un parent ou un éducateur qui est une personne
     ayant autorité sur l’enfant. Pour un crime de viol, la sanction peut aller jusqu’à
-    20 ans de prison et 150 000 euros d’amende. Pour les agresseurs ou les gens
-    qui ressentent des pulsions pédophiles, il existe des consultations
-    spécialisées pour se soigner.
+    20 ans de prison et 150 000 euros d’amende. 
+    Pour les agresseurs ou les gens qui ressentent des pulsions pédophiles, il existe 
+    des consultations spécialisées pour se soigner.
 
   icone: "../../uploads/zebus.png"
   titre: Les abus sexuels sont interdits !
@@ -353,7 +353,7 @@ sections:
     choses aussi graves.
 
     Pour éviter des complications psychologiques dans l’enfance ou à l’âge
-    adulte, tout enfant victime d’agression sexuelle doit rencontrer rapidement un
+    adulte, tout enfant victime d’agression sexuelle doit rencontrer rapidement 
     un médecin pour qu’il puisse l’examiner et comprendre comment il réagit à ce
     qu’il a subi.
 
