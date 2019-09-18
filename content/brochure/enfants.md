@@ -17,7 +17,7 @@ introduction: >-
 
 sous_titre: Un enfant averti aura moins peur d’en parler.
 questions:
-  - question: 1- Si un voisin te demande de venir voir ses bébés chats chez lui…
+  - question: Si un voisin te demande de venir voir ses bébés chats chez lui…
     template: question
     image: ../../uploads/enfants-01.png
     icone_reponse_1: point
