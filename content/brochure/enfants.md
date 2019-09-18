@@ -7,17 +7,17 @@ image_premiere_question: ''
 introduction: >-
 
   Beaucoup de personnes autour de toi t'aiment et te protègent mais **il arrive
-  que des gens ne respectent pas les enfants même s'ils ont l'air gentils**. Ils
-  peuvent être un peu malades dans leur tête et faire des gestes sexuels aux
-  enfants alors que c'est interdit. Il faut qu'un enfant sache se défendre, en
-  parler aux autres pour se faire aider et comprendre que ce n'est jamais de sa
-  faute. Un enfant averti aura moins peur d'en parler. **Passe ton permis de
-  prudence** en répondant aux questions du test, pour voir si tu sais éviter les
-  situations dangereuses et **découvre ton résultat à la fin**.
+  que des gens ne respectent pas les enfants même s'ils ont l'air gentils**. Il 
+  existe, par exemple, des pédophiles ou des gens un peu malades dans leur tête 
+  qui font des gestes sexuels aux enfants même si c'est interdit. Il faut qu'un 
+  enfant sache que ça peut arriver pour savoir comment se protéger, en parler à  
+  quelqu'un pour se faire aider et comprendre que ce n'est jamais de sa faute.  
+  **Passe ton permis de prudence** en répondant aux questions du test, pour voir 
+  si tu sais éviter les situations dangereuses, et **découvre ton résultat à la fin**.
 
 sous_titre: Un enfant averti aura moins peur d’en parler.
 questions:
-  - question: Si un voisin te demande de venir voir ses bébés chats chez lui…
+  - question: 1- Si un voisin te demande de venir voir ses bébés chats chez lui…
     template: question
     image: ../../uploads/enfants-01.png
     icone_reponse_1: point
@@ -142,8 +142,8 @@ questions:
     icone_reponse_2: carré
     icone_reponse_3: triangle
     reponses:
-      - Tu n’oses pas refuser… tu es fier qu’on te prenne pour une grande personne…
-      - Tu t’éloignes et tu hésites à en parler car c’est quelqu’un que tu connais.
+      - Tu n’oses pas refuser… tu es assez content qu'on s'intéresse à toi…
+      - Tu t’éloignes et tu hésites à en parler car tu as peur de ses menaces.
       - >-
         Tu t'en vas et tu le dénonces. Tu sais que c'est interdit les gestes
         sexuels avec les enfants.
@@ -158,17 +158,16 @@ questions:
     icone_reponse_3: triangle
     reponses:
       - >-
-        Tu te laisses faire pour lui faire plaisir et tu es assez contente qu'on
-        s'intéresse à toi.
+        Tu te laisses faire pour lui faire plaisir et parce que ce n'est pas 
+        trop désagréable.
       - >-
-        Tu hésites à refuser car ce n'est pas désagréable mais ça te gêne
-        énormément.
+        Tu hésites à refuser car tu as honte et peur de sa réaction. 
       - >-
-        Tu dis non même si c'est quelqu'un que tu aimes bien ! Tu sais qu'il
-        n'en a pas le droit.
+        Tu dis non même si tu l'aimes bien ! Tu sais qu'il n'en a pas le droit.
+        Et tu en parles.
 
   - question: >-
-      Si à la fin de la compétition, l’entraineur te serre dans ses bras pour te
+      Si à la fin de la compétition, l’entraîneur te serre dans ses bras pour te
       féliciter…
     template: question
     image: ../../uploads/enfants-11.png
@@ -177,9 +176,9 @@ questions:
     icone_reponse_3: triangle
     reponses:
       - Tu pars en courant et en criant « au secours ! »
-      - Tu te demandes si c'est un geste amical ou pas normal.
+      - Tu te demandes si c'est un geste amical, ou pas normal.
       - >-
-        Tu trouves ça gentil et agréable. Ce n'est pas en cachette donc pas
+        Tu trouves ça gentil et agréable. Ce n'est pas en cachette, donc pas
         besoin de se méfier.
 
 titre_section_reponses: Réponses au test
@@ -221,8 +220,8 @@ conseils:
   - Connais par coeur ton adresse et ton numéro de téléphone.
   - Discute avec tes parents des endroits où tu peux te réfugier si tu as besoin d’aide (dans la rue, un magasin par exemple).
   - Parle avec tes parents des gens que tu rencontres, des endroits où tu vas jouer et des choses qui t'inquiètent.
-  - Si on t'oblige à faire des gestes sexuels ou qu'on ne respecte pas ton corps tu dois en parler pour qu'on te protège.
-  - N’hésite pas à parler de ce qui te gêne, si quelqu’un t’embête, même si on t’a demandé de garder le secret.
+  - Si on t'oblige à faire des gestes sexuels ou qu'on ne respecte pas ton corps, tu dois en parler pour qu'on te protège.
+  - N’hésite pas à parler de ce qui te gêne, même si tu as honte ou peur, même si on t’a demandé de ne rien dire à personne.
   - Insiste si on n’écoute pas ce que tu as envie de dire, ou trouve quelqu’un d’autre jusqu’à ce qu’on te croie.
   - Le 119 est un numéro gratuit et anonyme que tu peux appeler pour te faire aider par des grandes personnes.
 
