@@ -138,7 +138,7 @@ sections:
     Penser que votre enfant peut se faire agresser n’est pas facile… mais **il
     aura moins peur s’il sait quoi faire.**
 
-    **Apprenez-lui à trouver de l’aide par lui-même**, si on l’embête: il ne doit
+    **Apprenez-lui à trouver de l’aide par lui-même**, si on l’embête : il ne doit
     pas parler aux inconnus et il doit refuser de les suivre. Il doit oser en
     parler si quelqu’un veut toucher son sexe même si c’est quelqu’un qu’il
     connaît bien.
