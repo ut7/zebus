@@ -93,14 +93,14 @@ sections:
   titre: la place de l'enfant
   texte: |-
     **L’enfant est une personne mais pas une grande personne. S’il est curieux du
-    monde des adultes il ne le comprend pas toujours.**
+    monde des adultes, il ne le comprend pas toujours.**
 
     Attention de ne pas le confronter à des situations qui le choquent : les
     disputes entre adultes, les images violentes, la nudité. Ça peut
     l’impressionner et lui faire peur.
 
     **Ne partagez pas votre vie privée avec votre enfant. Après 2/3 ans, ne
-    vous montrez plus tout nu devant lui.**
+    vous montrez pas nu devant lui.**
 
     Aidez l’enfant à comprendre la différence des sexes et des générations.
     Vous pouvez lui parler de la nature, des âges de la vie, des personnes de
@@ -108,7 +108,7 @@ sections:
     grands-parents, les beaux-pères, les belles-mères, les demi-frères et les
     demi-sœurs… les plus jeunes, les plus grands, les ados et les bébés. Si
     chacun a sa place, l’enfant comprend que chaque âge a ses plaisirs : jouer,
-    travailler à l’école, sortir avec ses copains, avoir un amoureux ou une
+    travailler à l’école et, plus tard, sortir avec ses copains, avoir un amoureux ou une
     amoureuse.
 
     On ne doit pas lui demander de se comporter comme un adulte. **On doit le
@@ -123,11 +123,11 @@ sections:
     ##### EXPLIQUEZ-LUI CLAIREMENT COMMENT SE PROTÉGER.
 
     1. Dites-lui qu’il a le droit de refuser les propositions d’un adulte ou
-    d’un grand même s’il le connaît bien, que ce n’est pas malpoli et que vous
+    d’un grand, même s’il le connaît bien, que ce n’est pas malpoli et que vous
     ne le  gronderez pas.
     2. Donnez-lui les noms et les téléphones des personnes qu’il peut appeler
     en cas de problème.
-    3. Dans la rue, s’il se sent en danger ou si quelqu’un l’embête il peut
+    3. Dans la rue, s’il se sent en danger ou si quelqu’un l’embête, il peut
     trouver refuge dans le magasin le plus proche ou se faire accompagner par
     un copain.
 
@@ -138,7 +138,7 @@ sections:
     Penser que votre enfant peut se faire agresser n’est pas facile… mais **il
     aura moins peur s’il sait quoi faire.**
 
-    **Apprenez-lui à trouver de l’aide par lui-même** si on l’embête. Il ne doit
+    **Apprenez-lui à trouver de l’aide par lui-même**, si on l’embête: il ne doit
     pas parler aux inconnus et il doit refuser de les suivre. Il doit oser en
     parler si quelqu’un veut toucher son sexe même si c’est quelqu’un qu’il
     connaît bien.
@@ -150,7 +150,7 @@ sections:
     dangereuses. Parlez-lui, par exemple, de la différence entre quelqu’un qui
     lui fait des caresses en secret et quelqu’un qui le prend dans ses bras
     devant tout le monde. **Dites-lui qu’il peut dire « non » ou changer d’avis**
-    si un jeu dérape, si ça va trop loin ou s’il a un doute.
+    si un jeu dérape, si ça va trop loin ou s’il trouve ça bizarre.
 
     En général, quand vous le sentez triste ou inquiet, écoutez-le sans
     reproche pour lui montrer votre confiance. Intéressez-vous à son point de
@@ -178,10 +178,10 @@ sections:
   titre: Ce qu'il a besoin d'entendre…
   texte: |-
 
-    **Pour lui donner des limites claires, vous pouvez lui dire :**
+    **Voici ce qu'il a besoin d'entendre pour lui donner des limites claires. Vous pouvez lui dire :**
 
     **« Sers-toi de ce que tu ressens...**  
-    Les sentiments désagréables ou bizarres t’avertissent que quelque chose ne
+    Ce que tu sens de désagréable ou de bizarre t'avertit que quelque chose ne
     va pas. Tu peux te fier à ce que tu ressens. Tu ne dois pas hésiter à te
     confier à des adultes jusqu’à ce qu’on te croie... »
 
@@ -193,9 +193,9 @@ sections:
 
     **« Il y a des bons et des mauvais secrets...**  
     Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les
-    enfants ne devraient pas avoir des secrets lourds à porter. Si on t’impose
+    enfants ne devraient pas avoir des secrets lourds à porter. Si on t’oblige
     un secret, qu’on te menace ou qu’on te fait du chantage, il faut que tu en
-    parles à quelqu’un, même si tu avais promis de ne rien dire au début ! »
+    parles à quelqu’un, même si tu avais promis de ne rien dire à personne. »
 
 - template: section
   image: "../../uploads/adultes-06.png"
@@ -224,30 +224,30 @@ sections:
     faux-amis, des arnaques, des images pornos et des pédophiles...
 
     Il faut lui dire de ne pas donner son adresse personnelle, de ne pas
-    accepter d’invitation secrète, qu’il ne doit pas accepter de se montrer nu
-    devant un écran. Il doit savoir que les textes et les images qu’il envoie,
-    même en conversation privée, peuvent être filmés et récupérés pour se
+    accepter d’invitation secrète, qu’il doit refuser de se montrer nu
+    devant un écran. Il doit savoir que les textes, les photos et les vidéos qu’il envoie,
+    même en conversation privée, peuvent être récupérés et diffusés pour se
     moquer de lui ou le racketter.
 
     **Apprenez-lui à respecter le droit à la vie privée de ses amis,** à ne pas
     diffuser leurs photos ou leurs paroles sans leur autorisation. Parlez avec
     lui de ses amis et contacts sur Internet. Dites-lui d’être prudent, de ne
-    pas communiquer avec des gens qu’il ne connaît pas et de vous parler s’il y
+    pas communiquer avec des gens qu’il ne connaît pas et de vous en parler s’il y
     a un problème.
 
     **Que dit la loi ?** Montrer des images pornos à un enfant, avoir sur son
-    téléphone ou diffuser des images pédophiles avec des jeunes de moins de
+    téléphone, envoyer ou recevoir des images pédophiles avec des jeunes de moins de
     18 ans est interdit et puni sévèrement.
 
 - template: section
   image: "../../uploads/adultes-07.png"
   bulle: "../../uploads/bulle-adulte-6.svg"
   texte_bulle: |-
-    ##### LES ABUS SEXUELS SONT PUNIS PAR LA LOI.
+    ##### LES AGRESSIONS SEXUELLES SONT PUNIES PAR LA LOI.
 
-    La condamnation est plus sévère quand la victime est un enfant de moins de
+    La condamnation est encore plus sévère quand la victime est un enfant de moins de
     15 ans ou si l’agresseur est un parent ou un éducateur qui est une personne
-    ayant autorité sur l’enfant. Pour un crime de viol elle peut aller jusqu’à
+    ayant autorité sur l’enfant. Pour un crime de viol, la sanction peut aller jusqu’à
     20 ans de prison et 150 000 euros d’amende. Pour les agresseurs ou les gens
     qui ressentent des pulsions pédophiles, il existe des consultations
     spécialisées pour se soigner.
@@ -259,26 +259,26 @@ sections:
     Les agressions sexuelles ou abus sexuels sont des actes très graves par
     lesquels un adulte ou un plus grand, pour son plaisir, **oblige un enfant à
     un acte sexuel qui n’est pas de son âge.** C’est un abus de pouvoir, c’est
-    une agression. Les agressions sexuelles ou « abus sexuels » sont :
+    une agression. Les agressions sexuelles sont :
     l’exhibitionnisme, l’initiation sexuelle avec  des images pornos, les
     attouchements, le viol. Utiliser la nudité de l’enfant pour des images
     pédo-pornographiques ou prostituer des enfants pour de l’argent sont aussi
-    des abus sexuels.
+    des agressions sexuelles.
 
     **Les victimes sont-elles uniquement des filles ?**  
     NON ! Les garçons aussi en sont victimes.
 
-    **Les abus sexuels n’existent-ils que dans les milieux défavorisés ?**  
+    **Les agressions sexuelles n’existent-elles que dans les milieux défavorisés ?**  
     NON ! Toutes les classes sociales sont concernées.
 
-    **Un abus sexuel est-il toujours obtenu par la force ?**  
-    NON ! Il est très souvent obtenu par la séduction, des cadeaux, du
+    **Une agression sexuelle est-elle toujours obtenue par la force ?**  
+    NON ! Elles sont très souvent obtenues par la séduction, des cadeaux, du
     chantage, le plus souvent en exigeant le secret.
 
-    **Les abus sexuels sont-ils uniquement commis par des pédophiles rencontrés dans la rue ?**  
+    **Les agressions sexuelles sont-elles uniquement commises par des pédophiles rencontrés dans la rue ?**  
     NON ! Ces actes sont commis le plus souvent par des hommes proches de
     l’enfant, même parfois par des adolescents dans le cadre familial ou
-    éducatif. On parle d’inceste pour les abus commis par un membre de la
+    éducatif. On parle d’inceste pour les agressions sexuelles commises par un membre de la
     famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
 
 - template: section
@@ -298,11 +298,11 @@ sections:
   titre: les adultes sont là pour le protéger.
   texte: |-
 
-    L'enfant peut avoir peur, être en colère, ou être gêné de dire ce qui lui
+    L'enfant peut avoir peur, être en colère ou être gêné de dire ce qui lui
     arrive. Parfois, il peut penser qu'il a fait quelque chose de mal. Ne le
     grondez pas en lui disant qu'il n'aurait pas dû se laisser faire ou qu'il
     aurait dû vous en parler plus tôt. Montrez-lui que vous lui faites
-    confiance, il se confiera plus facilement, et dîtes lui que vous allez
+    confiance, il se confiera plus facilement, et dites-lui que vous allez
     l'aider.
 
     S’il vous en parle, laissez-le parler librement, utilisez les
@@ -353,8 +353,8 @@ sections:
     choses aussi graves.
 
     Pour éviter des complications psychologiques dans l’enfance ou à l’âge
-    adulte tout enfant victime d’agression sexuelle doit être vu rapidement par
-    un médecin pour qu’il puisse l’examiner et voir comment il réagit à ce
+    adulte, tout enfant victime d’agression sexuelle doit rencontrer rapidement un
+    un médecin pour qu’il puisse l’examiner et comprendre comment il réagit à ce
     qu’il a subi.
 
     Ce n’est pas toujours évident de savoir à qui demander des conseils. Le
@@ -370,10 +370,10 @@ texte_footer: |-
   adultes et les enfants à repérer les agressions sexuelles, à savoir les
   éviter et en parler ensemble.
 
-  Les agressions sexuelles ou abus sexuels peuvent être traumatisants pour
+  Les agressions sexuelles peuvent être traumatisantes pour
   l’enfant, physiquement et psychologiquement. Ce sont des infractions graves.
-  Elles sont interdites et punies par la loi. Apprendre que ça arrive inquiète
-  et déstabilise. Si vous êtes confronté à ce problème, ne restez pas seul.
+  Elles sont interdites et punies par la loi. Quand ça arrive autour de soi, on est
+  inquiet et déstabilisé. Si vous êtes confronté à ce problème, ne restez pas seul.
   Faites-vous aider.
 
 derniere_ligne: Un enfant averti aura moins peur d’en parler !
