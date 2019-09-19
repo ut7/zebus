@@ -25,7 +25,7 @@
       <h1>Petits conseils de prudence</h1>
       <ol>
         {{ range .Params.conseils }}
-        <li>{{ . }}</li>
+        <li><div class="conseil">{{ . }}</div></li>
         {{ end }}
       </ol>
     </section>

@@ -172,17 +172,18 @@
     }
 
     ol {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: baseline;
       counter-reset: conseil;
+      padding: 0;
 
       li {
+        list-style-type: none;
+        position: relative;
+      }
+
+      .conseil {
         counter-increment: conseil;
         font-family: DINPro;
         font-size: 2rem;
-        width: 100%;
-        list-style-type: none;
         display: flex;
         flex-direction: column;
         text-align: center;
@@ -190,10 +191,10 @@
         background-size: 100% 100%;
         background-repeat: no-repeat;
         padding: 1.5rem;
-        margin: 0.5rem;
+        margin: 1rem;
       }
 
-      li:before {
+      .conseil:before {
         line-height: 1rem;
         content: counter(conseil); /* on affiche le compteur */
         background-image: url(../uploads/puce-rouge.svg);
@@ -209,33 +210,61 @@
       }
 
       li:nth-of-type(1) {
-        background-image: url(../uploads/bulle-conseil-1.svg);
+        .conseil {
+          background-image: url(../uploads/bulle-conseil-1.svg);
+        }
+        grid-column: 2;
+        grid-row: 1 / 3;
       }
 
       li:nth-of-type(2) {
-        background-image: url(../uploads/bulle-conseil-2.svg);
-        padding: 1rem 2rem 2rem 2rem;
+        .conseil {
+          background-image: url(../uploads/bulle-conseil-2.svg);
+          padding: 1rem 2rem 2rem 2rem;
+        }
+        grid-column: 3 / 5;
+        grid-row: 2 / 5;
       }
 
       li:nth-of-type(3) {
-        background-image: url(../uploads/bulle-conseil-3.svg);
+        .conseil {
+          background-image: url(../uploads/bulle-conseil-3.svg);
+        }
+        grid-column: 1 / 3;
+        grid-row: 4 / 6;
       }
 
       li:nth-of-type(4) {
-        background-image: url(../uploads/bulle-conseil-4.svg);
+        .conseil {
+          background-image: url(../uploads/bulle-conseil-4.svg);
+        }
+        grid-column: 3 / 5;
+        grid-row: 5;
       }
 
       li:nth-of-type(5) {
-        background-image: url(../uploads/bulle-conseil-5.svg);
-        width: 100%;
+        .conseil {
+          background-image: url(../uploads/bulle-conseil-5.svg);
+          padding: 2rem;
+        }
+        grid-column: 2 / 4;
+        grid-row: 6;
       }
 
       li:nth-of-type(6) {
-        background-image: url(../uploads/bulle-conseil-6.svg);
+        .conseil {
+          background-image: url(../uploads/bulle-conseil-6.svg);
+        }
+        grid-column: 1 / 3;
+        grid-row: 7;
       }
 
       li:nth-of-type(7) {
-        background-image: url(../uploads/bulle-conseil-7.svg);
+        .conseil {
+          background-image: url(../uploads/bulle-conseil-7.svg);
+        }
+        grid-column: 3 / 5;
+        grid-row: 7;
       }
 
     }
@@ -246,14 +275,20 @@
       }
 
       ol {
+        display: grid;
+        grid-template-columns: 0.2fr repeat(2,1fr) 0.2fr;
+        grid-template-rows: 3rem auto 0 repeat(4,auto);
+        grid-gap: 0.5rem 1rem;
 
-        li {
-          width: 34%;
+        .conseil {
           font-size: 1.5rem;
+          margin: 0;
         }
 
-        .conseil-5 {
-          width: 75%;
+        li:nth-of-type(5) {
+          .conseil {
+            padding: 1.5rem;
+          }
         }
       }
     }
