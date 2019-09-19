@@ -12,6 +12,7 @@ introduction: >-
   qui font des gestes sexuels aux enfants même si c'est interdit. Il faut qu'un 
   enfant sache que ça peut arriver pour savoir comment se protéger, en parler à  
   quelqu'un pour se faire aider et comprendre que ce n'est jamais de sa faute.  
+  
   **Passe ton permis de prudence** en répondant aux questions du test, pour voir 
   si tu sais éviter les situations dangereuses, et **découvre ton résultat à la fin**.
 
@@ -167,7 +168,7 @@ questions:
         Et tu en parles.
 
   - question: >-
-      Si à la fin de la compétition, l’entraîneur te serre dans ses bras pour te
+      A la fin de la compétition, si l’entraîneur te serre dans ses bras pour te
       féliciter…
     template: question
     image: ../../uploads/enfants-11.png
