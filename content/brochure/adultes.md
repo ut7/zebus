@@ -56,7 +56,7 @@ sections:
     compréhension...
 
   icone: "../../uploads/zebus.png"
-  titre: Parler de sexualité avec l'enfant
+  titre: Aborder la sexualité avec l'enfant
   texte: |-
     L’éducation sexuelle se fait naturellement au cours de la vie quotidienne.
     **Laissez-le poser des questions, demandez-lui ce qu’il imagine.**
@@ -90,7 +90,7 @@ sections:
     leurs comportements. C’est avec eux qu’il apprend le vivre-ensemble.
 
   icone: "../../uploads/zebus.png"
-  titre: la place de l'enfant
+  titre: Lui laisser sa place d'enfant
   texte: |-
     **L’enfant est une personne mais pas une grande personne. S’il est curieux du
     monde des adultes, il ne le comprend pas toujours.**
@@ -132,7 +132,7 @@ sections:
     un copain.
 
   icone: "../../uploads/zebus.png"
-  titre: comment l'aider sans le sur-protéger ?
+  titre: Le guider sans le sur-protéger
   texte: |-
 
     Penser que votre enfant peut se faire agresser n’est pas facile… mais **il
@@ -175,7 +175,7 @@ sections:
     _(programme canadien, Mon corps c’est mon corps.)_
 
   icone: "../../uploads/zebus.png"
-  titre: Ce qu'il a besoin d'entendre…
+  titre: Lui parler clairement
   texte: |-
 
     **Voici ce qu'il a besoin d'entendre pour lui donner des limites claires. Vous pouvez lui dire :**
@@ -215,7 +215,7 @@ sections:
     vidéos montrent parfois une sexualité qui n'est pas vraie ? »
 
   icone: "../../uploads/zebus.png"
-  titre: L'aider à être prudent sur internet
+  titre: Le rendre prudent sur internet
   texte: |-
 
     **L’enfant croit qu’il est en sécurité chez lui derrière un écran** et
@@ -253,7 +253,7 @@ sections:
     des consultations spécialisées pour se soigner.
 
   icone: "../../uploads/zebus.png"
-  titre: Les abus sexuels sont interdits !
+  titre: Lui expliquer que les agressions sexuelles sont interdites
   texte: |-
 
     Les agressions sexuelles ou abus sexuels sont des actes très graves par
@@ -295,7 +295,7 @@ sections:
     tout de suite, sans avoir l’air affolé.
 
   icone: "../../uploads/zebus.png"
-  titre: les adultes sont là pour le protéger.
+  titre: L'écouter sans le gronder
   texte: |-
 
     L'enfant peut avoir peur, être en colère ou être gêné de dire ce qui lui
@@ -336,7 +336,7 @@ sections:
     * Le 119, numéro vert, anonyme et gratuit.
 
   icone: "../../uploads/zebus.png"
-  titre: quand l'enfant se confie…
+  titre: Se faire aider pour mieux le protéger
   texte: |-
 
     Après l'avoir écouté, félicitez-le. Expliquez-lui que ce qu'il a dit est
