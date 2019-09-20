@@ -4,17 +4,18 @@ layout: enfants
 icone_zebus: ../../uploads/zebus.png
 titre: Passe ton permis de prudence
 image_premiere_question: ''
-introduction: >-
+introduction: |-
 
   Beaucoup de personnes autour de toi t'aiment et te protègent mais **il arrive
-  que des gens ne respectent pas les enfants même s'ils ont l'air gentils**. Il 
-  existe, par exemple, des pédophiles ou des gens un peu malades dans leur tête 
-  qui font des gestes sexuels aux enfants même si c'est interdit. Il faut qu'un 
-  enfant sache que ça peut arriver pour savoir comment se protéger, en parler à  
-  quelqu'un pour se faire aider et comprendre que ce n'est jamais de sa faute.  
-  
-  **Passe ton permis de prudence** en répondant aux questions du test, pour voir 
-  si tu sais éviter les situations dangereuses, et **découvre ton résultat à la fin**.
+  que des gens ne respectent pas les enfants même s'ils ont l'air gentils**. Il
+  existe, par exemple, des pédophiles ou des gens un peu malades dans leur tête
+  qui font des gestes sexuels aux enfants même si c'est interdit. Il faut qu'un
+  enfant sache que ça peut arriver pour savoir comment se protéger, en parler à
+  quelqu'un pour se faire aider et comprendre que ce n'est jamais de sa faute.
+
+  **Passe ton permis de prudence** en répondant aux questions du test, pour
+  voir si tu sais éviter les situations dangereuses, et **découvre ton résultat
+  à la fin**.
 
 sous_titre: Un enfant averti aura moins peur d’en parler.
 questions:

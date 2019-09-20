@@ -5,7 +5,7 @@
     <section class="section-introduction">
       <img class="icone" src="{{ .Params.Icone_zebus }}">
       <h1 class="titre">{{ .Params.Titre }}</h1>
-      <p class="intro">{{ .Params.Introduction | markdownify }}</p>
+      <div class="intro">{{ .Params.Introduction | markdownify }}</div>
       <h2 class="sous-titre">{{ .Params.Sous_titre }}</h2>
     </section>
     {{ range .Params.questions }}
