@@ -1,4 +1,5 @@
 @import 'colors.scss';
+@import 'mixins.scss';
 @import 'fonts.scss';
 @import 'index.scss';
 @import 'brochure-enfants.scss';
@@ -12,9 +13,10 @@ body {
   @include breakpoint(desktop) {
     padding: 2rem;
   }
+
 }
 
 p {
   font-family: DINPro;
-  & strong { font-family: DINPro-Bold; }
+  strong { font-family: DINPro-Bold; }
 }

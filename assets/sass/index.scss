@@ -1,140 +1,140 @@
 @import 'mixins.scss';
 
-main {
+.home {
   display: flex;
   flex-direction: column;
-  & section {
+  section {
     width: 100%;
   }
 
   @include breakpoint(desktop) {
     flex-direction: row;
-    & section {
+    section {
       width: 70%;
     }
   }
-}
 
-.homepage-header {
-  max-width: 36rem;
-  border-radius: 20px;
-  display: inline-block;
-  padding: 3rem;
-  background-image: url(../bulle.svg);
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  color: white;
-  font-family: 'Beautiful Heartbeat';
-
-  & h1 {
-    margin: 0 0 0.1rem;
-    font-weight: normal;
-    font-size: 4.5rem;
-    line-height: 55px;
-    text-transform: lowercase;
-  }
-  & span {
-    font-family: BotonBold;
-    font-weight: 300;
-    font-style: italic;
-    font-size: 2rem;
-  }
-
-  @include breakpoint(mobileonly) {
-    text-align: center;
-  }
-}
-
-.homepage-content {
-  & p {
-    padding: 0 1rem;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 1.13rem;
-    line-height: 1.35rem;
-    text-align: justify;
-    & strong {
-      font-weight: 700;
-    }
-  }
-  @include breakpoint(desktop) {
-    width: 95%;
-    margin-top: 2rem;
-  }
-}
-
-.brochures {
-  display: flex;
-  flex-direction: row;
-
-  width: 90%;
-  margin: 1rem auto 0 auto;
-  @include breakpoint(desktop) {
-    margin: auto;
-  }
-  @include breakpoint(mobileonly) {
-    flex-direction: column;
-  }
-}
-
-#adultes {
-  @include breakpoint(mobileonly) {
-    margin-bottom: 3rem;
-  }
-  @include breakpoint(phablet) {
-    margin-right: 3rem;
-  }
-}
-
-#adultes,#enfants {
-  & img { width: 100%; }
-  & button {
-    border: none;
-    padding: 2rem;
-    margin-top: 1rem;
-    width: 100%;
-    color: #fff;
-    font-size: 2rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    background-image: url(../bouton.svg);
-    background-color: transparent;
+  .homepage-header {
+    max-width: 36rem;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 3rem;
+    background-image: url(../bulle.svg);
     background-repeat: no-repeat;
-    background-size: 100% 125%;
-    background-position: center;
-  }
-  @include breakpoint(desktop) { width: 17rem; }
-  @include breakpoint(phablet) {
-    width: 46%;
-  }
-}
+    background-size: 100% 100%;
+    color: white;
+    font-family: 'Beautiful Heartbeat';
 
-.columns {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin-top: 0.5rem;
-  & p {
-    padding: 1rem;
-    margin: 0.5rem;
-
-    img { margin-top: 1rem; }
-    #premier-logo { width: 6rem; };
-    #second-logo { width: 10rem; }
-    @include breakpoint(desktop) {
-      width: 6rem !important;
+    & h1 {
+      margin: 0 0 0.1rem;
+      font-weight: normal;
+      font-size: 4.5rem;
+      line-height: 55px;
+      text-transform: lowercase;
     }
-    @include breakpoint(phablet) {
-      width: 7.5rem;
+    & span {
+      font-family: BotonBold;
+      font-weight: 300;
+      font-style: italic;
+      font-size: 2rem;
+    }
+
+    @include breakpoint(mobileonly) {
+      text-align: center;
+    }
+  }
+
+  .homepage-content {
+    & p {
+      padding: 0 1rem;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 1.13rem;
+      line-height: 1.35rem;
+      text-align: justify;
+      & strong {
+        font-weight: 700;
+      }
+    }
+    @include breakpoint(desktop) {
+      width: 95%;
+      margin-top: 2rem;
+    }
+  }
+
+  .brochures {
+    display: flex;
+    flex-direction: row;
+
+    width: 90%;
+    margin: 1rem auto 0 auto;
+    @include breakpoint(desktop) {
+      margin: auto;
     }
     @include breakpoint(mobileonly) {
-      width: calc(90% / 2.32);
-      margin: 0;
+      flex-direction: column;
     }
   }
-}
 
-#foot-text {
-  padding: 0 1rem;
-  text-align: justify;
+  #adultes {
+    @include breakpoint(mobileonly) {
+      margin-bottom: 3rem;
+    }
+    @include breakpoint(phablet) {
+      margin-right: 3rem;
+    }
+  }
+
+  #adultes,#enfants {
+    & img { width: 100%; }
+    & button {
+      border: none;
+      padding: 2rem;
+      margin-top: 1rem;
+      width: 100%;
+      color: #fff;
+      font-size: 2rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      background-image: url(../bouton.svg);
+      background-color: transparent;
+      background-repeat: no-repeat;
+      background-size: 100% 125%;
+      background-position: center;
+    }
+    @include breakpoint(desktop) { width: 17rem; }
+    @include breakpoint(phablet) {
+      width: 46%;
+    }
+  }
+
+  .columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+    & p {
+      padding: 1rem;
+      margin: 0.5rem;
+
+      img { margin-top: 1rem; }
+      #premier-logo { width: 6rem; };
+      #second-logo { width: 10rem; }
+      @include breakpoint(desktop) {
+        width: 6rem !important;
+      }
+      @include breakpoint(phablet) {
+        width: 7.5rem;
+      }
+      @include breakpoint(mobileonly) {
+        width: calc(90% / 2.32);
+        margin: 0;
+      }
+    }
+  }
+
+  #foot-text {
+    padding: 0 1rem;
+    text-align: justify;
+  }
 }
