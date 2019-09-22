@@ -74,37 +74,43 @@
     @include breakpoint(mobileonly) {
       flex-direction: column;
     }
-  }
 
-  #adultes {
-    @include breakpoint(mobileonly) {
-      margin-bottom: 3rem;
-    }
-    @include breakpoint(phablet) {
-      margin-right: 3rem;
-    }
-  }
+    .brochure {
 
-  #adultes,#enfants {
-    & img { width: 100%; }
-    & button {
-      border: none;
-      padding: 2rem;
-      margin-top: 1rem;
-      width: 100%;
-      color: #fff;
-      font-size: 2rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      background-image: url(../bouton.svg);
-      background-color: transparent;
-      background-repeat: no-repeat;
-      background-size: 100% 125%;
-      background-position: center;
-    }
-    @include breakpoint(desktop) { width: 17rem; }
-    @include breakpoint(phablet) {
-      width: 46%;
+      &.adultes {
+        @include breakpoint(mobileonly) {
+          margin-bottom: 3rem;
+        }
+        @include breakpoint(phablet) {
+          margin-right: 3rem;
+        }
+
+      }
+
+      img {
+        width: 100%;
+        background: $primary;
+      }
+
+      button {
+        border: none;
+        padding: 2rem;
+        margin-top: 1rem;
+        width: 100%;
+        color: #fff;
+        font-size: 2rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        background-image: url(../bouton.svg);
+        background-color: transparent;
+        background-repeat: no-repeat;
+        background-size: 100% 125%;
+        background-position: center;
+      }
+      @include breakpoint(desktop) { width: 17rem; }
+      @include breakpoint(phablet) {
+        width: 46%;
+      }
     }
   }
 
