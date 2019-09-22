@@ -266,17 +266,17 @@ sections:
     des agressions sexuelles.
 
     **Les victimes sont-elles uniquement des filles ?**  
-    NON ! Les garçons aussi en sont victimes.
+    **NON !** Les garçons aussi en sont victimes.
 
     **Les agressions sexuelles n’existent-elles que dans les milieux défavorisés ?**  
-    NON ! Toutes les classes sociales sont concernées.
+    **NON !** Toutes les classes sociales sont concernées.
 
     **Une agression sexuelle est-elle toujours obtenue par la force ?**  
-    NON ! Elles sont très souvent obtenues par la séduction, des cadeaux, du
+    **NON !** Elles sont très souvent obtenues par la séduction, des cadeaux, du
     chantage, le plus souvent en exigeant le secret.
 
     **Les agressions sexuelles sont-elles uniquement commises par des pédophiles rencontrés dans la rue ?**  
-    NON ! Ces actes sont commis le plus souvent par des hommes proches de
+    **NON !** Ces actes sont commis le plus souvent par des hommes proches de
     l’enfant, même parfois par des adolescents dans le cadre familial ou
     éducatif. On parle d’inceste pour les agressions sexuelles commises par un membre de la
     famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
