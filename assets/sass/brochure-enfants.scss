@@ -10,18 +10,12 @@
     width: 100%;
   }
 
-  @include breakpoint(laptop) {
-    .image {
-      max-width: 25rem;
-    }
-  }
-
   section {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: 5rem;
-    width: 100%;
+    max-width: 40rem;
   }
 
   @include breakpoint(mobileonly) {
@@ -273,7 +267,7 @@
 
     }
 
-    @include breakpoint(tablet) {
+    @include breakpoint(laptop) {
       h1 {
         font-size: 4rem;
       }
