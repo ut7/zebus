@@ -6,7 +6,7 @@
   justify-content: center;
 
   section {
-    max-width: 30rem;
+    max-width: 40rem;
   }
 
   @include breakpoint(laptop) {
@@ -31,18 +31,25 @@
 
   .bulle {
 
+
     .bulle-texte {
+      &.padding-bottom-large {
+        padding-bottom: 6rem
+      }
+
+
       font-family: Literata;
       color: white;
       position: relative;
-      padding: 3rem 4rem 3rem 4rem;
       background-size: 100% 100%;
       background-repeat: no-repeat;
+      padding: 4rem;
 
       h1,h2,h3,h4,h5,h6 {
         font-family: BotonBold;
         font-size: 1rem;
         margin: 0;
+        line-height:1.2rem;
       }
       blockquote p {
         font-family: Amandine;

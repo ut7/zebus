@@ -8,7 +8,7 @@
   {{ end }}
   {{ if .bulle }}
   <div class="bulle">
-    <div class="bulle-texte" style="background-image:url('{{ .bulle }}')">{{ .texte_bulle | markdownify }}</div>
+    <div class="bulle-texte {{ .class_bulle }}" style="background-image:url('{{ .bulle }}')">{{ .texte_bulle | markdownify }}</div>
   </div>
   {{ end }}
 </section>

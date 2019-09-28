@@ -280,6 +280,7 @@ sections:
 - template: section
   image: "../../uploads/adultes-08.png"
   bulle: "../../uploads/bulle-adulte-7.svg"
+  class_bulle: padding-bottom-large
   texte_bulle: |-
 
     ##### ÉCOUTEZ-LE !
