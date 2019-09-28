@@ -2,7 +2,10 @@
   <img class="icone" src="{{ .icone }}">
   <h1 class="titre">{{ .titre }}</h1>
   <span class="texte"><p>{{ .texte | markdownify }}</p></span>
-  <img class="image" src="{{ .image }}">
+  <img class="image" src="{{ .image }}"/>
+  {{ if .citation }}
+  <blockquote class="citation">{{ .citation }}</blockquote>
+  {{ end }}
   {{ if .bulle }}
   <div class="bulle">
     <div class="bulle-texte" style="background-image:url('{{ .bulle }}')">{{ .texte_bulle | markdownify }}</div>

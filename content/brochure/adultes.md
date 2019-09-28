@@ -40,11 +40,9 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-02.png"
+  citation: « Quand je serai grande, je me marierai avec toi, papa ! »
   bulle: "../../uploads/bulle-adulte-1.svg"
   texte_bulle: |-
-
-    > « Quand je serai grande, je me marierai avec toi, papa ! »
-
     Comment répondre aux enfants ? Profitez de ce genre de phrase pour parler
     de sexualité, de ce qui est permis et interdit entre adultes et enfants.
 
@@ -159,11 +157,9 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-05.png"
+  citation: Grâce à ma boussole, je sais ou aller !
   bulle: "../../uploads/bulle-adulte-4.svg"
   texte_bulle: |-
-
-    ##### GRÂCE À MA BOUSSOLE, JE SAIS OU ALLER !
-
     Si quelqu’un lui demande de le suivre, dites-lui qu’il doit se poser ces
     trois questions :
 
