@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <link type="text/plain" rel="author" href="/humans.txt" />
     <title>{{ site.Title }} - {{ block "title" . }}{{ end }}</title>
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
