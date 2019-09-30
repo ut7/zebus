@@ -159,7 +159,7 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-05.png"
-  citation: Grâce à ma boussole, je sais ou aller !
+  citation: Grâce à ma boussole, je sais où aller !
   bulle: "../../uploads/bulle-adulte-4.svg"
   texte_bulle: |-
     
