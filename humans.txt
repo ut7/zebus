@@ -1,0 +1,31 @@
+/* TEAM */
+  Text author: Dominique de Saint Mars
+  Site: https://dominiquedesaintmarsmaxetlili.wordpress.com/
+
+  Text author: l’équipe médico judiciaire pédiatrique du Centre Hospitalier de Dunkerque
+
+  Illustrator: Claude Delafosse
+
+  Graphic design: Joëlle Dimbour
+  Site: www.kaki-design.fr
+
+  Psychologist: Bertrand Lionet
+
+  Developer: Étienne Charignon
+  Twitter: @echar
+  Site: https://ut7.fr
+
+  Developer: Enzo Cranford
+  Github: @maximumax
+
+/* SPECIAL THANKS */
+  Original brochure: Marceline Gabel et Dominique de Saint Mars
+  Year: 1987
+
+  Financing: Association Marc Allaert
+
+/* SITE */
+  Last update: 2019/09
+  Doctype: HTML5
+  Language: French
+  IDE: vim, Gimp, Hugo
