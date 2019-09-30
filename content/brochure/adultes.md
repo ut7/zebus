@@ -159,11 +159,11 @@ sections:
 
 - template: section
   image: "../../uploads/adultes-05.png"
-  citation: Grâce à ma boussole, je sais ou aller !
+  citation: Grâce à ma boussole, je sais où aller !
   bulle: "../../uploads/bulle-adulte-4.svg"
   texte_bulle: |-
-    
-    ##### LES TROIS QUESTIONS. 
+
+    ##### LES TROIS QUESTIONS.
     Si quelqu’un lui demande de le suivre, dites-lui qu’il doit se poser ces
     trois questions :
 
