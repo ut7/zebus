@@ -1,7 +1,7 @@
 baseUrl: "https://ut7.github.io/zebus"
 DefaultContentLanguage: "fr"
 languageCode: "fr-fr"
-title: "Zébus"
+title: "Les agressions sexuelles envers les enfants"
 disableKinds: ["taxonomy", "taxonomyTerm"]
 metaDataFormat: "yaml"
 publishDir: "public/zebus"
