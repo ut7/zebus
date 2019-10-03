@@ -5,10 +5,10 @@
     {{ range .Params.sections }}
       {{ partial "blocks/section" . }}
     {{ end }}
-    <footer class="footer">
+    <div class="conclusion">
       {{ .Params.texte_footer | markdownify }}
       <img src="../../uploads/zebus.png">
       <h1>{{ .Params.derniere_ligne }}</h1>
-    </footer>
+    </div>
   </main>
 {{ end }}
