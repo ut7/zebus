@@ -15,8 +15,6 @@
   }
 
   .homepage-header {
-    max-width: 36rem;
-    border-radius: 20px;
     display: inline-block;
     padding: 3rem;
     background-image: url(../bulle.svg);
@@ -25,14 +23,14 @@
     color: white;
     font-family: 'Beautiful Heartbeat';
 
-    & h1 {
+    h1 {
       margin: 0 0 0.1rem;
       font-weight: normal;
       font-size: 4.5rem;
       line-height: 55px;
       text-transform: lowercase;
     }
-    & span {
+    span {
       font-family: BotonBold;
       font-weight: 300;
       font-style: italic;
@@ -45,19 +43,24 @@
   }
 
   .homepage-content {
-    & p {
-      padding: 0 1rem;
+    width: 100%;
+    p {
+      padding: 0 2.5rem;
       font-style: normal;
       font-weight: 300;
       font-size: 1.13rem;
       line-height: 1.35rem;
       text-align: justify;
-      & strong {
+      box-sizing: border-box;
+      width: 100%;
+      strong {
         font-weight: 700;
+      }
+      @include breakpoint(desktop) {
+        padding: 0 1rem;
       }
     }
     @include breakpoint(desktop) {
-      width: 95%;
       margin-top: 2rem;
     }
   }
@@ -123,19 +126,20 @@
     flex-direction: row;
     flex-wrap: wrap;
     margin-top: 0.5rem;
-    & p {
+    .column {
       padding: 1rem;
-      margin: 0.5rem;
+      margin: 0;
+      padding: 1rem;
+      width: 18%;
 
-      img { margin-top: 1rem; }
-      #premier-logo { width: 6rem; };
+      img {
+        margin-top: 1rem;
+        display: block;
+      }
+      #premier-logo {
+        width: 6rem;
+      }
       #second-logo { width: 10rem; }
-      @include breakpoint(desktop) {
-        width: 6rem !important;
-      }
-      @include breakpoint(phablet) {
-        width: 7.5rem;
-      }
       @include breakpoint(mobileonly) {
         width: calc(90% / 2.32);
         margin: 0;
