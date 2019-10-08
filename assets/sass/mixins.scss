@@ -44,3 +44,41 @@ $rouge: #ed2123;
     src: $src;
   }
 }
+
+@mixin credit-brochures () {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10rem;
+  background-color: rgba(102, 194, 194, 0.2);
+
+  .credits {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 5%;
+    @include breakpoint(tablet) {
+      width: 70%;
+    }
+
+    &-titre {
+      display:block;
+    }
+    p {
+      font-size: 0.8rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      img {
+        margin-top: 1rem;
+        display: block;
+      }
+    }
+    #premier-logo {
+      width: 3rem;
+    }
+    #second-logo {
+      width: 7rem;
+    }
+  }
+}

@@ -3,7 +3,6 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 1rem 2.5rem 2rem 2.5rem;
   counter-reset: titre-question;
 
   .image {
@@ -16,14 +15,7 @@
     align-items: center;
     margin-bottom: 5rem;
     max-width: 40rem;
-  }
-
-  @include breakpoint(mobileonly) {
-    padding: 1rem 1rem 2rem 1rem;
-  }
-
-  @include breakpoint(tablet) {
-    padding: 1rem 8rem 2rem 8rem;
+    padding: 1rem 4.5rem 2rem 4.5rem;
   }
 
   h1,h2 {
@@ -282,5 +274,8 @@
     }
   }
 
+  footer {
+    @include credit-brochures()
+  }
 }
 

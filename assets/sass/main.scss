@@ -6,14 +6,10 @@
 @import 'brochure-adultes.scss';
 
 body {
-  padding: 1rem;
   background-color: $background;
   color: $text;
   font-family: 'Roboto', sans-serif;
-  @include breakpoint(desktop) {
-    padding: 2rem;
-  }
-
+  margin: 0;
 }
 
 p {
