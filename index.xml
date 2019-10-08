@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Les agressions sexuelles envers les enfants</title>
-    <link>https://ut7.github.io/zebus/</link>
+    <link>http://permisdeprudence.fr/</link>
     <description>Recent content on Les agressions sexuelles envers les enfants</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	<atom:link href="https://ut7.github.io/zebus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://permisdeprudence.fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ut7.github.io/zebus/brochure/adultes/</link>
+      <link>http://permisdeprudence.fr/brochure/adultes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ut7.github.io/zebus/brochure/adultes/</guid>
+      <guid>http://permisdeprudence.fr/brochure/adultes/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ut7.github.io/zebus/brochure/enfants/</link>
+      <link>http://permisdeprudence.fr/brochure/enfants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ut7.github.io/zebus/brochure/enfants/</guid>
+      <guid>http://permisdeprudence.fr/brochure/enfants/</guid>
       <description></description>
     </item>
     
