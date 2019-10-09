@@ -126,6 +126,11 @@
     flex-direction: row;
     flex-wrap: wrap;
     margin-top: 0.5rem;
+
+    &-titre{
+      display:block;
+    }
+
     .column {
       padding: 1rem;
       margin: 0;

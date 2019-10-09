@@ -2,14 +2,13 @@
   Text author: Dominique de Saint Mars
   Site: https://dominiquedesaintmarsmaxetlili.wordpress.com/
 
-  Text author: l’équipe médico judiciaire pédiatrique du Centre Hospitalier de Dunkerque
+  Psychologist: Bertrand Lionet et Béatrice Piveteau, des services de pédiatrie et de pédopsychiatrie du Centre Hospitalier de Dunkerque
 
   Illustrator: Claude Delafosse
 
   Graphic design: Joëlle Dimbour
   Site: www.kaki-design.fr
 
-  Psychologist: Bertrand Lionet
 
   Developer: Étienne Charignon
   Twitter: @echar
