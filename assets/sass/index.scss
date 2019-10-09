@@ -122,20 +122,22 @@
   }
 
   .credits {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    margin-top: 0.5rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 5%;
+    margin: 0.5rem 5% 1rem 5%;
+
+
+    @include breakpoint(mobileonly) {
+      grid-template-columns: repeat(2, 1fr);
+    }
 
     &-titre{
       display:block;
     }
 
     .column {
-      padding: 1rem;
       margin: 0;
-      padding: 1rem;
-      width: 18%;
 
       img {
         margin-top: 1rem;
@@ -144,10 +146,8 @@
       #premier-logo {
         width: 6rem;
       }
-      #second-logo { width: 10rem; }
-      @include breakpoint(mobileonly) {
-        width: calc(90% / 2.32);
-        margin: 0;
+      #second-logo {
+        width: 10rem;
       }
     }
   }
