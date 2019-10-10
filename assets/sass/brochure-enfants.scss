@@ -152,16 +152,6 @@
         }
       }
     }
-
-    @include breakpoint(laptop) {
-      h1 {
-        font-size: 7rem;
-      }
-
-      .contenu {
-        width: 50%;
-      }
-    }
   }
 
   .section-conseils {
