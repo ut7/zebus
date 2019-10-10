@@ -1,6 +1,7 @@
 ---
 title: Les agressions sexuelles envers les enfants
 subtitle: Comment leur en parler ?
+punchline: Un enfant averti aura moins peur d'en parler !
 ---
 **Pas facile** d’aborder le problème des agressions sexuelles avec un enfant.
 Pourtant il faut lui en parler et le rassurer en lui disant que les adultes
@@ -31,5 +32,3 @@ comment réagir, comment se faire aider. **La brochure enfants**, Le Permis de
 prudence, est un petit test à donner aux enfants à partir de cinq ans pour leur
 apprendre à bien réagir dans des situations dangereuses, à savoir ce qui est
 autorisé ou interdit, et pour en discuter avec eux.
-
-**Un enfant averti aura moins peur d'en parler !**

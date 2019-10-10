@@ -53,12 +53,13 @@
       text-align: justify;
       box-sizing: border-box;
       width: 100%;
-      strong {
-        font-weight: 700;
-      }
       @include breakpoint(desktop) {
         padding: 0 1rem;
       }
+    }
+    .punchline {
+      font-size: 1.4rem;
+      font-family: DINPro-Bold;
     }
     @include breakpoint(desktop) {
       margin-top: 2rem;
