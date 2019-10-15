@@ -54,7 +54,7 @@ $rouge: #ed2123;
 
   .credits {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     column-gap: 5%;
     @include breakpoint(tablet) {
       width: 70%;

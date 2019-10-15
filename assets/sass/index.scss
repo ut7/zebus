@@ -72,9 +72,9 @@
     flex-direction: row;
 
     width: 90%;
-    margin: 1rem auto 0 auto;
+    margin: 1rem auto 2rem auto;
     @include breakpoint(desktop) {
-      margin: auto;
+      margin: auto auto 2rem auto;
     }
     @include breakpoint(mobileonly) {
       flex-direction: column;
@@ -153,14 +153,9 @@
 
   .credits {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: 40% 20% auto;
     column-gap: 5%;
-    margin: 0.5rem 5% 1rem 5%;
-
-
-    @include breakpoint(mobileonly) {
-      grid-template-columns: repeat(2, 1fr);
-    }
+    margin: 0 5% 1rem 5%;
 
     &-titre{
       display:block;
@@ -169,24 +164,33 @@
     .column {
       margin: 0;
 
+      p {
+        margin-top: 0;
+      }
+
+      .logos {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-gap: 10px;
+      }
+
       img {
         margin-top: 1rem;
         display: block;
+        height: 4rem;
       }
       #logo-chd {
-        width: 4rem;
-      }
-      #logo-epms {
-        width: 12rem;
+        height: 6rem;
       }
       #logo-marc-allaert {
-        width: 10rem;
+        height: 3rem;
       }
     }
   }
 
   .foot-text {
-    padding: 0 1rem;
+    display: block;
     text-align: justify;
+    margin: 0 5% 1rem;
   }
 }
