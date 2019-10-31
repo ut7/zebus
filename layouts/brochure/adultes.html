@@ -2,8 +2,13 @@
 
 {{ define "main" }}
   <main class="brochure adultes">
-    {{ range .Params.sections }}
-      {{ partial "blocks/section" . }}
+    {{ range $index, $element := .Params.sections }}
+    <section class="section">
+      <div class="saut-page" style="background-image:url('/trait{{ mod $index 5 }}.svg')">
+        <img class="icone" src="{{ .icone }}">
+      </div>
+      {{ partial "blocks/section" . $index }}
+    </section>
     {{ end }}
     <div class="conclusion">
       {{ .Params.texte_footer | markdownify }}

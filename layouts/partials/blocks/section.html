@@ -1,5 +1,3 @@
-<section class="section">
-  <img class="icone" src="{{ .icone }}">
   <h1 class="titre">{{ .titre }}</h1>
   <span class="texte"><p>{{ .texte | markdownify }}</p></span>
   <img class="image" src="{{ .image }}"/>
@@ -11,4 +9,3 @@
     <div class="bulle-texte {{ .class_bulle }}" style="background-image:url('{{ .bulle }}')">{{ .texte_bulle | markdownify }}</div>
   </div>
   {{ end }}
-</section>
