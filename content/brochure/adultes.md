@@ -45,18 +45,21 @@ sections:
   texte_bulle: |-
   
     ##### COMMENT REPONDRE AUX ENFANTS ? 
-    Profitez de ce genre de phrase pour parler
-    de sexualité, de ce qui est permis et interdit entre adultes et enfants.
+    
+    > « Quand je serai grande, je me marierai avec toi, papa! »
+    
+    Profitez de ce genre de phrase pour respecter la place de l'enfant,
+    et redire les interdits entre enfants et adultes en matière de sexualité.
 
     > « Comment on fait les bébés ? »
 
-    Ne leur donnez pas qu’une réponse anatomique, ils se renseignent aussi sur
+    A ces questions, ne leur donnez pas qu’une réponse anatomique, ils se renseignent aussi sur
     l’origine de la vie, pourquoi les parents ont voulu qu’ils naissent.
     Répondez à leurs questions selon leur curiosité, leur niveau de
     compréhension...
 
   icone: "../../uploads/zebus.png"
-  titre: Accompagner l'éducation sexuelle de l'enfant
+  titre: Aborder la sexualité avec l'enfant
   texte: |-
     L’éducation sexuelle se fait naturellement au cours de la vie quotidienne.
     **Laissez-le poser des questions, demandez-lui ce qu’il imagine.**
@@ -155,7 +158,7 @@ sections:
     En général, quand vous le sentez triste ou inquiet, écoutez-le sans
     reproche pour lui montrer votre confiance. Intéressez-vous à son point de
     vue, à ce qu’il pense. **S’il n’a pas peur d’être grondé ou que l’on se moque
-    de lui, il osera vous parler de ce qui le tracasse.**
+    de lui, il osera parler de ce qui le tracasse.**
 
 - template: section
   image: "../../uploads/adultes-05.png"
