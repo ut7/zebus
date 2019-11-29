@@ -56,7 +56,7 @@ sections:
     compréhension...
 
   icone: "../../uploads/zebus.png"
-  titre: Aborder la sexualité avec l'enfant
+  titre: Accompagner l'éducation sexuelle de l'enfant
   texte: |-
     L’éducation sexuelle se fait naturellement au cours de la vie quotidienne.
     **Laissez-le poser des questions, demandez-lui ce qu’il imagine.**
@@ -155,7 +155,7 @@ sections:
     En général, quand vous le sentez triste ou inquiet, écoutez-le sans
     reproche pour lui montrer votre confiance. Intéressez-vous à son point de
     vue, à ce qu’il pense. **S’il n’a pas peur d’être grondé ou que l’on se moque
-    de lui, il osera parler de ce qui le tracasse.**
+    de lui, il osera vous parler de ce qui le tracasse.**
 
 - template: section
   image: "../../uploads/adultes-05.png"
