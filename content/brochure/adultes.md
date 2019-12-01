@@ -43,20 +43,20 @@ sections:
   citation: « Quand je serai grande, je me marierai avec toi, papa ! »
   bulle: "../../uploads/bulle-adulte-1.svg"
   texte_bulle: |-
-  
-    ##### COMMENT REPONDRE AUX ENFANTS ? 
-    
-    > « Quand je serai grande, je me marierai avec toi, papa! »
-    
+
+    ##### COMMENT REPONDRE AUX ENFANTS ?
+
+    > « Quand je serai grande, je me marierai avec toi, papa ! »
+
     Profitez de ce genre de phrase pour respecter la place de l'enfant,
     et redire les interdits entre enfants et adultes en matière de sexualité.
 
     > « Comment on fait les bébés ? »
 
-    A ces questions, ne leur donnez pas qu’une réponse anatomique, ils se renseignent aussi sur
-    l’origine de la vie, pourquoi les parents ont voulu qu’ils naissent.
-    Répondez à leurs questions selon leur curiosité, leur niveau de
-    compréhension...
+    À ces questions, ne leur donnez pas qu’une réponse anatomique, ils se
+    renseignent aussi sur l’origine de la vie, pourquoi les parents ont voulu
+    qu’ils naissent.  Répondez à leurs questions selon leur curiosité, leur
+    niveau de compréhension…
 
   icone: "../../uploads/zebus.png"
   titre: Aborder la sexualité avec l'enfant
@@ -183,18 +183,18 @@ sections:
 
     **Voici ce qu'il a besoin d'entendre pour lui donner des limites claires. Vous pouvez lui dire :**
 
-    **« Sers-toi de ce que tu ressens...**  
+    **« Sers-toi de ce que tu ressens…**  
     Ce que tu sens de désagréable ou de bizarre t'avertit que quelque chose ne
     va pas. Tu peux te fier à ce que tu ressens. Tu ne dois pas hésiter à te
-    confier à des adultes jusqu’à ce qu’on te croie... »
+    confier à des adultes jusqu’à ce qu’on te croie… »
 
-    **« Il y a des caresses permises et des caresses défendues...**  
+    **« Il y a des caresses permises et des caresses défendues…**  
     Il y a des caresses qui font plaisir et qui sont agréables mais il y en a
     d’autres qui sont bizarres, qui font peur. Les adultes n’ont pas le droit
     de passer la main sous tes vêtements et s’approcher de ton sexe, de toucher
     tes seins ou tes fesses ! »
 
-    **« Il y a des bons et des mauvais secrets...**  
+    **« Il y a des bons et des mauvais secrets…**  
     Il y a des secrets qu’on aime partager, et qu’on fait pour jouer. Les
     enfants ne devraient pas avoir des secrets lourds à porter. Si on t’oblige à
     un secret, qu’on te menace ou qu’on te fait du chantage, il faut que tu en
@@ -224,7 +224,7 @@ sections:
     **L’enfant croit qu’il est en sécurité chez lui derrière un écran** et
     qu’il connaît ceux avec qui il communique, mais il peut entrer en contact
     avec des gens malveillants. Expliquez-lui qu’il existe des pièges, des
-    faux-amis, des arnaques, des images pornos et des pédophiles...
+    faux-amis, des arnaques, des images pornos et des pédophiles…
 
     Il faut lui dire de ne pas donner son adresse personnelle, de ne pas
     accepter d’invitation secrète, qu’il doit refuser de se montrer nu
