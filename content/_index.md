@@ -15,7 +15,7 @@ adultes.
 **Pour l’aider à s’en défendre**, il doit comprendre que parfois l’agression se
 déguise en gentillesse. Même si c’est rare, il existe des pédophiles, des gens
 malades dans leur tête, qui peuvent lui faire du mal en lui faisant en cachette
-des gestes sexuels qui ne sont pas de son âge. Contrairement à ce que l’on
+des gestes sexuels qui ne sont pas de son âge: se montrer nu, toucher son sexe, demander des caresses sexuelles. Contrairement à ce que l’on
 croit, l’agression vient rarement des personnes inconnues mais généralement de
 quelqu'un que l’enfant connaît bien et qui abuse de sa confiance. C’est important
 de lui expliquer que personne n’a le droit de lui faire ça !
@@ -27,8 +27,8 @@ arrive.
 **Avec des mots et des images simples**, ce site propose de vous aider à repérer
 les situations à risque, à savoir les éviter et à en parler ensemble.
 
-**La brochure adultes** explique comment en parler à l’enfant, comment l’écouter,
-comment réagir, comment se faire aider. **La brochure enfants**, Le Permis de
-prudence, est un petit test à donner aux enfants à partir de cinq ans pour leur
+**Le Permis de prudence pour les adultes** explique comment en parler à l’enfant, comment l’écouter,
+comment réagir, comment se faire aider. **Le Permis de prudence pour les enfants**
+est un petit test à donner aux enfants à partir de cinq ans pour leur
 apprendre à bien réagir dans des situations dangereuses, à savoir ce qui est
 autorisé ou interdit, et pour en discuter avec eux.
