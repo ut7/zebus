@@ -9,8 +9,8 @@ introduction: |-
   Beaucoup de personnes autour de toi t'aiment et te protègent mais **il arrive
   que des gens ne respectent pas les enfants même s'ils ont l'air gentils**. Il
   existe, par exemple, des pédophiles ou des gens un peu malades dans leur tête
-  qui font des gestes sexuels aux enfants même si c'est interdit. Il faut qu'un
-  enfant sache que ça peut arriver pour savoir comment se protéger, en parler à
+  qui font des gestes sexuels à des enfants : toucher le sexe, demander des caresses, se montrer nu. Il faut qu'un
+  enfant sache que ça peut arriver, même si c'est interdit, pour savoir comment se protéger, en parler à
   quelqu'un pour se faire aider et comprendre que ce n'est jamais de sa faute.
 
   **Passe ton permis de prudence** en répondant aux questions du test, pour
@@ -136,7 +136,7 @@ questions:
         vite à quelqu'un.
 
   - question: >-
-      Si quelqu'un que tu connais essaie de te faire des gestes sexuels en
+      Si quelqu'un que tu connais veut toucher ton sexe ou te demande des caresses sexuelles en
       cachette…
     template: question
     image: ../../uploads/enfants-10.png
@@ -145,7 +145,7 @@ questions:
     icone_reponse_3: triangle
     reponses:
       - Tu n’oses pas refuser… tu es assez content qu'on s'intéresse à toi…
-      - Tu t’éloignes et tu hésites à en parler car tu as peur de ses menaces.
+      - Tu t’éloignes et tu hésites à en parler car tu as peur de lui et de ses menaces.
       - >-
         Tu t'en vas et tu le dénonces. Tu sais que c'est interdit les gestes
         sexuels avec les enfants.
@@ -160,10 +160,10 @@ questions:
     icone_reponse_3: triangle
     reponses:
       - >-
-        Tu te laisses faire pour lui faire plaisir et parce que ce n'est pas 
+        Tu te laisses faire pour ne pas lui faire de la peine et parce que ce n'est pas 
         trop désagréable.
       - >-
-        Tu hésites à refuser car tu as honte et peur de sa réaction. 
+        Tu hésites à refuser même si ça te gêne car tu as honte et peur de sa réaction. 
       - >-
         Tu dis non même si tu l'aimes bien ! Tu sais qu'il n'en a pas le droit.
         Et tu en parles.
