@@ -26,15 +26,11 @@ sections:
     le droit de lui faire ça !
 
     **En sachant ce qu’est une agression sexuelle, l’enfant reconnaîtra mieux
-    les situations qui ne sont pas normales.** Il en parlera plus facilement si ça
-    lui arrive.
-
-    Avec des mots et des images simples, ce site propose de vous aider à
-    repérer les situations à risque, à savoir les éviter et à en parler
-    ensemble. La brochure adultes explique comment en parler à l’enfant,
+    les situations qui ne sont pas normales.** 
+    **Le Permis de prudence pour les adultes** explique comment en parler à l’enfant,
     comment l’écouter, comment réagir, comment se faire aider.
 
-    La brochure enfants, Le Permis de prudence, est un petit test à donner aux enfants à partir de cinq ans pour leur apprendre à bien réagir dans des situations dangereuses, à savoir ce qui est autorisé ou interdit, et pour en discuter avec eux.
+    **Le Permis de prudence pour les enfants**, est un petit test à donner aux enfants à partir de cinq ans pour leur apprendre à bien réagir dans des situations dangereuses, à savoir ce qui est autorisé ou interdit, et pour en discuter avec eux.
 
     **Un enfant averti aura moins peur d'en parler !**
 
@@ -178,10 +174,10 @@ sections:
     _(programme canadien, Mon corps c’est mon corps.)_
 
   icone: "../../uploads/zebus.png"
-  titre: Lui parler clairement
+  titre: Lui donner des limites claires
   texte: |-
 
-    **Voici ce qu'il a besoin d'entendre pour lui donner des limites claires. Vous pouvez lui dire :**
+    **Parlez-lui clairement! Pour l'aider, voilà les mots qu'il a besoin d'entendre :**
 
     **« Sers-toi de ce que tu ressens…**  
     Ce que tu sens de désagréable ou de bizarre t'avertit que quelque chose ne
@@ -262,10 +258,10 @@ sections:
     Les agressions sexuelles ou abus sexuels sont des actes très graves par
     lesquels un adulte ou un plus grand, pour son plaisir, **oblige un enfant à
     un acte sexuel qui n’est pas de son âge.** C’est un abus de pouvoir, c’est
-    une agression. Les agressions sexuelles sont :
+    une violence. Les agressions sexuelles sont :
     l’exhibitionnisme, l’initiation sexuelle avec  des images pornos, les
     attouchements, le viol. Utiliser la nudité de l’enfant pour des images
-    pédo-pornographiques ou prostituer des enfants pour de l’argent sont aussi
+    pornographiques ou prostituer des enfants pour de l’argent sont aussi
     des agressions sexuelles.
 
     **Les victimes sont-elles uniquement des filles ?**  
@@ -276,7 +272,7 @@ sections:
 
     **Une agression sexuelle est-elle toujours obtenue par la force ?**  
     **NON !** Elles sont très souvent obtenues par la séduction, des cadeaux, du
-    chantage, le plus souvent en exigeant le secret.
+    chantage, des menaces en exigeant le secret.
 
     **Les agressions sexuelles sont-elles uniquement commises par des pédophiles rencontrés dans la rue ?**  
     **NON !** Ces actes sont commis le plus souvent par des hommes proches de
