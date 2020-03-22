@@ -3,6 +3,7 @@
 {{ define "main" }}
   <main class="brochure enfants">
     <section class="section-introduction">
+      <img class="couverture" src="../../enfants.png">
       <img class="icone" src="{{ .Params.Icone_zebus }}">
       <h1 class="titre">{{ .Params.Titre }}</h1>
       <div class="intro">{{ .Params.Introduction | markdownify }}</div>
