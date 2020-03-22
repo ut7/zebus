@@ -30,7 +30,7 @@ fields:
     options:
     - rectangle
     - triangle
-    - point
+    - rond
     source:
       type: simple
       section: 
@@ -46,7 +46,7 @@ fields:
     options:
     - rectangle
     - triangle
-    - point
+    - rond
     source:
       type: simple
       section: 
@@ -62,7 +62,7 @@ fields:
     options:
     - rectangle
     - triangle
-    - point
+    - rond
     source:
       type: simple
       section: 

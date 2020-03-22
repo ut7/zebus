@@ -22,7 +22,7 @@ questions:
   - question: Si un voisin te demande de venir voir ses bébés chats chez lui…
     template: question
     image: ../../uploads/enfants-01.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -37,7 +37,7 @@ questions:
       de la part de tes parents…
     template: question
     image: ../../uploads/enfants-02.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -54,7 +54,7 @@ questions:
       demande…
     template: question
     image: ../../uploads/enfants-03.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -67,7 +67,7 @@ questions:
       parents soient au courant…
     template: question
     image: ../../uploads/enfants-04.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -82,7 +82,7 @@ questions:
   - question: Si ta grande sœur a un ami qui lui demande une photo d’elle toute nue…
     template: question
     image: ../../uploads/enfants-05.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -99,7 +99,7 @@ questions:
   - question: Si un copain veut regarder avec toi des images sexuelles sur sa tablette…
     template: question
     image: ../../uploads/enfants-06.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -112,7 +112,7 @@ questions:
   - question: Si un ado se montre nu devant toi et te demande de te déshabiller…
     template: question
     image: ../../uploads/enfants-07.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -123,7 +123,7 @@ questions:
   - question: Si un inconnu veut te parler de sexe en te demandant de garder le secret…
     template: question
     image: ../../uploads/enfants-08.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -140,7 +140,7 @@ questions:
       cachette…
     template: question
     image: ../../uploads/enfants-10.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -155,7 +155,7 @@ questions:
       qui te gênent…
     template: question
     image: ../../uploads/enfants-09.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -173,7 +173,7 @@ questions:
       féliciter…
     template: question
     image: ../../uploads/enfants-11.png
-    icone_reponse_1: point
+    icone_reponse_1: rond
     icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
@@ -186,7 +186,7 @@ questions:
 titre_section_reponses: Réponses au test
 instructions: >-
 
-  Compte le nombre de ![Point](../../uploads/point.gif),
+  Compte le nombre de ![Rond](../../uploads/rond.gif),
   de ![Rectangle](../../uploads/rectangle.gif), ou
   de ![Triangle](../../uploads/triangle.gif), en
   fonction des réponses que tu as données à chaque question. Si tu as un
@@ -194,7 +194,7 @@ instructions: >-
 
 resultats: >-
 
-  ![Point](../../uploads/point.gif)
+  ![Rond](../../uploads/rond.gif)
 
 
   Tu ne te rends pas compte de ce qui est dangereux, normal ou anormal, et tu
