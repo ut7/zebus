@@ -4,9 +4,11 @@
   <main class="brochure adultes">
     {{ range $index, $element := .Params.sections }}
     <section class="section">
+      {{ if .icone }}
       <div class="saut-page" style="background-image:url('/trait{{ mod $index 2 }}.svg')">
         <img class="icone" src="{{ .icone }}">
       </div>
+      {{ end }}
       {{ partial "blocks/section" . $index }}
     </section>
     {{ end }}

@@ -1,4 +1,6 @@
+  {{ if .titre }}
   <h1 class="titre">{{ .titre }}</h1>
+  {{ end }}
   <img class="image" src="{{ .image }}"/>
   {{ if .citation }}
   <blockquote class="citation">{{ .citation }}</blockquote>

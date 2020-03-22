@@ -3,6 +3,8 @@ type: brochure
 layout: adultes
 sections:
 - template: section
+  image: "../../adultes.png"
+- template: section
   image: "../../uploads/adultes-01.png"
   bulle: ''
   texte-bulle: ''
