@@ -4,15 +4,18 @@
   <h1 class="titre">{{ .question }}</h1>
   <ul class="reponses">
     {{ range $i, $val := .reponses }}
-      {{ if eq $i 0 }}
-        <li class="{{ $.icone_reponse_1 }}">{{ $val }}</li>
-      {{ end }}
-      {{ if eq $i 1 }}
-        <li class="{{ $.icone_reponse_2 }}">{{ $val }}</li>
-      {{ end }}
-      {{ if eq $i 2 }}
-        <li class="{{ $.icone_reponse_3 }}">{{ $val }}</li>
-      {{ end }}
+      <li>
+        {{ if eq $i 0 }}
+          <img src="../../uploads/{{ $.symbol_reponse_1 }}.gif" alt="{{ $.symbol_reponse_1 }}">
+        {{ end }}
+        {{ if eq $i 1 }}
+          <img src="../../uploads/{{ $.symbol_reponse_2 }}.gif" alt="{{ $.symbol_reponse_2 }}">
+        {{ end }}
+        {{ if eq $i 2 }}
+          <img src="../../uploads/{{ $.symbol_reponse_3 }}.gif" alt="{{ $.symbol_reponse_3 }}">
+        {{ end }}
+        <p>{{ $val }}</p>
+      </li>
     {{ end }}
   </ul>
 </section>

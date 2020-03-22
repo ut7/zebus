@@ -22,9 +22,9 @@ questions:
   - question: Si un voisin te demande de venir voir ses bébés chats chez lui…
     template: question
     image: ../../uploads/enfants-01.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - Tu y vas, tu adores les chats.
       - Tu as envie d'accepter même si tu ne le connais pas.
@@ -37,9 +37,9 @@ questions:
       de la part de tes parents…
     template: question
     image: ../../uploads/enfants-02.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - >-
         Tu trouves qu'elle a l'air gentille, tu montes dans sa voiture pour
@@ -54,9 +54,9 @@ questions:
       demande…
     template: question
     image: ../../uploads/enfants-03.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - Tu lui obéis, et tu ne dis rien à personne parce que tu as trop peur.
       - Tu acceptes de le faire parce qu'il dit que c'est la dernière fois
@@ -67,9 +67,9 @@ questions:
       parents soient au courant…
     template: question
     image: ../../uploads/enfants-04.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - Tu acceptes, tu es content d’avoir un nouvel ami qui s’intéresse à toi.
       - >-
@@ -82,9 +82,9 @@ questions:
   - question: Si ta grande sœur a un ami qui lui demande une photo d’elle toute nue…
     template: question
     image: ../../uploads/enfants-05.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - >-
         Tu la laisses faire. Tu trouves qu’elle a de la chance de plaire aux
@@ -99,9 +99,9 @@ questions:
   - question: Si un copain veut regarder avec toi des images sexuelles sur sa tablette…
     template: question
     image: ../../uploads/enfants-06.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - Tu acceptes pour en savoir plus. Ça t’intéresse !
       - Tu hésites à refuser pour ne pas le décevoir.
@@ -112,9 +112,9 @@ questions:
   - question: Si un ado se montre nu devant toi et te demande de te déshabiller…
     template: question
     image: ../../uploads/enfants-07.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - Tu acceptes car tu es surprise et tu as trop peur.
       - Tu hésites à rester, ça te gêne mais tu ne sais pas quoi faire.
@@ -123,9 +123,9 @@ questions:
   - question: Si un inconnu veut te parler de sexe en te demandant de garder le secret…
     template: question
     image: ../../uploads/enfants-08.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - Tu l’écoutes, ça t’intéresse et tu es fière qu’il te confie un secret.
       - >-
@@ -140,9 +140,9 @@ questions:
       cachette…
     template: question
     image: ../../uploads/enfants-10.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - Tu n’oses pas refuser… tu es assez content qu'on s'intéresse à toi…
       - Tu t’éloignes et tu hésites à en parler car tu as peur de lui et de ses menaces.
@@ -155,9 +155,9 @@ questions:
       qui te gênent…
     template: question
     image: ../../uploads/enfants-09.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - >-
         Tu te laisses faire pour ne pas lui faire de la peine et parce que ce n'est pas 
@@ -173,9 +173,9 @@ questions:
       féliciter…
     template: question
     image: ../../uploads/enfants-11.png
-    icone_reponse_1: rond
-    icone_reponse_2: rectangle
-    icone_reponse_3: triangle
+    symbol_reponse_1: rond
+    symbol_reponse_2: rectangle
+    symbol_reponse_3: triangle
     reponses:
       - Tu pars en courant et en criant « au secours ! »
       - Tu te demandes si c'est un geste amical, ou pas normal.

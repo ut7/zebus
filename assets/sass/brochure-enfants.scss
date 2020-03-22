@@ -96,17 +96,22 @@
       font-size: 1.5rem;
 
       li {
+        display: flex;
         list-style: none;
         background-size: 2.3rem;
         background-repeat: no-repeat;
         background-position: top left;
-        padding: 0 0 0 3rem;
         margin-bottom: 2rem;
-      }
 
-      .triangle { background-image: url(../uploads/triangle.gif); }
-      .rond { background-image: url(../uploads/rond.gif); }
-      .rectangle { background-image: url(../uploads/rectangle.gif); }
+        img {
+          height: 2rem;
+          margin-bottom : auto;
+        }
+
+        p {
+          margin: 0 auto auto 1rem;
+        }
+      }
     }
 
     @include breakpoint(tablet) {
