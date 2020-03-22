@@ -106,7 +106,7 @@
 
       .triangle { background-image: url(../uploads/triangle.gif); }
       .point { background-image: url(../uploads/point.gif); }
-      .carré { background-image: url(../uploads/carré.gif); }
+      .rectangle { background-image: url(../uploads/rectangle.gif); }
     }
 
     @include breakpoint(tablet) {

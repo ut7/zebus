@@ -23,7 +23,7 @@ questions:
     template: question
     image: ../../uploads/enfants-01.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - Tu y vas, tu adores les chats.
@@ -38,7 +38,7 @@ questions:
     template: question
     image: ../../uploads/enfants-02.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - >-
@@ -55,7 +55,7 @@ questions:
     template: question
     image: ../../uploads/enfants-03.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - Tu lui obéis, et tu ne dis rien à personne parce que tu as trop peur.
@@ -68,7 +68,7 @@ questions:
     template: question
     image: ../../uploads/enfants-04.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - Tu acceptes, tu es content d’avoir un nouvel ami qui s’intéresse à toi.
@@ -83,7 +83,7 @@ questions:
     template: question
     image: ../../uploads/enfants-05.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - >-
@@ -100,7 +100,7 @@ questions:
     template: question
     image: ../../uploads/enfants-06.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - Tu acceptes pour en savoir plus. Ça t’intéresse !
@@ -113,7 +113,7 @@ questions:
     template: question
     image: ../../uploads/enfants-07.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - Tu acceptes car tu es surprise et tu as trop peur.
@@ -124,7 +124,7 @@ questions:
     template: question
     image: ../../uploads/enfants-08.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - Tu l’écoutes, ça t’intéresse et tu es fière qu’il te confie un secret.
@@ -141,7 +141,7 @@ questions:
     template: question
     image: ../../uploads/enfants-10.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - Tu n’oses pas refuser… tu es assez content qu'on s'intéresse à toi…
@@ -156,7 +156,7 @@ questions:
     template: question
     image: ../../uploads/enfants-09.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - >-
@@ -174,7 +174,7 @@ questions:
     template: question
     image: ../../uploads/enfants-11.png
     icone_reponse_1: point
-    icone_reponse_2: carré
+    icone_reponse_2: rectangle
     icone_reponse_3: triangle
     reponses:
       - Tu pars en courant et en criant « au secours ! »
@@ -186,15 +186,15 @@ questions:
 titre_section_reponses: Réponses au test
 instructions: >-
 
-  Compte le nombre de ![](../../uploads/point.gif "Point"),
-  de ![](../../uploads/carré.gif "Carré"), ou
-  de ![](../../uploads/triangle.gif "Triangle"), en
+  Compte le nombre de ![Point](../../uploads/point.gif),
+  de ![Rectangle](../../uploads/rectangle.gif), ou
+  de ![Triangle](../../uploads/triangle.gif), en
   fonction des réponses que tu as données à chaque question. Si tu as un
   maximum de :
 
 resultats: >-
 
-  ![](../../uploads/point.gif)
+  ![Point](../../uploads/point.gif)
 
 
   Tu ne te rends pas compte de ce qui est dangereux, normal ou anormal, et tu
@@ -202,14 +202,14 @@ resultats: >-
   parents !
 
 
-  ![](../../uploads/carré.gif)
+  ![Rectangle](../../uploads/rectangle.gif)
 
 
   Tu hésites souvent. Attention, sois plus prudent(e), ne crois pas tout ce
   qu'on te dit et ose dire non. Parle avec tes parents puis repasse ton permis.
 
 
-  ![](../../uploads/triangle.gif)
+  ![Triangle](../../uploads/triangle.gif)
 
 
   Tu sais que des adultes sont là pour te protéger et tu sais refuser les

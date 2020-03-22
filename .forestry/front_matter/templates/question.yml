@@ -28,7 +28,7 @@ fields:
   config:
     required: false
     options:
-    - carré
+    - rectangle
     - triangle
     - point
     source:
@@ -44,7 +44,7 @@ fields:
   config:
     required: false
     options:
-    - carré
+    - rectangle
     - triangle
     - point
     source:
@@ -60,7 +60,7 @@ fields:
   config:
     required: false
     options:
-    - carré
+    - rectangle
     - triangle
     - point
     source:
