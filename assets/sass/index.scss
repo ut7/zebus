@@ -128,24 +128,17 @@
         align-items: center;
         text-align: center;
 
-        &-interieur {
+        .bouton-pdf {
+          border: none;
+          color: #fff;
+          font-size: 1.2rem;
+          font-weight: 700;
+          text-decoration: none;
+          margin: auto
+        }
 
-          .bouton {
-            border: none;
-            color: #fff;
-            font-size: 2rem;
-            font-weight: 700;
-            text-decoration: none;
-          }
-
-          .bouton:hover {
-            filter: drop-shadow(0 0 10px black);
-          }
-
-          .bouton-pdf {
-            font-size: 1rem;
-            padding-left: 0.4rem;
-          }
+        .bouton-pdf:hover {
+          filter: drop-shadow(0 0 10px black);
         }
       }
     }
