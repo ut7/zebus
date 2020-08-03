@@ -1,4 +1,5 @@
 #!/bin/sh
+# script issue de la page https://gohugo.io/hosting-and-deployment/hosting-on-github
 
 if [ "`git status -s`" ]
 then
