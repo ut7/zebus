@@ -4,6 +4,6 @@ languageCode: "fr-fr"
 title: "Les agressions sexuelles envers les enfants"
 disableKinds: ["taxonomy", "taxonomyTerm"]
 metaDataFormat: "yaml"
-publishDir: "public/zebus"
+publishDir: "public"
 blackfriday:
   fractions: false
