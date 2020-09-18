@@ -330,8 +330,8 @@ sections:
 
     Des professionnels sauront vous écouter et vous orienter :
 
-    * votre médecin, votre pédiatre, le médecin des urgences.
-    * le centre de consultation médico-psychologique pour enfants.
+    * Votre médecin, votre pédiatre, le médecin des urgences.
+    * Le centre de consultation médico-psychologique pour enfants.
     * L’antenne du conseil départemental (UTPAS), à la mairie.
     * Les associations de protections de l’enfance.
     * L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière
