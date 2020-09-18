@@ -10,7 +10,7 @@
       <img class="icone" src="{{ .Params.Icone_zebus }}">
       <h1 class="titre">{{ .Params.Titre }}</h1>
       <div class="intro">{{ .Params.Introduction | markdownify }}</div>
-      <h2 class="sous-titre">{{ .Params.Sous_titre }}</h2>
+      <div class="sous-titre">{{ .Params.Sous_titre }}</div>
     </section>
     {{ range .Params.questions }}
       {{ partial "blocks/question" . }}

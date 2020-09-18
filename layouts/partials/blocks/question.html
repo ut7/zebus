@@ -1,7 +1,7 @@
 <section class="question">
-  <h1 class="numero"></h1>
+  <div class="numero"></div>
   <img class="image" src="{{ .image }}">
-  <h1 class="titre">{{ .question }}</h1>
+  <h2 class="titre">{{ .question }}</h2>
   <ul class="reponses">
     {{ range $i, $val := .reponses }}
       <li>

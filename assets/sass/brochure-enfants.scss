@@ -18,7 +18,7 @@
     padding: 1rem 4.5rem 2rem 4.5rem;
   }
 
-  h1,h2 {
+  h1, h2 {
     font-family: Amandine;
     font-weight: normal;
   }
@@ -40,6 +40,8 @@
     .sous-titre {
       font-size: 1.7rem;
       margin-top: 1rem;
+      font-family: Amandine;
+      font-weight: normal;
     }
 
     @include breakpoint(tablet) {
@@ -83,6 +85,8 @@
     .numero:before {
       content: " - " counter(numero-question) " - ";
       counter-increment: numero-question;
+      font-family: Amandine;
+      font-weight: normal;
     }
 
     .titre, .numero {
