@@ -4,6 +4,7 @@ layout: adultes
 sections:
 - template: section
   image: "../../adultes.png"
+  alt: "Couverture de la brochure avec le titre « Permis de prudence pour les adultes ». Sous-titre : pour parler aux enfants des aggressions sexuelles"
 - template: section
   image: "../../uploads/adultes-01.png"
   bulle: ''
