@@ -3,8 +3,8 @@
 @include font-face(Amandine, "../fonts/Amandine", null, null, ttf);
 @include font-face("Beautiful Heartbeat", "../fonts/BeautifulHeartbeat", null, null, otf);
 @include font-face(DINPro, "../fonts/DINPro", null, null, otf);
-@include font-face(DINPro-Bold, "../fonts/DINPro-Bold", Bold, null, otf);
-@include font-face(DINPro-Light, "../fonts/DINPro-Light", Normal, null, otf);
-@include font-face(DINPro-Medium, "../fonts/DINPro-Medium", Medium, null, otf);
-@include font-face(BotonBold, "../fonts/BotonBold", Bold, null, ttf);
-@include font-face(Literata, "../fonts/Literata-Medium", Medium, null, ttf);
+@include font-face(DINPro-Bold, "../fonts/DINPro-Bold", bold, null, otf);
+@include font-face(DINPro-Light, "../fonts/DINPro-Light", 300, null, otf);
+@include font-face(DINPro-Medium, "../fonts/DINPro-Medium", 500, null, otf);
+@include font-face(BotonBold, "../fonts/BotonBold", bold, null, ttf);
+@include font-face(Literata, "../fonts/Literata-Medium", 500, null, ttf);
