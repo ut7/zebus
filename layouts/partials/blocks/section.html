@@ -5,7 +5,7 @@
   {{ if .citation }}
   <blockquote class="citation">{{ .citation }}</blockquote>
   {{ end }}
-  <span class="texte"><p>{{ .texte | markdownify }}</p></span>
+  <span class="texte">{{ .texte | markdownify }}</span>
   {{ if .bulle }}
   <div class="bulle">
     <div class="bulle-texte {{ .class_bulle }}" style="background-image:url('{{ .bulle }}')">{{ .texte_bulle | markdownify }}</div>
