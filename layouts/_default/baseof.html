@@ -6,6 +6,7 @@
     <title>{{ site.Title }} - {{ block "title" . }}{{ end }}</title>
     {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <script async defer data-domain="permisdeprudence.fr" src="https://plausible.ut7.fr/js/plausible.js"></script>
   </head>
   <body>
     {{ block "main" . }}
