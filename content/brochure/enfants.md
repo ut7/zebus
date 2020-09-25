@@ -21,7 +21,7 @@ sous_titre: Un enfant averti aura moins peur d’en parler.
 questions:
   - question: Si un voisin te demande de venir voir ses bébés chats chez lui…
     template: question
-    image: ../../uploads/enfants-01.png
+    image: ../../uploads/enfants-01.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -36,7 +36,7 @@ questions:
       Si une inconnue te propose de t’emmener en voiture en disant qu’elle vient
       de la part de tes parents…
     template: question
-    image: ../../uploads/enfants-02.png
+    image: ../../uploads/enfants-02.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -53,7 +53,7 @@ questions:
       Si un grand menace de te frapper parce que tu ne fais pas ce qu’il te
       demande…
     template: question
-    image: ../../uploads/enfants-03.png
+    image: ../../uploads/enfants-03.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -66,7 +66,7 @@ questions:
       Si quelqu’un que tu as connu sur Internet veut te rencontrer sans que tes
       parents soient au courant…
     template: question
-    image: ../../uploads/enfants-04.png
+    image: ../../uploads/enfants-04.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -81,7 +81,7 @@ questions:
 
   - question: Si ta grande sœur a un ami qui lui demande une photo d’elle toute nue…
     template: question
-    image: ../../uploads/enfants-05.png
+    image: ../../uploads/enfants-05.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -98,7 +98,7 @@ questions:
 
   - question: Si un copain veut regarder avec toi des images sexuelles sur sa tablette…
     template: question
-    image: ../../uploads/enfants-06.png
+    image: ../../uploads/enfants-06.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -111,7 +111,7 @@ questions:
 
   - question: Si un ado se montre nu devant toi et te demande de te déshabiller…
     template: question
-    image: ../../uploads/enfants-07.png
+    image: ../../uploads/enfants-07.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -122,7 +122,7 @@ questions:
 
   - question: Si un inconnu veut te parler de sexe en te demandant de garder le secret…
     template: question
-    image: ../../uploads/enfants-08.png
+    image: ../../uploads/enfants-08.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -139,7 +139,7 @@ questions:
       Si quelqu'un que tu connais veut toucher ton sexe ou te demande des caresses sexuelles en
       cachette…
     template: question
-    image: ../../uploads/enfants-10.png
+    image: ../../uploads/enfants-10.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -154,7 +154,7 @@ questions:
       Si une personne que tu aimes bien essaie de te faire des caresses intimes
       qui te gênent…
     template: question
-    image: ../../uploads/enfants-09.png
+    image: ../../uploads/enfants-09.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -172,7 +172,7 @@ questions:
       A la fin de la compétition, si l’entraîneur te serre dans ses bras pour te
       féliciter…
     template: question
-    image: ../../uploads/enfants-11.png
+    image: ../../uploads/enfants-11.jpg
     symbol_reponse_1: rond
     symbol_reponse_2: rectangle
     symbol_reponse_3: triangle
@@ -217,7 +217,7 @@ resultats: >-
   Bravo ! Tu as ton permis avec les félicitations du jury. Tu as même le droit
   de le faire passer à tes copains et copines.
 
-image_bravo: ../../uploads/enfants-12.png
+image_bravo: ../../uploads/enfants-12.jpg
 conseils:
   - Connais par coeur ton adresse et ton numéro de téléphone.
   - Discute avec tes parents des endroits où tu peux te réfugier si tu as besoin d’aide (dans la rue, un magasin par exemple).

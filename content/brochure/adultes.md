@@ -3,10 +3,10 @@ type: brochure
 layout: adultes
 sections:
 - template: section
-  image: "../../adultes.png"
+  image: "../../adultes.jpg"
   alt: "Couverture de la brochure avec le titre « Permis de prudence pour les adultes ». Sous-titre : pour parler aux enfants des aggressions sexuelles"
 - template: section
-  image: "../../uploads/adultes-01.png"
+  image: "../../uploads/adultes-01.jpg"
   bulle: ''
   texte-bulle: ''
   icone: "../../uploads/zebus.png"
@@ -39,7 +39,7 @@ sections:
     **Un enfant averti aura moins peur d'en parler !**
 
 - template: section
-  image: "../../uploads/adultes-02.png"
+  image: "../../uploads/adultes-02.jpg"
   citation: « Quand je serai grande, je me marierai avec toi, papa ! »
   bulle: "../../uploads/bulle-adulte-1.svg"
   texte_bulle: |-
@@ -81,7 +81,7 @@ sections:
     et l’oblige à se déshabiller** en prétextant que c’est un jeu.
 
 - template: section
-  image: "../../uploads/adultes-03.png"
+  image: "../../uploads/adultes-03.jpg"
   bulle: "../../uploads/bulle-adulte-2.svg"
   texte_bulle: |-
 
@@ -119,7 +119,7 @@ sections:
     est normal et ce qui ne l’est pas.**
 
 - template: section
-  image: "../../uploads/adultes-04.png"
+  image: "../../uploads/adultes-04.jpg"
   bulle: "../../uploads/bulle-adulte-3.svg"
   texte_bulle: |-
 
@@ -161,7 +161,7 @@ sections:
     de lui, il osera parler de ce qui le tracasse.**
 
 - template: section
-  image: "../../uploads/adultes-05.png"
+  image: "../../uploads/adultes-05.jpg"
   citation: Grâce à ma boussole, je sais où aller !
   bulle: "../../uploads/bulle-adulte-4.svg"
   texte_bulle: |-
@@ -201,7 +201,7 @@ sections:
     parles à quelqu’un, même si tu avais promis de ne rien dire à personne. »
 
 - template: section
-  image: "../../uploads/adultes-06.png"
+  image: "../../uploads/adultes-06.jpg"
   bulle: "../../uploads/bulle-adulte-5.svg"
   texte_bulle: |-
 
@@ -243,7 +243,7 @@ sections:
     18 ans est interdit et puni sévèrement.
 
 - template: section
-  image: "../../uploads/adultes-07.png"
+  image: "../../uploads/adultes-07.jpg"
   bulle: "../../uploads/bulle-adulte-6.svg"
   texte_bulle: |-
     ##### LES AGRESSIONS SEXUELLES SONT PUNIES PAR LA LOI.
@@ -285,7 +285,7 @@ sections:
     famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
 
 - template: section
-  image: "../../uploads/adultes-08.png"
+  image: "../../uploads/adultes-08.jpg"
   bulle: "../../uploads/bulle-adulte-7.svg"
   class_bulle: padding-bottom-large
   texte_bulle: |-
@@ -322,7 +322,7 @@ sections:
     d’envoyer un signal.**
 
 - template: section
-  image: "../../uploads/adultes-09.png"
+  image: "../../uploads/adultes-09.jpg"
   bulle: "../../uploads/bulle-adulte-8.svg"
   texte_bulle: |-
 
