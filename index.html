@@ -8,6 +8,7 @@
     
     <link rel="stylesheet" href="/sass/main.min.8e14d3b32a417c99688f8e3ccc3888e1ad197bb55d69fe091b5fc1ba710b5997.css">
     <script async defer data-domain="permisdeprudence.fr" src="https://plausible.ut7.fr/js/plausible.js"></script>
+    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
   </head>
   <body>
     
@@ -56,7 +57,7 @@ autorisé ou interdit, et pour en discuter avec eux.</p>
             <img src="./adultes.jpg" alt="Permis de prudence pour les adultes : pour parler aux enfants des aggressions sexuelles">
           </a>
           <div class="boutons">
-            <a class="bouton-pdf" href="https://frama.link/permis_de_prudence_pour_les_adultes">Téléchager le pdf ▼</a>
+            <a id='telechargement_brochure_adultes' class="bouton-pdf" href="permis_de_prudence_pour_les_adultes.pdf">Téléchager le pdf ▼</a>
           </div>
         </div>
         <div id="enfants" class="acces-brochure">
@@ -64,7 +65,7 @@ autorisé ou interdit, et pour en discuter avec eux.</p>
             <img src="./enfants.jpg" alt="Permis de prudence pour les enfants : pour parler des aggressions sexuelles">
           </a>
           <div class="boutons">
-            <a class="bouton-pdf" href="https://frama.link/permis_de_prudence_pour_les_enfants">Téléchager le pdf ▼</a>
+            <a id='telechargement_brochure_enfants' class="bouton-pdf" href="permis_de_prudence_pour_les_enfants.pdf">Téléchager le pdf ▼</a>
           </div>
         </div>
       </div>
@@ -113,6 +114,13 @@ autorisé ou interdit, et pour en discuter avec eux.</p>
       l’imprimerie ICO Dunkerque. Demande de devis sur www.icodk.fr</strong></p>
     </section>
   </main>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+          ['telechargement_brochure_adultes', 'telechargement_brochure_adultes'].forEach(tag => {
+                document.getElementById(tag).addEventListener('click', event => { plausible(tag); });
+              });
+        }, false);
+  </script>
 
   </body>
 </html>
