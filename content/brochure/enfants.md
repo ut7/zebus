@@ -198,15 +198,15 @@ resultats: >-
 
 
   Tu ne te rends pas compte de ce qui est dangereux, normal ou anormal, et tu
-  fais trop confiance. Sois plus méfiant(e), repasse ton permis avec tes
-  parents !
+  fais trop confiance. Sois plus méfiant(e), repasse ton permis avec une personne
+  en qui tu as confiance !
 
 
   ![Rectangle](../../uploads/rectangle.gif)
 
 
   Tu hésites souvent. Attention, sois plus prudent(e), ne crois pas tout ce
-  qu'on te dit et ose dire non. Parle avec tes parents puis repasse ton permis.
+  qu'on te dit et ose dire non. Parle avec tes parents puis repasse ton permis!
 
 
   ![Triangle](../../uploads/triangle.gif)
@@ -215,14 +215,14 @@ resultats: >-
   Tu sais que des adultes sont là pour te protéger et tu sais refuser les
   situations dangereuses. Tu n'as pas peur de parler des choses qui te gênent.
   Bravo ! Tu as ton permis avec les félicitations du jury. Tu as même le droit
-  de le faire passer à tes copains et copines.
+  de le faire passer à tes copains et copines!
 
 image_bravo: ../../uploads/enfants-12.jpg
 conseils:
   - Connais par coeur ton adresse et ton numéro de téléphone.
   - Discute avec tes parents des endroits où tu peux te réfugier si tu as besoin d’aide (dans la rue, un magasin par exemple).
   - Parle avec tes parents des gens que tu rencontres, des endroits où tu vas jouer et des choses qui t'inquiètent.
-  - Si on t'oblige à faire des gestes sexuels ou qu'on ne respecte pas ton corps, tu dois en parler pour qu'on te protège.
+  - Si on t'oblige à faire des gestes sexuels ou qu'on ne respecte pas ton corps, ne te laisse pas faire, parles en vite à quelqu'un qui t'écoute et va te protéger.
   - N’hésite pas à parler de ce qui te gêne, même si tu as honte ou peur, même si on t’a demandé de ne rien dire à personne.
   - Insiste si on n’écoute pas ce que tu as envie de dire, ou trouve quelqu’un d’autre jusqu’à ce qu’on te croie.
   - Le 119 est un numéro gratuit et anonyme que tu peux appeler pour te faire aider par des grandes personnes.
