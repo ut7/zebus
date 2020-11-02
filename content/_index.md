@@ -1,9 +1,9 @@
 ---
-title: Les agressions sexuelles envers les enfants
+title: Les violences sexuelles envers les enfants
 subtitle: Comment leur en parler ?
 punchline: Un enfant averti aura moins peur d'en parler !
 ---
-**Pas facile** d’aborder le problème des agressions sexuelles avec un enfant.
+**Pas facile** d’aborder le problème des violences sexuelles avec un enfant.
 Pourtant il faut lui en parler et le rassurer en lui disant que les adultes
 sont là pour le protéger.
 
@@ -21,7 +21,7 @@ l’agression vient rarement des personnes inconnues mais généralement de
 quelqu'un que l’enfant connaît bien et qui abuse de sa confiance. C’est
 important de lui expliquer que personne n’a le droit de lui faire ça !
 
-En sachant ce qu’est une agression sexuelle, l’enfant reconnaîtra mieux les
+En sachant ce que sont les agressions sexuelles, l’enfant reconnaîtra mieux les
 situations normales et les abus. Il en parlera plus facilement si ça lui
 arrive.
 
