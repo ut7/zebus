@@ -4,13 +4,13 @@ layout: adultes
 sections:
 - template: section
   image: "../../adultes.jpg"
-  alt: "Couverture de la brochure avec le titre « Permis de prudence pour les adultes ». Sous-titre : pour parler aux enfants des aggressions sexuelles"
+  alt: "Couverture de la brochure avec le titre « Permis de prudence pour les adultes ». Sous-titre : pour parler aux enfants des violences sexuelles"
 - template: section
   image: "../../uploads/adultes-01.jpg"
   bulle: ''
   texte-bulle: ''
   icone: "../../uploads/zebus.png"
-  titre: Pourquoi parler des agressions sexuelles ?
+  titre: Pourquoi parler des violences sexuelles ?
   texte: |-
     Pas facile d’aborder cette question avec un enfant. Pourtant il faut lui **en parler et le rassurer en lui disant que les adultes sont là pour le protéger.**
 
@@ -28,7 +28,7 @@ sections:
     abuse de sa confiance. C’est important de lui expliquer que personne n’a
     le droit de lui faire ça !
 
-    **En sachant ce qu’est une agression sexuelle, l’enfant reconnaîtra mieux
+    **En sachant ce que sont les violences sexuelles, l’enfant reconnaîtra mieux
     les situations qui ne sont pas normales.**
 
     **Le Permis de prudence pour les adultes** explique comment en parler à l’enfant,
@@ -48,8 +48,8 @@ sections:
 
     > « Quand je serai grande, je me marierai avec toi, papa ! »
 
-    Profitez de ce genre de phrase pour respecter la place de l'enfant,
-    et redire les interdits entre enfants et adultes en matière de sexualité.
+    Profitez de ce genre de phrase pour redire que la sexualité entre adulte et enfant
+    est interdite et qu'on n'a pas le droit de se marier avec ses parents, ni ses frères et soeurs.
 
     > « Comment on fait les bébés ? »
 
@@ -246,7 +246,7 @@ sections:
   image: "../../uploads/adultes-07.jpg"
   bulle: "../../uploads/bulle-adulte-6.svg"
   texte_bulle: |-
-    ##### LES AGRESSIONS SEXUELLES SONT PUNIES PAR LA LOI.
+    ##### LES VIOLENCES SEXUELLES SONT PUNIES PAR LA LOI.
 
     La condamnation est encore plus sévère quand la victime est un enfant de moins de
     15 ans ou si l’agresseur est un parent ou un éducateur qui est une personne
@@ -256,13 +256,13 @@ sections:
     des consultations spécialisées pour se soigner.
 
   icone: "../../uploads/zebus.png"
-  titre: Lui expliquer que les agressions sexuelles sont interdites
+  titre: Lui expliquer que les violences sexuelles sont interdites
   texte: |-
 
-    Les agressions sexuelles ou abus sexuels sont des actes très graves par
+    Les violences sexuelles ou abus sexuels sont des actes très graves par
     lesquels un adulte ou un plus grand, pour son plaisir, **oblige un enfant à
     un acte sexuel qui n’est pas de son âge.** C’est un abus de pouvoir, c’est
-    une violence. Les agressions sexuelles sont :
+    une violence. Les violences sexuelles sont :
     l’exhibitionnisme, l’initiation sexuelle avec  des images pornos, les
     attouchements, le viol. Utiliser la nudité de l’enfant pour des images
     pornographiques ou prostituer des enfants pour de l’argent sont aussi
@@ -271,17 +271,17 @@ sections:
     **Les victimes sont-elles uniquement des filles ?**  
     **NON !** Les garçons aussi en sont victimes.
 
-    **Les agressions sexuelles n’existent-elles que dans les milieux défavorisés ?**  
+    **Les violences sexuelles n’existent-elles que dans les milieux défavorisés ?**  
     **NON !** Toutes les classes sociales sont concernées.
 
     **Une agression sexuelle est-elle toujours obtenue par la force ?**  
     **NON !** Elles sont très souvent obtenues par la séduction, des cadeaux, du
     chantage, des menaces en exigeant le secret.
 
-    **Les agressions sexuelles sont-elles uniquement commises par des pédophiles rencontrés dans la rue ?**  
+    **Les violences sexuelles sont-elles uniquement commises par des pédophiles rencontrés dans la rue ?**  
     **NON !** Ces actes sont commis le plus souvent par des hommes proches de
     l’enfant, même parfois par des adolescents dans le cadre familial ou
-    éducatif. On parle d’inceste pour les agressions sexuelles commises par un membre de la
+    éducatif. On parle d’inceste pour les violences sexuelles commises par un membre de la
     famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
 
 - template: section
@@ -292,7 +292,7 @@ sections:
 
     ##### ÉCOUTEZ-LE !
 
-    Quand un enfant vous parle d’une situation évoquant une agression sexuelle,
+    Quand un enfant vous parle d’une situation évoquant des violences sexuelles,
     il ne sait pas forcément vous dire comment ça s'est passé et qui l'a
     agressé. Il a besoin de temps et peut avoir du mal à vous expliquer.
     Ecoutez-le sans le harceler de questions, sans chercher à avoir des détails
@@ -345,7 +345,7 @@ sections:
 
     Après l'avoir écouté, félicitez-le. Expliquez-lui que ce qu'il a dit est
     important et qu'il a bien fait d'en parler. Dites-lui que ce n'est pas de
-    sa faute.  Rappelez-lui pourquoi les agressions sexuelles sont interdites.
+    sa faute.  Rappelez-lui pourquoi les violences sexuelles sont interdites.
     N'hésitez pas à écrire ce qu'il vous a dit pour vous en souvenir !
 
     On n’a pas le droit de laisser un enfant en danger et dans la peur de
@@ -357,7 +357,7 @@ sections:
     choses aussi graves.
 
     Pour éviter des complications psychologiques dans l’enfance ou à l’âge
-    adulte, tout enfant victime d’agression sexuelle doit rencontrer rapidement 
+    adulte, tout enfant victime de violences sexuelles doit rencontrer rapidement 
     un médecin pour qu’il puisse l’examiner et comprendre comment il réagit à ce
     qu’il a subi.
 
@@ -371,10 +371,10 @@ sections:
 texte_footer: |-
 
   Cette brochure est faite avec des images et des mots simples pour aider les
-  adultes et les enfants à repérer les agressions sexuelles, à savoir les
+  adultes et les enfants à repérer les violences sexuelles, à savoir les
   éviter et en parler ensemble.
 
-  Les agressions sexuelles peuvent être traumatisantes pour
+  Les violences sexuelles peuvent être traumatisantes pour
   l’enfant, physiquement et psychologiquement. Ce sont des infractions graves.
   Elles sont interdites et punies par la loi. Quand ça arrive autour de soi, on est
   inquiet et déstabilisé. Si vous êtes confronté à ce problème, ne restez pas seul.
