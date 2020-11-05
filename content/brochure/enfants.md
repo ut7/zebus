@@ -216,7 +216,15 @@ resultats: >-
   situations dangereuses. Tu n'as pas peur de parler des choses qui te gênent.
   Bravo ! Tu as ton permis avec les félicitations du jury. Tu as même le droit
   de le faire passer à tes copains et copines !
+attention: |-
+  Attention, si tu subis ou si tu as subi déjà des violences sexuelles…  
 
+  Tu n'en avais jamais entendu parler ?  
+  Tu ne savais pas ce que c'était ?  
+
+  **Dis-le vite à quelqu'un qui t'écoute  
+  et qui peut t'aider !**
+image_attention: ../../uploads/attention-danger.jpg
 image_bravo: ../../uploads/enfants-12.jpg
 conseils:
   - Connais par coeur ton adresse et ton numéro de téléphone.

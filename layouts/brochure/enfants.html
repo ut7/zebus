@@ -22,8 +22,12 @@
         <div class="resultats">{{ .Params.resultats | markdownify }}</div>
       </div>
     </section>
+    <section class="section-attention">
+      <img class="icone" src="{{ .Params.image_attention }}">
+      <div class="contenu">{{ .Params.attention | markdownify }}</div>
+    </section>
     <section class="section-bravo">
-      <img class="image" src="{{ .Params.Image_bravo }}">
+      <img class="image" src="{{ .Params.image_bravo }}">
     </section>
     <section class="section-conseils">
       <h1>Petits conseils de prudence</h1>

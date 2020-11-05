@@ -16,6 +16,14 @@
     margin-bottom: 5rem;
     max-width: 40rem;
     padding: 1rem 4.5rem 2rem 4.5rem;
+
+    .couverture {
+      margin-bottom: 5rem;
+    }
+
+    .icone {
+      width: 7rem;
+    }
   }
 
   h1, h2 {
@@ -26,11 +34,6 @@
   .section-introduction {
 
     width: 100%;
-
-    .icone {
-      margin-top: 5rem;
-      width: 7rem;
-    }
 
     .titre {
       font-size: 3rem;
@@ -154,6 +157,16 @@
           font-size: 1.5rem;
         }
       }
+    }
+  }
+
+  .section-attention {
+    width: 100%;
+    text-align: center;
+    .contenu {
+      width: 80%;
+      margin: auto;
+      font-size: 1.5rem;
     }
   }
 
