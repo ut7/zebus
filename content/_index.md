@@ -21,7 +21,7 @@ l’agression vient rarement des personnes inconnues mais généralement de
 quelqu'un que l’enfant connaît bien et qui abuse de sa confiance. C’est
 important de lui expliquer que personne n’a le droit de lui faire ça !
 
-En sachant ce que sont les agressions sexuelles, l’enfant reconnaîtra mieux les
+En sachant ce que sont les violences sexuelles, l’enfant reconnaîtra mieux les
 situations normales et les abus. Il en parlera plus facilement si ça lui
 arrive.
 
