@@ -225,7 +225,7 @@ attention: |-
   **Dis-le vite à quelqu'un qui t'écoute  
   et qui peut t'aider !**
 image_attention: ../../uploads/attention-danger.jpg
-image_bravo: ../../uploads/enfants-12.jpg
+image_bravo: ../../uploads/bravo-fin.jpg
 conseils:
   - Connais par coeur ton adresse et ton numéro de téléphone.
   - Discute avec tes parents des endroits où tu peux te réfugier si tu as besoin d’aide (dans la rue, un magasin par exemple).
