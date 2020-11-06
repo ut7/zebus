@@ -1,6 +1,6 @@
 # Permis de prudence
 
-Site web de prévention des agressions sexuelles envers les enfants
+Site web de prévention des violences sexuelles envers les enfants
 
 ## Licence
 
