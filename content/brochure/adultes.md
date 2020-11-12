@@ -274,7 +274,7 @@ sections:
     **Les violences sexuelles n’existent-elles que dans les milieux défavorisés ?**  
     **NON !** Toutes les classes sociales sont concernées.
 
-    **Une agression sexuelle est-elle toujours obtenue par la force ?**  
+    **Les violences sexuelles sont-elles toujours commises par la force ?**  
     **NON !** Elles sont très souvent obtenues par la séduction, des cadeaux, du
     chantage, des menaces en exigeant le secret.
 
