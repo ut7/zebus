@@ -35,6 +35,7 @@
       font-weight: 300;
       font-style: italic;
       font-size: 2rem;
+      padding-right: 3rem;
     }
 
     @include breakpoint(mobileonly) {
