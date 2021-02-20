@@ -1,6 +1,6 @@
 ---
-title: Les violences sexuelles envers les enfants
-subtitle: Comment leur en parler ?
+title: NON aux violences sexuelles sur les enfants !
+subtitle: Comment leur en parler pour les protèger ?
 punchline: Un enfant averti aura moins peur d'en parler !
 ---
 **Pas facile** d’aborder le problème des violences sexuelles avec un enfant.
