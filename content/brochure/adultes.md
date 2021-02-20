@@ -98,7 +98,7 @@ sections:
     **L’enfant est une personne mais pas une grande personne. S’il est curieux du
     monde des adultes, il ne le comprend pas toujours.**
 
-    Attention de ne pas le confronter à des situations qui le choquent : les
+    Attention de ne pas le confronter à des situations qui le choquent : les
     disputes entre adultes, les images violentes, la nudité. Ça peut
     l’impressionner et lui faire peur.
 
@@ -107,7 +107,7 @@ sections:
 
     Aidez l’enfant à comprendre la différence des sexes et des générations.
     Vous pouvez lui parler de la nature, des âges de la vie, des personnes de
-    sa famille : les papas, les mamans, les frères et sœurs, les
+    sa famille : les papas, les mamans, les frères et sœurs, les
     grands-parents, les beaux-pères, les belles-mères, les demi-frères et les
     demi-sœurs… les plus jeunes, les plus grands, les ados et les bébés. Si
     chacun a sa place, l’enfant comprend que chaque âge a ses plaisirs : jouer,
@@ -147,7 +147,7 @@ sections:
     connaît bien.
 
     Des règles de sécurité claires aident l’enfant à être sûr de
-    lui et indépendant : il peut alors rester spontané et affectueux.
+    lui et indépendant : il peut alors rester spontané et affectueux.
 
     Donnez-lui des explications simples sur les situations anormales ou
     dangereuses. Parlez-lui, par exemple, de la différence entre quelqu’un qui
@@ -168,7 +168,7 @@ sections:
 
     ##### LES TROIS QUESTIONS.
     Si quelqu’un lui demande de le suivre, dites-lui qu’il doit se poser ces
-    trois questions :
+    trois questions :
 
     1. Est-ce que tu as envie de dire « oui » ou « non » à cette proposition ?
     2. Est-ce que tes parents sauront où tu es, si tu acceptes ?
@@ -282,7 +282,7 @@ sections:
     **NON !** Ces actes sont commis le plus souvent par des hommes proches de
     l’enfant, même parfois par des adolescents dans le cadre familial ou
     éducatif. On parle d’inceste pour les violences sexuelles commises par un membre de la
-    famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
+    famille (par exemple : père, beau-père, frère, cousin, oncle, grand-père).
 
 - template: section
   image: "../../uploads/adultes-08.jpg"
@@ -328,13 +328,13 @@ sections:
 
     ##### À QUI S’ADRESSER ?
 
-    Des professionnels sauront vous écouter et vous orienter :
+    Des professionnels sauront vous écouter et vous orienter :
 
     * Votre médecin, votre pédiatre, le médecin des urgences.
     * Le centre de consultation médico-psychologique pour enfants.
     * L’antenne du conseil départemental (UTPAS), à la mairie.
     * Les associations de protections de l’enfance.
-    * L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière
+    * L’école : la directrice, la maîtresse, l’assistante sociale, l’infirmière
     et le médecin scolaire.
     * La brigade des mineurs (police) ou la gendarmerie nationale.
     * Le 119, numéro vert, anonyme et gratuit.
