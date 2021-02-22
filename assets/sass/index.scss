@@ -159,6 +159,9 @@
 
       p {
         margin-top: 0;
+        @include breakpoint(mobileonly) {
+          font-size: 0.8rem;
+        }
       }
 
       .logos {
