@@ -116,7 +116,7 @@ autorisé ou interdit, et pour en discuter avec eux.</p>
   </main>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-          ['telechargement_brochure_adultes', 'telechargement_brochure_enfants'].forEach(tag => {
+          ['telechargement_brochure_adultes', 'telechargement_brochure_enfants', 'telechargement_affiche'].forEach(tag => {
                 document.getElementById(tag).addEventListener('click', event => { plausible(tag); });
               });
         }, false);
