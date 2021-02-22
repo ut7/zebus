@@ -20,7 +20,7 @@
           <a class="couverture" href="brochure/adultes">
             <img src="./adultes.jpg" alt="Permis de prudence pour les adultes : pour parler aux enfants des aggressions sexuelles">
           </a>
-          <div class="boutons">
+          <div class="bouton-bulle">
             <a id='telechargement_brochure_adultes' class="bouton-pdf" href="permis_de_prudence_pour_les_adultes.pdf">Téléchager le pdf ▼</a>
           </div>
         </div>
@@ -28,20 +28,25 @@
           <a class="couverture" href="brochure/enfants">
             <img src="./enfants.jpg" alt="Permis de prudence pour les enfants : pour parler des aggressions sexuelles">
           </a>
-          <div class="boutons">
+          <div class="bouton-bulle">
             <a id='telechargement_brochure_enfants' class="bouton-pdf" href="permis_de_prudence_pour_les_enfants.pdf">Téléchager le pdf ▼</a>
           </div>
         </div>
       </div>
       {{ partial "blocks/credits" . }}
-      <a class="foot-text" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">Diffusion autorisée sans modification et sans but commercial</a>
-      <p class="foot-text"><strong>Pour commander les brochures sous forme de livrets, contacter
-      l’imprimerie ICO Dunkerque. Demande de devis sur www.icodk.fr</strong></p>
+      <div class="footer">
+        <a class="foot-text" rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr">Diffusion autorisée sans modification et sans but commercial</a>
+        <div class="bouton-bulle">
+          <a id='telechargement_affiche' class="bouton-pdf" href="affiche_permis_de_prudence_adultes_et_enfants.pdf">Téléchager l'affiche ▼</a>
+        </div>
+        <p class="foot-text"><strong>Pour commander les brochures sous forme de livrets, contacter
+          l’imprimerie ICO Dunkerque. Demande de devis sur <a href="https://www.icodk.fr" target="blank">www.icodk.fr</a></strong></p>
+      </div>
     </section>
   </main>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-          ['telechargement_brochure_adultes', 'telechargement_brochure_enfants'].forEach(tag => {
+          ['telechargement_brochure_adultes', 'telechargement_brochure_enfants', 'telechargement_affiche'].forEach(tag => {
                 document.getElementById(tag).addEventListener('click', event => { plausible(tag); });
               });
         }, false);
