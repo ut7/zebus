@@ -131,6 +131,25 @@
 
       .couverture {
         width: 100%;
+        position: relative;
+
+        &::after {
+          position: absolute;
+          content: "▶";
+          font-size: 2rem;
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          text-align: center;
+          color: grey;
+          background-color: white;
+          opacity: 0.8;
+        }
+
+        &:hover::after {
+          opacity: 0.9;
+          color: black;
+        }
       }
 
       .couverture:hover {
