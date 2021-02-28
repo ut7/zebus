@@ -133,22 +133,21 @@
         width: 100%;
         position: relative;
 
-        &::after {
+        .ouvrir-brochure {
           position: absolute;
-          content: "▶";
-          font-size: 2rem;
-          left: 0;
-          bottom: 0;
-          width: 100%;
-          text-align: center;
-          color: grey;
+          top: 0.7rem;
+          left: 0.7rem;
+          width: 15%;
           background-color: white;
-          opacity: 0.8;
+          opacity: 0.7;
+          border-radius: 0.5rem;
+          border: solid 1px grey;
         }
 
-        &:hover::after {
-          opacity: 0.9;
-          color: black;
+        &:hover {
+          .ouvrir-brochure {
+            opacity: 1;
+          }
         }
       }
 
