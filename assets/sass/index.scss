@@ -178,6 +178,7 @@
 
       p {
         margin-top: 0;
+        font-size: 1rem;
         @include breakpoint(mobileonly) {
           font-size: 0.8rem;
         }
