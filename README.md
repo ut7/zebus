@@ -11,6 +11,6 @@ Diffusion des images et du texte autorisée [sans modification et sans but comme
 [cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fr
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
 
-## Deployement
+## Déploiement
 
 ./publish_to_ghpages.sh
